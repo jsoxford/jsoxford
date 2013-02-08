@@ -1,4 +1,6 @@
 jsoxford.github.com
 ===================
 
-The website
+This is going to be hosted through github pages, things need built before comitting:
+
+styles - `lessc assets/style.less > assets/style.css`

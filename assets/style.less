@@ -1,0 +1,48 @@
+@import 'bootstrap/bootstrap';
+@import 'bootstrap/responsive';
+
+h1{
+	line-height: 150%;
+	text-align: right;
+	width:6em;
+	margin:0 0 1em 0;
+	font-weight: normal;
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight: normal;
+}
+
+.logo{
+	font-size:3em;
+
+	background-color:#f3df49;
+	display: block;
+	width:2em;
+	height:2em;
+	position: relative;
+	span{
+		font-family: arial;
+		position: absolute;
+		right:0;
+		bottom:0;
+		margin:.25em;
+	}
+}
+
+.svg .logo{
+	background-image: url(logo.svg);
+	span{
+		display: none;
+	}
+}
+
+@media (max-width: 767px) {
+	h1{
+		text-align:center;
+		width:100%;
+	}
+	.logo{
+		margin:auto;
+	}
+}
+
