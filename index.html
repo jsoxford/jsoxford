@@ -1,3 +1,6 @@
+---
+
+---
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,17 +13,27 @@
 	<div class="container">
 		<div class="row">
 			<div class="span4">
-				<h1>
-					<div class="logo">
-						<span>JS</span>
-					</div>
-					Oxford
-				</h1>
+				<div class="main-nav">
+					<h1>
+						<div class="logo">
+							<span>JS</span>
+						</div>
+						Oxford
+					</h1>
+					<h3>
+						<a class="pull-right" href="https://twitter.com/jsoxford">@jsoxford</a>
+					</h3>
+				</div>
 			</div>
 			<div class="span8">
-				<h2>Next Meet - 21st February</h2>
 
-				<p>Sign up on lanyrd if you want to come along</p>
+				{% for post in site.posts %}
+				
+				<h2>{{post.title}}</h2>
+
+				{{ post.content}}
+
+				{% endfor %}
 
 				<hr />
 

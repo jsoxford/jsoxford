@@ -1,3 +1,5 @@
+<!-- This is now inlined, because jekyll was having trouble giving it a mime-type -->
+
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 630 630">
 <g id="logo">
   <rect id="background" x="0" y="0" width="630" height="630" fill="#f3df49" />
