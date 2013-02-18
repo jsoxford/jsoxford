@@ -5,27 +5,32 @@
 <html>
 <head>
 	<title>JSOxford</title>
-	<script src="assets/modernizr.js"></script>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="assets/style.css">
 </head>
 <body>
 	<div class="container">
 		<div class="row">
-			<div class="span4">
-				<div class="main-nav">
-					<h1>
-						<div class="logo">
-							<span>JS</span>
-						</div>
+			<div class="span3 main-nav">
+				<h1>
+					<a href="/">
+						<span class="logo">
+							<img src="assets/js.png" />
+						</span>
 						Oxford
-					</h1>
-					<h3>
-						<a class="pull-right" href="https://twitter.com/jsoxford">@jsoxford</a>
-					</h3>
-				</div>
+					</a>
+				</h1>
+				<ul class="links">
+					<li>
+						<a href="https://twitter.com/jsoxford">@jsoxford</a>
+					</li>
+				</ul>
+				<hr />
+				<p>
+					JSOxford is a monthly get together just off Cowley Road.
+				</p>
 			</div>
-			<div class="span8">
+			<div class="span9">
 
 				{% for post in site.posts %}
 				
@@ -35,9 +40,7 @@
 
 				{% endfor %}
 
-				<hr />
 
-				<p>JSOxford is a monthly get together just off Cowley Road.</p>
 			</div>
 		</div>
 	</div>
