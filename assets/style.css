@@ -3084,7 +3084,7 @@ pre code {
 }
 .logo {
   background-color: #f3df49;
-  display: inline-block;
+  display: block;
 }
 @media (max-width: 767px) {
   .logo {
