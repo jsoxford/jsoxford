@@ -1,9 +1,9 @@
 ---
-title: 'Hello World - November 2012'
+title: 'Hello World - 15th November 2012'
 layout: post
 ---
 
-Our first jsOxford meet [- lanyrd](http://lanyrd.com/2012/jsoxford/)
+Our first JS Oxford meet [- lanyrd](http://lanyrd.com/2012/jsoxford/)
 
 
 * Ben spoke about taking tweets from the twitter streaming api, and displaying them on a map.
