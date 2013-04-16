@@ -38,9 +38,6 @@ a:focus {
   outline: thin dotted #333;
   outline: 5px auto -webkit-focus-ring-color;
   outline-offset: -2px;
-  outline: thin dotted #333;
-  outline: 5px auto -webkit-focus-ring-color;
-  outline-offset: -2px;
 }
 a:hover,
 a:active {
@@ -115,9 +112,6 @@ input[type="checkbox"] {
   cursor: pointer;
 }
 input[type="search"] {
-  -webkit-box-sizing: content-box;
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
   box-sizing: content-box;
@@ -208,9 +202,6 @@ textarea {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
 }
 body {
   margin: 0;
@@ -232,9 +223,6 @@ a:hover {
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
-  -webkit-border-radius: 6px;
-  -moz-border-radius: 6px;
-  border-radius: 6px;
 }
 .img-polaroid {
   padding: 4px;
@@ -244,21 +232,14 @@ a:hover {
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 .img-circle {
-  -webkit-border-radius: 500px;
-  -moz-border-radius: 500px;
-  border-radius: 500px;
   -webkit-border-radius: 500px;
   -moz-border-radius: 500px;
   border-radius: 500px;
 }
 .row {
   margin-left: -20px;
-  *zoom: 1;
   *zoom: 1;
 }
 .row:before,
@@ -364,7 +345,6 @@ a:hover {
 }
 .row {
   margin-left: -20px;
-  *zoom: 1;
   *zoom: 1;
 }
 .row:before,
@@ -471,7 +451,6 @@ a:hover {
 .row-fluid {
   width: 100%;
   *zoom: 1;
-  *zoom: 1;
 }
 .row-fluid:before,
 .row-fluid:after {
@@ -495,18 +474,6 @@ a:hover {
   display: block;
   width: 100%;
   min-height: 30px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  display: block;
-  width: 100%;
-  min-height: 30px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -667,7 +634,6 @@ a:hover {
 .row-fluid {
   width: 100%;
   *zoom: 1;
-  *zoom: 1;
 }
 .row-fluid:before,
 .row-fluid:after {
@@ -691,18 +657,6 @@ a:hover {
   display: block;
   width: 100%;
   min-height: 30px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  display: block;
-  width: 100%;
-  min-height: 30px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -872,11 +826,6 @@ a:hover {
   margin-right: auto;
   margin-left: auto;
   *zoom: 1;
-  *zoom: 1;
-  margin-right: auto;
-  margin-left: auto;
-  *zoom: 1;
-  *zoom: 1;
 }
 .container:before,
 .container:after {
@@ -917,7 +866,6 @@ a:hover {
 .container-fluid {
   padding-right: 20px;
   padding-left: 20px;
-  *zoom: 1;
   *zoom: 1;
 }
 .container-fluid:before,
@@ -1076,8 +1024,8 @@ ol.inline {
   margin-left: 0;
   list-style: none;
 }
-ul.inline  > li,
-ol.inline  > li {
+ul.inline > li,
+ol.inline > li {
   display: inline-block;
   padding-left: 5px;
   padding-right: 5px;
@@ -1096,7 +1044,6 @@ dd {
   margin-left: 10px;
 }
 .dl-horizontal {
-  *zoom: 1;
   *zoom: 1;
 }
 .dl-horizontal:before,
@@ -1122,9 +1069,6 @@ dd {
   width: 160px;
   clear: left;
   text-align: right;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -1154,9 +1098,6 @@ blockquote {
 }
 blockquote p {
   margin-bottom: 0;
-  font-size: 16px;
-  font-weight: 300;
-  line-height: 25px;
   font-size: 16px;
   font-weight: 300;
   line-height: 25px;
@@ -1202,12 +1143,8 @@ code,
 pre {
   padding: 0 3px 2px;
   font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
-  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
   font-size: 12px;
   color: #333333;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
@@ -1232,9 +1169,6 @@ pre {
   background-color: #f5f5f5;
   border: 1px solid #ccc;
   border: 1px solid rgba(0, 0, 0, 0.15);
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
@@ -1263,7 +1197,7 @@ pre code {
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
-@-ms-viewport  {
+@-ms-viewport {
   width: device-width;
 }
 .clearfix {
@@ -1289,9 +1223,6 @@ pre code {
   display: block;
   width: 100%;
   min-height: 30px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -1343,7 +1274,6 @@ pre code {
 @media (min-width: 1200px) {
   .row {
     margin-left: -30px;
-    *zoom: 1;
     *zoom: 1;
   }
   .row:before,
@@ -1449,7 +1379,6 @@ pre code {
   }
   .row {
     margin-left: -30px;
-    *zoom: 1;
     *zoom: 1;
   }
   .row:before,
@@ -1556,7 +1485,6 @@ pre code {
   .row-fluid {
     width: 100%;
     *zoom: 1;
-    *zoom: 1;
   }
   .row-fluid:before,
   .row-fluid:after {
@@ -1580,18 +1508,6 @@ pre code {
     display: block;
     width: 100%;
     min-height: 30px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    display: block;
-    width: 100%;
-    min-height: 30px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -1752,7 +1668,6 @@ pre code {
   .row-fluid {
     width: 100%;
     *zoom: 1;
-    *zoom: 1;
   }
   .row-fluid:before,
   .row-fluid:after {
@@ -1776,18 +1691,6 @@ pre code {
     display: block;
     width: 100%;
     min-height: 30px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    display: block;
-    width: 100%;
-    min-height: 30px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -2047,7 +1950,6 @@ pre code {
   .row {
     margin-left: -20px;
     *zoom: 1;
-    *zoom: 1;
   }
   .row:before,
   .row:after {
@@ -2152,7 +2054,6 @@ pre code {
   }
   .row {
     margin-left: -20px;
-    *zoom: 1;
     *zoom: 1;
   }
   .row:before,
@@ -2259,7 +2160,6 @@ pre code {
   .row-fluid {
     width: 100%;
     *zoom: 1;
-    *zoom: 1;
   }
   .row-fluid:before,
   .row-fluid:after {
@@ -2283,18 +2183,6 @@ pre code {
     display: block;
     width: 100%;
     min-height: 30px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    display: block;
-    width: 100%;
-    min-height: 30px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -2455,7 +2343,6 @@ pre code {
   .row-fluid {
     width: 100%;
     *zoom: 1;
-    *zoom: 1;
   }
   .row-fluid:before,
   .row-fluid:after {
@@ -2479,18 +2366,6 @@ pre code {
     display: block;
     width: 100%;
     min-height: 30px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    display: block;
-    width: 100%;
-    min-height: 30px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -2784,16 +2659,10 @@ pre code {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
   }
   .span12,
   .row-fluid .span12 {
     width: 100%;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -2811,18 +2680,6 @@ pre code {
     display: block;
     width: 100%;
     min-height: 30px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    display: block;
-    width: 100%;
-    min-height: 30px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -2958,16 +2815,10 @@ pre code {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
   }
   .nav-collapse .btn {
     padding: 4px 10px 4px;
     font-weight: normal;
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
@@ -3005,12 +2856,6 @@ pre code {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     border-radius: 0;
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    border-radius: 0;
-    -webkit-box-shadow: none;
-    -moz-box-shadow: none;
-    box-shadow: none;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
@@ -3036,9 +2881,6 @@ pre code {
     margin: 10px 0;
     border-top: 1px solid #f2f2f2;
     border-bottom: 1px solid #f2f2f2;
-    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.1);
-    -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.1);
-    box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.1);
     -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.1);
     -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.1);
     box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.1);
@@ -3087,8 +2929,16 @@ h6 {
   text-decoration: none;
 }
 .main-nav .links {
-  list-style: none;
-  font-size: 1.5em;
+  text-align: left;
+  font-size: 18px;
+}
+.main-nav .links dt {
+  font-size: 1.3em;
+  margin-bottom: 0.2em;
+}
+.main-nav .links dd {
+  margin-left: 0;
+  margin-bottom: 1em;
 }
 .logo {
   background-color: #f3df49;
