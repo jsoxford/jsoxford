@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: 25th September 2013
 ---
 
 This JS Oxford we have a special speaker coming to talk about cross platform automated testing your JS.
