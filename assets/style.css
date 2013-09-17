@@ -2959,3 +2959,11 @@ h6 {
     margin-bottom: 1.5em;
   }
 }
+.post-title {
+  background-color: #f3df49;
+  padding: .5em;
+  border-top: 5px solid #2e2e2c;
+}
+.post-title a {
+  color: #2e2e2c;
+}
