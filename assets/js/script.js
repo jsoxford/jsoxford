@@ -1,4 +1,3 @@
-
 var binding = ko.applyBindings(new IRCView());
 
 function IRCView(){
@@ -69,7 +68,7 @@ function IRCView(){
             //console.log(v.id)
             $rc.openDoc(v.id).then(function(doc){
                 var date = new Date(doc.date);
-                self.messages.push({
+                self.messages.unshift({
                     "name":doc.user.name,
                     "text":doc.text,
                     "time":date.toISOString()
