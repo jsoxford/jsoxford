@@ -3,7 +3,7 @@ title: 'Hello World - 15th November 2012'
 layout: post
 ---
 
-Our first JS Oxford meet [- lanyrd](http://lanyrd.com/2012/jsoxford/)
+<p class="lead">Our first JS Oxford meet <a href="http://lanyrd.com/2012/jsoxford/">- lanyrd</a></p>
 
 
 * Ben spoke about reading tweets with the twitter streaming api, and displaying them on a map more info [on his blog](http://benjaminbenben.com/2012/12/05/maptime.html).
