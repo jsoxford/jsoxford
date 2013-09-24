@@ -30,7 +30,7 @@ h1,h2,h3,h4,h5,h6{
 
 		text-align: left;
 		font-size: 18px;
-		
+
 		dt{
 			font-size: 1.3em;
 			margin-bottom: 0.2em;
@@ -49,7 +49,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 @media (max-width: 767px) {
-	
+
 	.logo{
 		margin: -20px -20px 20px -20px;
 		text-align: right;
@@ -72,9 +72,35 @@ h1,h2,h3,h4,h5,h6{
 	padding:.5em;
 	border-top:5px solid @textColor;
 	a{
-		color:@textColor;	
+		color:@textColor;
 		&.btn-primary{
 			color:#fff;
 		}
 	}
 }
+
+.messages-container-outer {
+    height: 95%;
+    overflow-x: scroll;
+
+	&::-webkit-scrollbar {
+	    width:4px;
+		color:@textColor;	
+	}
+
+	&::-webkit-scrollbar-thumb {
+	    background: #ccc;
+	}
+
+	.messages-container-inner {
+	    width: 98%;
+	}
+
+	.message {
+	/*            width: 95%;
+	    background: #f3df49;
+	    padding: 20px 10px;
+	    margin: 15px 0; */
+	}
+}
+
