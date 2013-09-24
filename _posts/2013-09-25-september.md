@@ -1,10 +1,10 @@
 ---
 published: true
-title: 25th September 2013
+title: 25th September 2013 <a href="http://lanyrd.com/2013/js-oxford-september" class="btn btn-large btn-primary pull-right">Attend On Lanyrd</a>
 layout: post
 ---
 
-This JS Oxford we have a special speaker coming to talk about cross platform automated testing your JS.
+<p class="lead">This month we have a special speaker coming to talk about cross platform automated testing your JS.</p>
 
 ## Appium: Javascript-powered Mobile Automation <small>by <a href="http://www.jonathanlipps.com/">Jonathan Lipps</a></small>
 
@@ -15,4 +15,3 @@ This JS Oxford we have a special speaker coming to talk about cross platform aut
 Jonathan Lipps has been making things out of code as long as he can remember.  He currently works as a Senior Software Developer for [Sauce Labs](http://saucelabs.com/), which enables him to write code for various open-source projects, like Appium (for which he's the primary architect and contributor). Jonathan has worked as a programmer in the startup world on and off for over a decade, and given talks on software development at conferences around the world, but is also passionate about academic discussion. Jonathan has master's degrees in philosophy and linguistics, from Stanford and Oxford respectively. Living in San Francisco, he's an avid homebrewer, rock climber, and writer on topics he considers vital, like the relationship of technology to what it means to be human.
 
 Lanyrd: [http://lanyrd.com/2013/js-oxford-september](http://lanyrd.com/2013/js-oxford-september)
-
