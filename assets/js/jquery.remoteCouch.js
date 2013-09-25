@@ -95,6 +95,10 @@
             if (last_seq) {
                 url = url + "&since=" + last_seq;
             }
+            
+            // OH GOD THE HORROR
+            (function request(){
+            
             $.ajax({
                 type: "GET",
                 url: url,
@@ -107,8 +111,11 @@
                     }
                     // And set up the re-run of the fetch query.
                     $.remoteCouch.longpoll(database, data.last_seq);
-                }
+                },
+                error:request
             })
+            
+            })();
         },
 
         changes: function(database, last_seq) {
