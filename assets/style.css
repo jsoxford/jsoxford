@@ -3846,3 +3846,13 @@ h6 {
 	    margin: 15px 0; */
 
 }
+
+
+iframe.responsive{
+  max-width: 100%;
+  margin:auto;
+}
+
+.slideframe{
+  text-align: center;
+}
