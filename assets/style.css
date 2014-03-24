@@ -2601,3 +2601,6 @@ h6 {
 	    padding: 20px 10px;
 	    margin: 15px 0; */
 }
+.cancelled {
+  text-decoration: line-through;
+}
