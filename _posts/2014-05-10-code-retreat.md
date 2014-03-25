@@ -12,14 +12,14 @@ The [JS Code Retreat](http://jscoderetreat.com/2/) is a day of pair-programming 
 ---
 #### What do I need to bring?
 
-Just your good self and a laptop. If you've got a ready-to-go environment all the better, but if not we'd recommend [http://www.tddbin.com/](TDDBin).
+Just your good self and a laptop. If you've got a ready-to-go environment all the better, but if not we'd recommend [TDDBin](http://www.tddbin.com/).
 
 We'll provide drinks and lunch!
 
 ---
 #### How much does it cost?
 
-We take payment in fun, effort and brainpower. There is no entry fee, you just need to a href="http://lanyrd.com/2014/jsoxford-coderetreat/attendees/">RSVP on Lanyrd</a>.
+We take payment in fun, effort and brainpower. There is no entry fee, you just need to a [RSVP on Lanyrd](http://lanyrd.com/2014/jsoxford-coderetreat/attendees/).
 
 ---
 #### Where? 
