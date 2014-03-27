@@ -14,6 +14,8 @@ layout: post
 
 The [JS Code Retreat](http://jscoderetreat.com/2/) is a day of pair-programming around a common programming challenge. Over 5 to 6 45-minute programming sessions you'll get to work with a variety of people and work on improving your day-to-day coding, whether it's TDD, DRY, naming, or whatever. At the end of each session we'll regroup and share what we've learned. 
 
+For a nice introduction to code retreat and why it's a great idea, [check out this video](http://player.vimeo.com/video/18955165?title=0&amp;byline=0&amp;portrait=0).
+
 ### What do I need to bring?
 
 Just your good self and a laptop. If you've got a ready-to-go environment all the better, but if not we'd recommend [TDDBin](http://www.tddbin.com/).
