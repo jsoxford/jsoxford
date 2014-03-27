@@ -4,9 +4,16 @@ title: 10th May JS Code Retreat <a href="http://lanyrd.com/2014/jsoxford-coderet
 layout: post
 ---
 
+## We're very excited to be part of JavaScript&nbsp;CodeRetreat
+
+[![JSCR](/img/jscoderetreat.png)](http://jscoderetreat.com/2/)
+
+---
+
 <p class="lead">Write better code, eat better food&hellip; The JavaScript code retreat is a chance to hone your programming skills without the pressure of Getting Things Done.</p>
 
 ---
+
 The [JS Code Retreat](http://jscoderetreat.com/2/) is a day of pair-programming around a common programming challenge. Over 5 to 6 45-minute programming sessions you'll get to work with a variety of people and work on improving your day-to-day coding, whether it's TDD, DRY, naming, or whatever. At the end of each session we'll regroup and share what we've learned. 
 
 ---
