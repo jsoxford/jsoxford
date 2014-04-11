@@ -4,7 +4,7 @@ title: 10th May JS Code Retreat <a href="http://lanyrd.com/2014/jsoxford-coderet
 layout: post
 ---
 
-## We're very excited to be part of [JavaScript&nbsp;CodeRetreat](jscoderetreat.com/2/)
+## We're very excited to be part of [JavaScript&nbsp;CodeRetreat](http://jscoderetreat.com/2/)
 
 [![JSCR](/img/jscoderetreat.png)](http://jscoderetreat.com/2/)
 
