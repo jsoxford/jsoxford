@@ -16,12 +16,12 @@ layout: post
 > Clojurescript is a dialect of lisp that compiles to Javascript. In this talk, we will go about making a basic game from scratch. Along the way, we’ll learn about setting up Clojurescript projects, using the Light Table IDE and how to design a game using immutable data structures. I’ll also explain why Clojurescript is useful for front-end web development.
 
 
-## Getting functional with Clojurescript
+## Naming Things
 ### by [Gil Gonçalves](http://lumbercoder.com/) <small><a href="https://twitter.com/intent/user?screen_name=lurst">@lurst</a></small>
 
 > "There are only two hard things in Computer Science: cache invalidation and naming things." -- Phil Karlton
 
-> In this talk, I will talk about naming things, telling you why is it hard to name, how to get better at naming and this will lead you to be an even better Software Developer.
+In this talk, I will talk about naming things, telling you why is it hard to name, how to get better at naming and this will lead you to be an even better Software Developer.
 
 
 ---
