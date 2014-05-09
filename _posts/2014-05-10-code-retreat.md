@@ -10,6 +10,23 @@ layout: post
 
 ---
 
+<div class="well" id="hello-attendees">
+  <h3>Hello Attendees!</h3>
+
+  <p>We're glad you're coming along, it's going to be a great day!</p>
+
+  <p>We'll be starting <strong>promptly</strong> at <strong>8.30AM</strong> (the early start is so we can linked up to code retreats in Spain and Germany) - there will be pastries and drinking coffee from 8, so come earlier if you're hungry.</p>
+
+  <p>The venue is <a href="http://www.whiteoctober.co.uk/">White October</a> which is just off Cowley Road - there is parking available.</p>
+
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19761.642124090096!2d-1.240837!3d51.74757!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xea3a35e1b30ddba4!2sWhite+October!5e0!3m2!1sen!2sus!4v1399641425064" height="450" frameborder="0" style="border:0; width:100%"><!-- --></iframe>
+
+  <p>If you have any problems on the day - call either Ben on 07540838982, or Ryan on 07841757984</p>
+
+</div>
+
+---
+
 <p class="lead">Write better code, eat better food&hellip; The JavaScript code retreat is a chance to hone your programming skills without the pressure of Getting Things Done.</p>
 
 The [JS Code Retreat](http://jscoderetreat.com/2/) is a day of pair-programming around a common programming challenge. Over 5 to 6 45-minute programming sessions you'll get to work with a variety of people and work on improving your day-to-day coding, whether it's TDD, DRY, naming, or whatever. At the end of each session we'll regroup and share what we've learned.
