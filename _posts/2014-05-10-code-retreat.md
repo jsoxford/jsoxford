@@ -11,18 +11,25 @@ layout: post
 ---
 
 <div class="well" id="hello-attendees">
-  <h3>Hello Attendees!</h3>
-
-  <p>We're glad you're coming along, it's going to be a great day!</p>
-
-  <p>We'll be starting <strong>promptly</strong> at <strong>8.30AM</strong> (the early start is so we can linked up to code retreats in Spain and Germany) - there will be pastries and drinking coffee from 8, so come earlier if you're hungry.</p>
-
-  <p>The venue is <a href="http://www.whiteoctober.co.uk/">White October</a> which is just off Cowley Road - there is parking available.</p>
-
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19761.642124090096!2d-1.240837!3d51.74757!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xea3a35e1b30ddba4!2sWhite+October!5e0!3m2!1sen!2sus!4v1399641425064" height="450" frameborder="0" style="border:0; width:100%"><!-- --></iframe>
-
-  <p>If you have any problems on the day - call either Ben on 07540838982, or Ryan on 07841757984</p>
-
+  <h3>Thanks for making it a success!</h3>
+  <p>The first Oxford JS code retreat went really well in spite of a very early start. Pastries, coffee and burritos flowed, and we had some good discussions in the retrospectives and afterwards in the pub.</p>
+  <p>Here are a few links from the day:
+  <ul>
+      <li><a href="https://www.flickr.com/photos/spikeheap/sets/72157644679033713/">Photos from the day on Flickr</a></li>
+      <li><a href="https://speakerdeck.com/spikeheap/javascript-code-retreat-oxford-may-2014">The slides</a></li>
+      <li><a href="https://www.surveymonkey.com/s/Y8P3KC2">A survey for attendees</a></li>
+      <li><a href="http://jscoderetreat.com/2/">The session list</a></li>
+      <li><a href="http://tddbin.com">TDDBin</a></li>
+  </ul>
+  </p>
+  <p>We're really excited about the possibility for variations of the code retreat theme, in particular:
+  <ul>
+      <li>Mixing up Python, Ruby &amp; Javascript developers for a cultural exchange</li>
+      <li>Focus on levelling-up JS: less focus on TDD, instead constrain the approach differently for each session to use 'the best bits' of JS</li>
+      <li>Focus on functional programming</li>
+  </ul>
+  If you're excited too or have ideas for how we could make it better, let us know!
+  </p>
 </div>
 
 ---
