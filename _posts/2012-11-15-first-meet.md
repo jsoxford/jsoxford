@@ -1,5 +1,5 @@
 ---
-title: 'Hello World - 15th November 2012'
+title: Hello World - 15th November 2012
 layout: post
 ---
 

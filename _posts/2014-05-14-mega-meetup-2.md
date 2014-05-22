@@ -1,8 +1,10 @@
 ---
 published: true
-title: 14th May MegaMeetup#2 <a href="http://lanyrd.com/2014/jsoxpy/" class="btn btn-large btn-primary pull-right">Attend On Lanyrd</a>
+title: 14th May MegaMeetup#2
 layout: post
 ---
+
+<a href="http://lanyrd.com/2014/jsoxpy/" class="btn btn-primary">Attend On Lanyrd</a>
 
 ### As part of [digital oxford week](http://www.digitaloxford.com/weekmay2014/) we're teaming up with [Oxford Python](https://twitter.com/oxfordpython) for [another](/2013/october/) mega-meetup
 

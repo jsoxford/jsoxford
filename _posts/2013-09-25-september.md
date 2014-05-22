@@ -1,8 +1,10 @@
 ---
 published: true
-title: 25th September 2013 <a href="http://lanyrd.com/2013/js-oxford-september" class="btn btn-large btn-primary pull-right">Attend On Lanyrd</a>
+title: 25th September 2013
 layout: post
 ---
+
+<a href="http://lanyrd.com/2013/js-oxford-september" class="btn btn-primary">Attend On Lanyrd</a>
 
 <p class="lead">This month we have a special speaker coming to talk about cross platform automated testing your JS.</p>
 

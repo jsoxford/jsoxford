@@ -1,8 +1,10 @@
 ---
 published: true
-title: 10th May JS Code Retreat <a href="http://lanyrd.com/2014/jsoxford-coderetreat" class="btn btn-large btn-primary pull-right">Attend On Lanyrd</a>
+title: 10th May JS Code Retreat
 layout: post
 ---
+
+<a href="http://lanyrd.com/2014/jsoxford-coderetreat" class="btn btn-primary">Attend On Lanyrd</a>
 
 ## We're very excited to be part of [JavaScript&nbsp;CodeRetreat](http://jscoderetreat.com/2/)
 
