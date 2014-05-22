@@ -5888,7 +5888,7 @@ body {
 }
 .callout {
   background: #eee;
-  border: dashed 2px #ddd;
+  border-left: solid 2px #ddd;
   margin-bottom: 15px;
   padding: 15px;
 }
