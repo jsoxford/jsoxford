@@ -5787,7 +5787,6 @@ button.close {
 }
 .post-title > a {
   color: #000;
-  display: block;
 }
 .post-title > a:hover {
   border-color: #444;
