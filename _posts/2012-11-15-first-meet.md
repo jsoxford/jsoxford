@@ -1,6 +1,7 @@
 ---
 title: Hello World - 15th November 2012
 layout: post
+lanyrd: 2012/jsoxford/
 ---
 
 <p class="lead">Our first JS Oxford meet <a href="http://lanyrd.com/2012/jsoxford/">- lanyrd</a></p>
