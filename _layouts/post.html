@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
-<h2 class="post-title">{{page.title}}</h2>
+
+<h2 class="post-title">
+	{{page.title}}
+	{% if page.lanyrd != null %}
+		<small>
+			<a href="http://lanyrd.com/{{page.lanyrd}}" class="icon-lanyrd"></a>
+		</small>
+	{% endif %}
+</h2>
 
 {{ content }}

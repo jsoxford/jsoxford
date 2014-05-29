@@ -8,110 +8,82 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="/assets/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,700|Oswald:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
     <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="JS Oxford Posts">
 </head>
 <body>
+    <header class="site__header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-xs-6">
+                    <a href="/" class="logo">
+                        <img src="/img/js.png" width="55"  height="55" alt="JS"/>
+                    </a>
+                </div>
+                
+                <div class="col-md-4 col-md-offset-4 col-xs-6">
+                    <ul class="nav--social list-unstyled list-inline">
+                        <li>
+                            <a href="https://github.com/jsoxford">
+                                <span class="icon-github"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/intent/user?screen_name=jsoxford">
+                                <span class="icon-twitter"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/irc">irc</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
     <div class="container">
         <div class="row">
-            <div class="span3 main-nav">
-                <h1>
-                    <a href="/">
-                        <span class="logo">
-                            <img src="/assets/js.png" width="370"  height="370" alt="JS"/>
-                        </span>
-                        Oxford
-                    </a>
-                </h1>
 
-                <p>
-                    monthly get together near Cowley Road
-                </p>
-
-                <hr/>
-
-                <p>
-                    <!-- Begin MailChimp Signup Form -->
-                    <style type="text/css">
-                    /* MailChimp Form Embed Code - Slim - 08/17/2011 */
-                    #mc_embed_signup form {display:block; position:relative; text-align:left;}
-                    #mc_embed_signup h2 {font-weight:bold; padding:0; margin:15px 0; font-size:1.4em;}
-                    #mc_embed_signup input {border:1px solid #999; -webkit-appearance:none;}
-                    #mc_embed_signup input[type=checkbox]{-webkit-appearance:checkbox;}
-                    #mc_embed_signup input[type=radio]{-webkit-appearance:radio;}
-                    #mc_embed_signup input:focus {border-color:#333;}
-                    #mc_embed_signup .button {clear:both; background-color: #aaa; border: 0 none; border-radius:4px; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: bold; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding:0; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
-                    #mc_embed_signup .button:hover {background-color:#777;}
-                    #mc_embed_signup .small-meta {font-size: 11px;}
-                    #mc_embed_signup .nowrap {white-space:nowrap;}     
-                    #mc_embed_signup .clear {clear:none; display:inline;}
-
-                    #mc_embed_signup label {display:block; font-size:16px; padding-bottom:10px; font-weight:bold;}
-                    #mc_embed_signup input.email {display:block; padding:8px 0; margin:0 4% 10px 0; text-indent:5px; width:100%; min-width:130px;}
-                    #mc_embed_signup input.button {display:block; width:35%; margin:0 0 10px 0; min-width:90px;}
-
-                    #mc_embed_signup div#mce-responses {float:left; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%;margin: 0 5%; clear: both;}
-                    #mc_embed_signup div.response {margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%;}
-                    #mc_embed_signup #mce-error-response {display:none;}
-                    #mc_embed_signup #mce-success-response {color:#529214; display:none;}
-                    #mc_embed_signup label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
-
-                    </style>
-                    <div id="mc_embed_signup">
-                    <form action="http://whiteoctober.us8.list-manage.com/subscribe/post?u=943132384a6114cc192253f86&amp;id=96f20e9858" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                      <label for="mce-EMAIL">Join our mailing list</label>
-                      <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                        <div style="position: absolute; left: -5000px;"><input type="text" name="b_943132384a6114cc192253f86_96f20e9858" tabindex="-1" value=""></div>
-                        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-                    </form>
-                    </div>
-                    <!--End mc_embed_signup-->
-                </p>
-
-
-
-                <hr />
-
-                <dl class="links">
-                    <dt>github</dt>
-                    <dd><a href="https://github.com/jsoxford">jsoxford</a></dd>
-                    <dt>twitter</dt>
-                    <dd><a href="https://twitter.com/intent/user?screen_name=jsoxford">@jsoxford</a></dd>
-                    <dt>IRC</dt>
-                    <dd>#jsoxford on irc.freenode.net
-                        <a href="/irc">log</a><br />
-                        <small><a target="_blank" href="http://webchat.freenode.net/?channels=jsoxford">[web&nbsp;client]</a></small></dd>
-                </dl>
-
-                <hr />
-
-                <p>
-                    <strong>
-                        like to talk at JSOxford?
-                        <a href="https://docs.google.com/a/whiteoctober.co.uk/spreadsheet/viewform?formkey=dHE0aldWMEFvUGY0ZXprTUlMODBXZkE6MQ">Propose a talk</a>
-                    </strong>
-                </p>
-
-
-                <hr />
-
-                <p>
-
-
-                </p>
-
-                <hr />
-
-
-            </div>
-            <div class="span7">
+            <div class="col-md-8 main">
 
                 {{ content }}
 
             </div>
+        
+            <div class="col-md-4">
+                <!-- Begin MailChimp Signup Form -->
+                <div class="callout">
+                    <div id="mc_embed_signup">
+                    <form action="http://whiteoctober.us8.list-manage.com/subscribe/post?u=943132384a6114cc192253f86&amp;id=96f20e9858" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <h2><label for="mce-EMAIL">Be notified of upcoming events</label></h2>
+                        <div class="form-group">
+                            <input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="email address" required>
+                        </div>
+                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;"><input type="text" name="b_943132384a6114cc192253f86_96f20e9858" tabindex="-1" value=""></div>
+                        <div class="form-group">
+                            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn">
+                        </div>
+                    </form>
+                    </div>
+                    <!--End mc_embed_signup-->
+                </div>
+        
+                <div class="callout callout-highlight">
+                    <h2>Want to talk at JSOxford?</h2>
+                    <div class="form-group">
+                        <a class="btn btn-primary" href="https://docs.google.com/a/whiteoctober.co.uk/spreadsheet/viewform?formkey=dHE0aldWMEFvUGY0ZXprTUlMODBXZkE6MQ">Propose a talk</a>
+                    </div>
+                </div>
+
+            </div>
+
+
         </div>
+
     </div>
+
     <script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
     <script src="http://cdn.lanyrd.net/badges/embed-v1.min.js"></script>
 

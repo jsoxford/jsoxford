@@ -2,9 +2,8 @@
 published: true
 title: 10th May JS Code Retreat
 layout: post
+lanyrd: 2014/jsoxford-coderetreat/
 ---
-
-<a href="http://lanyrd.com/2014/jsoxford-coderetreat" class="btn btn-primary">Attend On Lanyrd</a>
 
 ## We're very excited to be part of [JavaScript&nbsp;CodeRetreat](http://jscoderetreat.com/2/)
 
@@ -90,13 +89,4 @@ As if that wasn't enough, we've got a number of 10% discount codes for the [JSDa
       <img src="/img/webstorm_logo.gif" />
     </a>
   </div>
-</div>
-
-<hr/>
-
-<div class="lanyrd-target-participants">
-    <a href="http://lanyrd.com/2014/jsoxford-coderetreat/attendees/"
-        class="lanyrd-participants" data-lanyrd-nocss="">
-        RSVP on Lanyrd!
-    </a>
 </div>
