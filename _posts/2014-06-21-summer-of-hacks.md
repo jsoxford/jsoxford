@@ -6,13 +6,24 @@ layout: post
 
 # Join us for a series of hands-on events this summer
 
-<p class="lead">We're taking a break from our evening meetups for the summer months.  Instead, we're going to hold hack days, where you can come along to learn, tinker, hack &amp; hang out with like minded people.</p>
+<p class="lead">We're taking a break from our evening meetups for the next few months.  Instead, we're going to hold hack days, where you can come along to learn, tinker, hack &amp; hang out with like minded people.</p>
 
-TODO! Add a summary here.
+We've got three events planned, you'll get a lot from them whether you're starting out, or an experienced JS developer.
 
-__We're holding all three events at [the Jam Factory](https://www.google.co.uk/maps/preview?ie=UTF-8&fb=1&gl=uk&q=The+Jam+Factory&cid=2949126679461980301&ei=sFqTU7jTFM3TOe_SgagJ&ved=0CJIBEPwSMA0).__
+* **NodeSchool** - a day of learning [node.js](http://nodejs.org/).
+* **Code Retreat** - improve the way you actually approach coding.
+* **NodeBots** - JAVASCRIPT ROBOTS.
 
-![The Jam Factory](http://www.thejamfactoryoxford.com/cms_images_slideshows/30_1_medium.jpg)
+See below for more information and links to register for each event.  We've got a limited number of tickets for each event, so sign up and put it in your diary.
+
+We're really looking forward to seeing you.
+
+---
+
+![The Jam Factory](/img/jf.jpg)
+
+_All events are at [the Jam Factory](https://www.google.co.uk/maps/preview?ie=UTF-8&fb=1&gl=uk&q=The+Jam+Factory&cid=2949126679461980301&ei=sFqTU7jTFM3TOe_SgagJ&ved=0CJIBEPwSMA0), it's particularly lovely on summer days._
+
 
 ---
 # NodeSchool <small>21st June 2014</small>
