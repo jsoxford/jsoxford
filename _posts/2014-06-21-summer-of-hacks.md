@@ -10,10 +10,6 @@ layout: post
 
 TODO! Add a summary here.
 
-Space is limited so grab your (free) tickets here:
-
-All we ask is that if you can't make it you update your RSVP so we can give that space to someone else.
-
 __We're holding all three events at [the Jam Factory](https://www.google.co.uk/maps/preview?ie=UTF-8&fb=1&gl=uk&q=The+Jam+Factory&cid=2949126679461980301&ei=sFqTU7jTFM3TOe_SgagJ&ved=0CJIBEPwSMA0).__
 
 ![The Jam Factory](http://www.thejamfactoryoxford.com/cms_images_slideshows/30_1_medium.jpg)
