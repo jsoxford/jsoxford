@@ -28,7 +28,7 @@ _All events are at [the Jam Factory](https://www.google.co.uk/maps/preview?ie=UT
 ---
 # NodeSchool <small>21st June 2014</small>
 
-[NodeSchool](http://nodeschool.io/) is a free, community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way.
+<p class="lead"><a href="http://nodeschool.io/">NodeSchool</a> is a free, community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way.</p>
 
 Register and attend if you want to meet up at the Jam Factory and dive into a nodeschool workshop. There are workshops available for every skill level from JS beginners all the way to experienced node programmers.
 
@@ -74,7 +74,7 @@ We'll be meeting at [the Jam Factory](http://www.thejamfactoryoxford.com/) at 9a
 ---
 # NodeBots <small>9th August 2014</small>
 
-NodeBots are robots that are controlled by node.js. You don't get much cooler than that. Armed with soldering irons and parts we'll be teaming up in groups of 3 and creating some awe-inspiring Arduino-powered robots.
+<p class="lead">NodeBots are robots that are controlled by node.js. You don't get much cooler than that. Armed with soldering irons and parts we'll be teaming up in groups of 3 and creating some awe-inspiring Arduino-powered robots.</p>
 
 If you have no idea what an LED is or a resistor for that matter, have no fear - NodeBot experts will be readily available to help you hardware hack, solder, and 3D print your way to a full fledged NodeBot.
 
