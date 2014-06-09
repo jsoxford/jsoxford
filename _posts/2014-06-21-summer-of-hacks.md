@@ -86,15 +86,6 @@ If you have no idea what an LED is or a resistor for that matter, have no fear -
 
 <p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodebots-tickets-11906664153" class="btn btn-large btn-primary">Register for NodeBots</a></p>
 
----
-
-## How much does it cost?
-
-Tickets are &pound;5.  You'll get this more than this back in food and drink alone - we're just making sure that you really want to come.
-
-## What do I need to bring?
-
-If you've got a laptop with a development environment set up then all the better. Other than that all you need is yourself and a good collection of whoops and cheers!
 
 
 <!-- Uncomment when we've got some sponsors!
