@@ -4,7 +4,7 @@ title: 2014 Summer of Hacks
 layout: post
 ---
 
-## Join us for a series of hands-on events this summer
+# Join us for a series of hands-on events this summer
 
 With the long, warm evenings of summer we're taking a break from our evening meetups to have a hands-on summer of hacks.
 
