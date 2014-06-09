@@ -2,9 +2,9 @@
 published: true
 title: The Oxford Summer of Hacks
 layout: post
----  
+---
 
-## Make the most of summer with a series of free hands-on days.
+## Make the most of summer with a series of hands-on days.
 
 With the long, warm evenings of summer we're taking a break from our evening meetups to have a hands-on summer of hacks.
 
@@ -72,7 +72,7 @@ If you have no idea what an LED is or a resistor for that matter, have no fear -
 
 ## How much does it cost?
 
-All the events are free, we just ask that you bring enthusiasm and have a good time. Please let us know you're coming (on the appropriate Lanyrd), and tell your friends!
+Tickets are &pound;5.  You'll get this more than this back in food and drink alone - this is just to make sure that you really want to come.
 
 ## What do I need to bring?
 
