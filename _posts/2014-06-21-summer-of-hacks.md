@@ -29,6 +29,9 @@ TODO Node School blurb
         RSVP on Lanyrd!
     </a>
 </div-->
+
+<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodeschool-tickets-11906222833" class="btn btn-large btn-primary">Register for Node School</a></p>
+
 ---
 # Code Retreat <small>5th July 2014</small>
 
@@ -54,6 +57,9 @@ We'll be meeting at [the Jam Factory](http://www.thejamfactoryoxford.com/) at 9a
         RSVP on Lanyrd!
     </a>
 </div-->
+
+<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-code-retreat-tickets-11906533763" class="btn btn-large btn-primary">Register for Code Retreat</a></p>
+
 ---
 # NodeBots <small>9th August 2014</small>
 
@@ -66,11 +72,14 @@ If you have no idea what an LED is or a resistor for that matter, have no fear -
         RSVP on Lanyrd!
     </a>
 </div-->
+
+<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodebots-tickets-11906664153" class="btn btn-large btn-primary">Register for NodeBots</a></p>
+
 ---
 
 ## How much does it cost?
 
-Tickets are &pound;5.  You'll get this more than this back in food and drink alone - this is just to make sure that you really want to come.
+Tickets are &pound;5.  You'll get this more than this back in food and drink alone - we're just making sure that you really want to come.
 
 ## What do I need to bring?
 
