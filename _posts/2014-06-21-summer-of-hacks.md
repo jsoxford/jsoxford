@@ -61,7 +61,7 @@ If you've got suggestions for a session or focus, please get in touch with us on
 
 #### I'm in, where do I go?
 
-We'll be meeting at [the Jam Factory](http://www.thejamfactoryoxford.com/) at 9am. After a healthy dose of coffee, pastries and introductions we'll crack into the first session at around 9:30 and finish for 6:30 before heading to the pub for one last 'retrospective'.
+We'll be meeting at [the Jam Factory](http://www.thejamfactoryoxford.com/) at 9.45am. After a healthy dose of coffee, pastries and introductions we'll crack into the first session at around 10 and finish at 5 before heading to the pub for one last 'retrospective'.
 
 <!--div class="lanyrd-target-participants">
     <a href="http://lanyrd.com/2014/jsoxford-coderetreat/attendees/" class="lanyrd-participants" data-lanyrd-nocss="">
