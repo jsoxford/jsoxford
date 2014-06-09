@@ -74,7 +74,7 @@ We'll be meeting at [the Jam Factory](http://www.thejamfactoryoxford.com/) at 9.
 ---
 # NodeBots <small>9th August 2014</small>
 
-<p class="lead">NodeBots are robots that are controlled by node.js. You don't get much cooler than that. Armed with soldering irons and parts we'll be teaming up in groups of 3 and creating some awe-inspiring Arduino-powered robots.</p>
+<p class="lead"><a href="http://nodebots.io/">NodeBots</a> are robots that are controlled by node.js. You don't get much cooler than that. Armed with soldering irons and parts we'll be teaming up in groups of 3 and creating some awe-inspiring Arduino-powered robots.</p>
 
 If you have no idea what an LED is or a resistor for that matter, have no fear - NodeBot experts will be readily available to help you hardware hack, solder, and 3D print your way to a full fledged NodeBot.
 
