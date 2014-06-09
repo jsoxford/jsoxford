@@ -1,6 +1,6 @@
 ---
 published: true
-title: The Oxford Summer of Hacks
+title: 2014 Summer of Hacks
 layout: post
 ---
 
