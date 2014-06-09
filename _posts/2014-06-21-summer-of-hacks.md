@@ -28,7 +28,7 @@ _All events are at [the Jam Factory](https://www.google.co.uk/maps/preview?ie=UT
 ---
 # NodeSchool <small>21st June 2014</small>
 
-<p class="lead"><a href="http://nodeschool.io/">NodeSchool</a> is a free, community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way.</p>
+<p class="lead"><a href="http://nodeschool.io/">NodeSchool</a> is a community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way.</p>
 
 Register and attend if you want to meet up at the Jam Factory and dive into a nodeschool workshop. There are workshops available for every skill level from JS beginners all the way to experienced node programmers.
 
