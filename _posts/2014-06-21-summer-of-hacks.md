@@ -6,7 +6,7 @@ layout: post
 
 # Join us for a series of hands-on events this summer
 
-With the long, warm evenings of summer we're taking a break from our evening meetups to have a hands-on summer of hacks.
+<p class="lead">We're taking a break from our evening meetups for the summer months.  Instead, we're going to hold hack days, where you can come along to learn, tinker, hack &amp; hang out with like minded people.</p>
 
 TODO! Add a summary here.
 
