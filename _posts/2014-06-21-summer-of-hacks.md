@@ -1,4 +1,6 @@
 ---
+# PRO TIP - If you're viewing this on github, click the "Rendered" Button above
+
 published: true
 title: 2014 Summer of Hacks
 layout: post
