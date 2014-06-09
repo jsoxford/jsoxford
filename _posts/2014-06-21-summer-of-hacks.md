@@ -10,8 +10,8 @@ layout: post
 
 We've got three events planned, you'll get a lot from them whether you're starting out, or an experienced JS developer.
 
-* **NodeSchool** - a day of learning [node.js](http://nodejs.org/).
-* **Code Retreat** - improve the way you actually approach coding.
+* **NodeSchool** - get started (or better at) [node.js](http://nodejs.org/).
+* **Code Retreat** - hack the way you approach coding.
 * **NodeBots** - JAVASCRIPT ROBOTS.
 
 See below for more information and links to register for each event.  We've got a limited number of tickets for each event, so sign up and put it in your diary.
