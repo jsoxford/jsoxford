@@ -19,9 +19,13 @@ __We're holding all three events at [the Jam Factory](https://www.google.co.uk/m
 ![The Jam Factory](http://www.thejamfactoryoxford.com/cms_images_slideshows/30_1_medium.jpg)
 
 ---
-# Node School <small>21st June 2014</small>
+# NodeSchool <small>21st June 2014</small>
 
-TODO Node School blurb
+[NodeSchool](http://nodeschool.io/) is a free, community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way.
+
+Register and attend if you want to meet up at the Jam Factory and dive into a nodeschool workshop. There are workshops available for every skill level from JS beginners all the way to experienced node programmers.
+
+You will need to bring your own laptop, and it will help if you have already installed node.js (http://nodejs.org/). Mentors will help you on the day.
 
 <!--div class="lanyrd-target-participants">
     <a href="http://lanyrd.com/2014/jsoxford-coderetreat/attendees/"
@@ -30,7 +34,7 @@ TODO Node School blurb
     </a>
 </div-->
 
-<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodeschool-tickets-11906222833" class="btn btn-large btn-primary">Register for Node School</a></p>
+<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodeschool-tickets-11906222833" class="btn btn-large btn-primary">Register for NodeSchool</a></p>
 
 ---
 # Code Retreat <small>5th July 2014</small>
