@@ -16,7 +16,7 @@ We've got three events planned, you'll get a lot from them whether you're starti
 * **Code Retreat** - hack the way you approach coding.
 * **NodeBots** - JAVASCRIPT ROBOTS.
 
-See below for more information and links to register for each event.  We've got a limited number of tickets for each event, so sign up and put it in your diary.
+See below for more information and links to register for each event.  We've got a limited number of tickets for each event, so sign up and put it in your diary. Tickets are £5, but we'll refund you the whole amount if you turn up! 
 
 We're really looking forward to seeing you.
 
