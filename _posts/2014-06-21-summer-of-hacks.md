@@ -74,7 +74,7 @@ We'll be meeting at [the Jam Factory](http://www.thejamfactoryoxford.com/) at 9.
 <p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-code-retreat-tickets-11906533763" class="btn btn-large btn-primary">Register for Code Retreat</a></p>
 
 ---
-# NodeBots <small>9th August 2014</small>
+# NodeBots <small>23rd August 2014</small>
 
 <p class="lead"><a href="http://nodebots.io/">NodeBots</a> are robots that are controlled by node.js. You don't get much cooler than that. Armed with soldering irons and parts we'll be teaming up in groups of 3 and creating some awe-inspiring Arduino-powered robots.</p>
 
