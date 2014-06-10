@@ -46,7 +46,7 @@ You will need to bring your own laptop, and it will help if you have already ins
 <p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodeschool-tickets-11906222833" class="btn btn-large btn-primary">Register for NodeSchool</a></p>
 
 ---
-# Code Retreat <small>5th July 2014</small>
+# Code Retreat <small>6th July 2014</small>
 
 <p class="lead">Write better code to a backdrop of pastries and burritos&hellip; the Code Retreat is a chance to hone your programming skills without the pressure of Getting Things Done.</p>
 
