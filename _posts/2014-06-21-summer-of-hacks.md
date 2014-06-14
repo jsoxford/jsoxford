@@ -28,6 +28,7 @@ _All events are at [the Jam Factory](https://www.google.co.uk/maps/preview?ie=UT
 
 
 ---
+
 # NodeSchool <small>21st June 2014</small>
 
 <p class="lead"><a href="http://nodeschool.io/">NodeSchool</a> is a community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way.</p>
@@ -43,7 +44,15 @@ You will need to bring your own laptop, and it will help if you have already ins
     </a>
 </div-->
 
-<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodeschool-tickets-11906222833" class="btn btn-large btn-primary">Register for NodeSchool</a></p>
+<p>
+  <a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodeschool-tickets-11906222833" class="btn btn-large btn-primary">Register for NodeSchool</a>
+</p>
+
+<p class="well clearfix">
+  <img src="http://www.gravatar.com/avatar/23aab37252477d8acbe8d789536c1af9.png" alt="Roy Lines" class="img-polaroid pull-left" style="height:3em;margin-right:.5em">
+  NodeSchool is being run by Roy Lines.<br />
+  Contact him on twitter - <a href="https://twitter.com/intent/user?screen_name=roylinesuk">@roylinesuk</a>.
+</p>
 
 ---
 # Code Retreat <small>6th July 2014</small>
