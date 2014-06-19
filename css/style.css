@@ -5777,7 +5777,7 @@ button.close {
   padding-bottom: 10px;
   color: #000;
   font-size: 42px;
-  font-weight: normal;
+  font-weight: bold;
   line-height: 1.4;
 }
 @media (max-width: 768px) {
@@ -5793,18 +5793,50 @@ button.close {
   color: #444;
   text-decoration: none;
 }
-h2,
-h3,
-h2 label,
-h3 label {
-  font-weight: 300;
-}
 h2 {
-  font-size: 20px;
+  font-size: 24px;
+  font-weight: bold;
 }
 h3 {
-  font-weight: 300;
-  line-height: 1.3;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+h2 + h3 {
+  margin-top: 0;
+}
+h3 a,
+p a {
+  border-bottom: solid 1px #185e9a;
+}
+h3 a:hover,
+p a:hover {
+  color: #000;
+  text-decoration: none;
+  border-color: #000;
+}
+blockquote {
+  border: 0;
+  display: block;
+  font-size: 16px;
+  line-height: 1.5;
+  position: relative;
+  padding: 10px 20px;
+}
+blockquote:before {
+  color: #ccc;
+  content: '"';
+  font-size: 38px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+blockquote blockquote {
+  color: #888;
+  margin-bottom: 0;
+}
+blockquote blockquote:before {
+  content: '';
 }
 .site__header {
   background: #f3df49;
@@ -5814,6 +5846,16 @@ h3 {
   right: 0;
   top: 0;
   z-index: 100;
+}
+.logo {
+  color: #000;
+  font-weight: bold;
+  text-transform: uppercase;
+  vertical-align: bottom;
+}
+.logo:hover {
+  color: #000;
+  text-decoration: none;
 }
 @font-face {
   font-family: 'icomoon';
@@ -5877,21 +5919,57 @@ h3 {
 .btn:hover {
   border-bottom: solid 2px #000;
 }
+.btn-lg,
+.btn-group-lg > .btn {
+  font-size: 18px;
+  padding: 8px 20px;
+}
 body {
+  background: #f2f2f2;
+  font-family: 'Open Sans', sans-serif;
   padding-top: 100px;
 }
-.main img {
-  border: solid 1px #ddd;
-  padding: 5px;
+.main {
+  background: #fff;
+  padding: 15px 25px;
+}
+.post p img {
+  border: solid 5px #fff;
+  margin: 20px 0 20px -40px;
+  max-width: 100%;
+}
+@media (max-width: 768px) {
+  .post p img {
+    margin-right: -20px;
+  }
+}
+img {
   max-width: 100%;
 }
 .callout {
-  background: #eee;
-  border-left: solid 2px #ddd;
+  border-bottom: solid 2px #ddd;
+  padding: 10px 0;
   margin-bottom: 15px;
-  padding: 15px;
+}
+.callout h2 {
+  font-size: 20px;
 }
 .callout h2,
 .callout h3 {
   margin-top: 0;
+}
+@media (min-width: 992px) {
+  .callout--fixed {
+    position: fixed;
+  }
+}
+.callout--last {
+  border: 0;
+}
+.icon-lanyrd {
+  color: #2C61AB;
+  font-size: 28px;
+}
+a {
+  color: #185e9a;
 }

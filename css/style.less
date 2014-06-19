@@ -7,21 +7,57 @@
 @import "component/button";
 
 body {
+	background: #f2f2f2;
+	font-family: 'Open Sans', sans-serif;
 	padding-top: 100px;
 }
 
-.main img {
-	border: solid 1px #ddd;
-	padding: 5px;
+.main {
+	background: #fff;
+	padding: 15px 25px;
+}
+
+.post p img {
+	border: solid 5px #fff;
+	margin: 20px 0 20px -40px;
+	max-width: 100%;
+	@media (max-width: @screen-sm) {
+		margin-right: -20px;
+	}
+}
+
+img {
 	max-width: 100%;
 }
 
 .callout {
-	background: #eee;
-	border-left: solid 2px #ddd;
+	border-bottom: solid 2px #ddd;
+	padding: 10px 0;
 	margin-bottom: 15px;
-	padding: 15px;
+	h2 {
+		font-size: 20px;
+	}
 	h2, h3 {
 		margin-top: 0;
 	}
 }
+
+.callout--fixed {
+	@media (min-width: @screen-md) {
+		position: fixed;
+	}
+}
+
+.callout--last {
+	border: 0;
+}
+
+.icon-lanyrd {
+	color: #2C61AB;
+	font-size: 28px;
+}
+
+a {
+	color: #185e9a;
+}
+

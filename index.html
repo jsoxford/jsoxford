@@ -3,18 +3,19 @@ layout: default
 ---
 
 {% for post in site.posts %}
+<div class="post">
+    <h2 class="post-title">
+    	<a href="{{ post.url }}">{{post.title}}</a>
+    	{% if post.lanyrd != null %}
+    		<small>
+    			<a href="http://lanyrd.com/{{post.lanyrd}}" class="icon-lanyrd"></a>
+    		</small>
+    	{% endif %}
+    </h2>
 
-<h2 class="post-title">
-	<a href="{{ post.url }}">{{post.title}}</a>
-	{% if post.lanyrd != null %}
-		<small>
-			<a href="http://lanyrd.com/{{post.lanyrd}}" class="icon-lanyrd"></a>
-		</small>
-	{% endif %}
-</h2>
 
-
-{{ post.content}}
+    {{ post.content}}
+</div>
 
 
 {% if post.lanyrd != null %}
