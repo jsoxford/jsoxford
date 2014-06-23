@@ -45,14 +45,48 @@ You will need to bring your own laptop, and it will help if you have already ins
 </div-->
 
 <p>
-  <a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodeschool-tickets-11906222833" class="btn btn-large btn-primary">Register for NodeSchool</a>
+  <a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodeschool-tickets-11906222833" class="btn btn-large btn-default disabled">Register for NodeSchool</a>
 </p>
 
-<p class="well clearfix">
-  <img src="http://www.gravatar.com/avatar/23aab37252477d8acbe8d789536c1af9.png" alt="Roy Lines" class="img-polaroid pull-left" style="height:3em;margin-right:.5em">
-  NodeSchool is being run by Roy Lines.<br />
-  Contact him on twitter - <a href="https://twitter.com/intent/user?screen_name=roylinesuk">@roylinesuk</a>.
-</p>
+<div class="well" id="nodeschool-thanks">
+  <h2>Thank you!</h2>
+
+  <p class="lead">I think we can consider NodeSchool a success - a huge thanks to everyone involved</p>
+
+  <h3>Our sponsors</h3>
+
+  <p>Support from Github, Haybrook &amp; White October let us hold this event in such a lovely place, and kept us supplied with coffee and some drinks afterward.</p>
+
+  <div class="row-fluid">
+    <div class="span4">
+      <a href="http://github.com/">
+        <img src="/img/github.png" />
+      </a>
+    </div>
+    <div class="span4">
+      <a href="http://www.haybrook.co.uk/">
+        <img src="/img/haybrook.png" />
+      </a>
+    </div>
+    <div class="span4">
+      <a href="http://www.whiteoctober.co.uk/">
+        <img src="/img/wo.png" />
+      </a>
+    </div>
+  </div>
+
+  <hr />
+
+  <h3>Our organisers</h3>
+
+  <p>Roy and Ben put in a lot of effort over the last few weeks to organise this event.  And on the day we also had Pete and Evan who helped with mentoring on the day.</p>
+
+  <h3>Our attendees</h3>
+
+  <p>The turn out for NodeSchool was fantastic. Thanks to everyone who came along</p>
+
+  <img src="/img/soh-nodeschool2.jpg" />
+</div>
 
 ---
 # Code Retreat <small>6th July 2014</small>
