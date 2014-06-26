@@ -79,7 +79,7 @@ You will need to bring your own laptop, and it will help if you have already ins
 
   <h3>Our organisers</h3>
 
-  <p>Roy and Ben put in a lot of effort over the last few weeks to organise this event.  And on the day we also had Pete and Evan who helped with mentoring on the day.</p>
+  <p><a href="https://twitter.com/intent/user?screen_name=roylinesuk">Roy</a> and <a href="https://twitter.com/intent/user?screen_name=benjaminbenben">Ben</a> put in a lot of effort over the last few weeks to organise this event.  And on the day we also had <a href="https://twitter.com/intent/user?screen_name=peterjwest">Pete</a> and <a href="https://twitter.com/intent/user?screen_name=ivanbokii">Ivan</a> who helped with mentoring on the day.</p>
 
   <h3>Our attendees</h3>
 
