@@ -3,6 +3,7 @@ layout: default
 ---
 
 {% for post in site.posts %}
+{% unless post.skip_index %}
 
 <h2 class="post-title"><a href="{{ post.url }}">{{post.title}}</a></h2>
 
@@ -10,5 +11,5 @@ layout: default
 
  
 <hr class="heavy" />
-
+{% endunless %}
 {% endfor %}
