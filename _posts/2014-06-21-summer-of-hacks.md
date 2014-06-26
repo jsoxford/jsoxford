@@ -81,11 +81,18 @@ You will need to bring your own laptop, and it will help if you have already ins
 
   <p><a href="https://twitter.com/intent/user?screen_name=roylinesuk">Roy</a> and <a href="https://twitter.com/intent/user?screen_name=benjaminbenben">Ben</a> put in a lot of effort over the last few weeks to organise this event.  And on the day we also had <a href="https://twitter.com/intent/user?screen_name=peterjwest">Pete</a> and <a href="https://twitter.com/intent/user?screen_name=ivanbokii">Ivan</a> who helped with mentoring on the day.</p>
 
+  <p>Roy <a href="http://roylines.co.uk/2014/06/21/node-school-oxford.html">wrote up the day</a> on his site.</p>
+
   <h3>Our attendees</h3>
 
   <p>The turn out for NodeSchool was fantastic. Thanks to everyone who came along</p>
 
   <img src="/img/soh-nodeschool2.jpg" />
+
+  <hr />
+
+  <p>Also, if you have any photos/blog posts <a href="https://twitter.com/intent/user?screen_name=jsoxford">let us know</a>.</p>
+
 </div>
 
 ---
