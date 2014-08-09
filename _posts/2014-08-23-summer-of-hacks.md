@@ -28,7 +28,6 @@ _All events are at [the Jam Factory](https://www.google.co.uk/maps/preview?ie=UT
 
 
 ---
-
 # NodeSchool <small>21st June 2014</small>
 
 <p class="lead"><a href="http://nodeschool.io/">NodeSchool</a> is a community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way.</p>
@@ -51,7 +50,10 @@ You will need to bring your own laptop, and it will help if you have already ins
 ___NodeSchool has finished - [see how it went](/2014/node-school/)___
 
 ---
+
 # Code Retreat <small>6th July 2014</small>
+
+___Sadly the Code Retreat is over – [see how it went](/2014/soh-code-retreat/)___
 
 <p class="lead">Write better code to a backdrop of pastries and burritos&hellip; the Code Retreat is a chance to hone your programming skills without the pressure of Getting Things Done.</p>
 
@@ -62,21 +64,7 @@ Code Retreat is a day of pair-programming around a common challenge. Over five 4
 
 For a nice introduction to code retreat and why it's a great idea, [check out this video](http://player.vimeo.com/video/18955165?title=0&amp;byline=0&amp;portrait=0).
 
-__We'll provide drinks and lunch!__
-
-If you've got suggestions for a session or focus, please get in touch with us on Twitter (@jsoxford).
-
-#### I'm in, where do I go?
-
-We'll be meeting at [the Jam Factory](http://www.thejamfactoryoxford.com/) at 9.45am. After a healthy dose of coffee, pastries and introductions we'll crack into the first session at around 10 and finish at 5 before heading to the pub for one last 'retrospective'.
-
-<!--div class="lanyrd-target-participants">
-    <a href="http://lanyrd.com/2014/jsoxford-coderetreat/attendees/" class="lanyrd-participants" data-lanyrd-nocss="">
-        RSVP on Lanyrd!
-    </a>
-</div-->
-
-<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-code-retreat-tickets-11906533763" class="btn btn-large btn-primary">Register for Code Retreat</a></p>
+<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-code-retreat-tickets-11906533763" class="btn btn-large btn-default disabled">Register for Code Retreat</a></p>
 
 ---
 # NodeBots <small>23rd August 2014</small>
@@ -93,25 +81,25 @@ If you have no idea what an LED is or a resistor for that matter, have no fear -
 
 <p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodebots-tickets-11906664153" class="btn btn-large btn-primary">Register for NodeBots</a></p>
 
+---
 
+<!-- ## Thanks to our sponsors
 
-<!-- Uncomment when we've got some sponsors!
-### Thanks to our sponsors
+These events wouldn't have been possible without the support of our sponsors:
 <div class="row-fluid">
+  <div class="span4">
+    <a href="http://github.com/">
+      <img src="/img/github.png" />
+    </a>
+  </div>
   <div class="span4">
     <a href="http://www.haybrook.co.uk/">
       <img src="/img/haybrook.png" />
     </a>
   </div>
   <div class="span4">
-    <a href="http://2014.jsday.it/">
-      <img src="/img/sponsor_jsday.png" />
+    <a href="http://www.whiteoctober.co.uk/">
+      <img src="/img/wo.png" />
     </a>
   </div>
-  <div class="span4">
-    <a href="http://www.jetbrains.com/webstorm/">
-      <img src="/img/webstorm_logo.gif" />
-    </a>
-  </div>
-</div>
--->
+</div> -->
