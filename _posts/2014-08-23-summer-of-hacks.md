@@ -27,6 +27,7 @@ We're really looking forward to seeing you.
 <!--_All events are at [the Jam Factory](https://www.google.co.uk/maps/preview?ie=UTF-8&fb=1&gl=uk&q=The+Jam+Factory&cid=2949126679461980301&ei=sFqTU7jTFM3TOe_SgagJ&ved=0CJIBEPwSMA0), it's particularly lovely on summer days._-->
 
 ---
+
 # NodeSchool <small>21st June 2014</small>
 
 <p class="lead"><a href="http://nodeschool.io/">NodeSchool</a> is a community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way.</p>
