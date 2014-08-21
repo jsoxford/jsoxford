@@ -20,12 +20,11 @@ See below for more information and links to register for each event.  We've got 
 
 We're really looking forward to seeing you.
 
----
+<!------->
 
-![The Jam Factory](/img/jf.jpg)
+<!--![The Jam Factory](/img/jf.jpg)-->
 
-_All events are at [the Jam Factory](https://www.google.co.uk/maps/preview?ie=UTF-8&fb=1&gl=uk&q=The+Jam+Factory&cid=2949126679461980301&ei=sFqTU7jTFM3TOe_SgagJ&ved=0CJIBEPwSMA0), it's particularly lovely on summer days._
-
+<!--_All events are at [the Jam Factory](https://www.google.co.uk/maps/preview?ie=UTF-8&fb=1&gl=uk&q=The+Jam+Factory&cid=2949126679461980301&ei=sFqTU7jTFM3TOe_SgagJ&ved=0CJIBEPwSMA0), it's particularly lovely on summer days._-->
 
 ---
 # NodeSchool <small>21st June 2014</small>
@@ -67,19 +66,37 @@ For a nice introduction to code retreat and why it's a great idea, [check out th
 <p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-code-retreat-tickets-11906533763" class="btn btn-large btn-default disabled">Register for Code Retreat</a></p>
 
 ---
+
 # NodeBots <small>23rd August 2014</small>
 
-<p class="lead"><a href="http://nodebots.io/">NodeBots</a> are robots that are controlled by node.js. You don't get much cooler than that. Armed with soldering irons and parts we'll be teaming up in groups of 3 and creating some awe-inspiring Arduino-powered robots.</p>
+<p class="lead"><a href="http://nodebots.io/">NodeBots</a> are robots that are controlled by node.js. A NodeBots event is a full day event where JS developers team up in small teams to program robots with JS.</p>
 
-If you have no idea what an LED is or a resistor for that matter, have no fear - NodeBot experts will be readily available to help you hardware hack, solder, and 3D print your way to a full fledged NodeBot.
+We've got 3 radio-controlled, video-enabled cars which can be controlled with JS over wifi, and also a nodecopter you can fly with JS (or just with your phone)!
 
-<!--div class="lanyrd-target-participants">
-    <a href="http://lanyrd.com/2014/jsoxford-coderetreat/attendees/" class="lanyrd-participants" data-lanyrd-nocss="">
-        RSVP on Lanyrd!
-    </a>
-</div-->
+We'll have arduino kits you can use to build and program robots. You don't need to know what a resistor is or how to use an aynschronous callback, we'll have hardware and JS experts ready to help you throughout the day. 
+
+We've also extra sensors and displays you can tinker with. We've also got buckets of Lego Technic you can use to build quick prototypes.
+
+You'll be able to buy Arduino kits at a discount on the day, if you want to take your work home with you (sorry you can't buy the lego though!)
 
 <p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodebots-tickets-11906664153" class="btn btn-large btn-primary">Register for NodeBots</a></p>
+
+**Please note:**
+
+We've moved the venue at the last minute, sorry! It will now be at the White October offices.
+
+What does this mean for you?
+
+* Better food: we can now afford burritos and pizza for lunch, we'll also have pastries and snacks throughout the day
+* Unlimited free tea and coffee
+* More space and desks, including workstations you can use
+* Fast, reliable internet
+* Air conditioning
+* Whiteboards
+* A meeting room for serious discussion
+* An HD projecter for talks and demos
+
+We'll be collecting people from the station and the Jam Factory, so don't worry if you don't know the way.
 
 ---
 
