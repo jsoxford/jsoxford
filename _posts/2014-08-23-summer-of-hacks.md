@@ -1,10 +1,22 @@
 ---
-# PRO TIP - If you're viewing this on github, click the "Rendered" Button above
-
 published: true
 title: 2014 Summer of Hacks
 layout: post
 ---
+
+
+<div class="well" id="hello-attendees">
+  <h1>Attention NotBotters</h1>
+
+  <p>We'll be meeting at <strong><a href="http://www.whiteoctober.co.uk/">White October</a></strong> at 10am, there will be coffees and snacks.  White October is <a href="http://www.whiteoctober.co.uk/contact.html">just off cowley road</a>, if you've arrived by train you can catch the 1 or 5 bus - or alternatively a taxi should cost &pound;5-6.</p>
+
+  <p>If you have any problems - call <a href="https://twitter.com/benjaminbenben">Ben</a> on <a href="tel:07540838982">07540838982</a></p>
+
+  <!-- <p>The venue is <a href="http://www.whiteoctober.co.uk/">White October</a> which is just off Cowley Road - here is parking available.</p> -->
+
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19761.642124090096!2d-1.240837!3d51.74757!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xea3a35e1b30ddba4!2sWhite+October!5e0!3m2!1sen!2sus!4v1399641425064" eight="450" frameborder="0" style="border:0; width:100%"><!-- --></iframe>
+
+</div>
 
 # Join us for a series of hands-on events this summer
 
