@@ -6,7 +6,7 @@ layout: post
 
 
 <div class="well" id="hello-attendees">
-  <h1>Attention NotBotters</h1>
+  <h1>Attention NodeBot-ers</h1>
 
   <p>We'll be meeting at <strong><a href="http://www.whiteoctober.co.uk/">White October</a></strong> at 10am, there will be coffees and snacks.  White October is <a href="http://www.whiteoctober.co.uk/contact.html">just off cowley road</a>, if you've arrived by train you can catch the 1 or 5 bus - or alternatively a taxi should cost &pound;5-6.</p>
 
