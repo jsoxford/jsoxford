@@ -28,6 +28,8 @@ We're really looking forward to seeing you.
 
 # NodeSchool <small>21st June 2014</small>
 
+___NodeSchool has finished - [see how it went](/2014/node-school/)___
+
 <p class="lead"><a href="http://nodeschool.io/">NodeSchool</a> is a community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way.</p>
 
 Register and attend if you want to meet up at the Jam Factory and dive into a nodeschool workshop. There are workshops available for every skill level from JS beginners all the way to experienced node programmers.
@@ -42,10 +44,8 @@ You will need to bring your own laptop, and it will help if you have already ins
 </div-->
 
 <p>
-  <a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodeschool-tickets-11906222833" class="btn btn-large btn-default disabled">Register for NodeSchool</a>
+  <a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodeschool-tickets-11906222833" class="btn btn-large btn-default disabled" disabled>Register for NodeSchool</a>
 </p>
-
-___NodeSchool has finished - [see how it went](/2014/node-school/)___
 
 ---
 
@@ -62,11 +62,13 @@ Code Retreat is a day of pair-programming around a common challenge. Over five 4
 
 For a nice introduction to code retreat and why it's a great idea, [check out this video](http://player.vimeo.com/video/18955165?title=0&amp;byline=0&amp;portrait=0).
 
-<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-code-retreat-tickets-11906533763" class="btn btn-large btn-default disabled">Register for Code Retreat</a></p>
+<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-code-retreat-tickets-11906533763" class="btn btn-large btn-default disabled" disabled>Register for Code Retreat</a></p>
 
 ---
 
 # NodeBots <small>23rd August 2014</small>
+
+___NodeBots has now been dissassembled - write up coming soon___
 
 <p class="lead"><a href="http://nodebots.io/">NodeBots</a> are robots that are controlled by node.js. A NodeBots event is a full day event where JS developers team up in small teams to program robots with JS.</p>
 
@@ -78,7 +80,7 @@ We've also extra sensors and displays you can tinker with. We've also got bucket
 
 You'll be able to buy Arduino kits at a discount on the day, if you want to take your work home with you (sorry you can't buy the lego though!)
 
-<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodebots-tickets-11906664153" class="btn btn-large btn-primary">Register for NodeBots</a></p>
+<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodebots-tickets-11906664153" class="btn btn-large btn-primary disabled" disabled>Register for NodeBots</a></p>
 
 **Please note:**
 
