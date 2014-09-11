@@ -80,7 +80,7 @@ We've also extra sensors and displays you can tinker with. We've also got bucket
 
 You'll be able to buy Arduino kits at a discount on the day, if you want to take your work home with you (sorry you can't buy the lego though!)
 
-<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodebots-tickets-11906664153" class="btn btn-large btn-primary disabled" disabled>Register for NodeBots</a></p>
+<p><a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodebots-tickets-11906664153" class="btn btn-large btn-default disabled" disabled>Register for NodeBots</a></p>
 
 **Please note:**
 
