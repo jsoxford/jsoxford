@@ -1,6 +1,8 @@
 jsoxford.github.com
 ===================
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jsoxford/jsoxford.github.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a jekyll/github pages site.  You can run it locally with these commands
 
 ```bash
