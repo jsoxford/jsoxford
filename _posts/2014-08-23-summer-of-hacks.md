@@ -18,12 +18,6 @@ See below for more information and links to register for each event.  We've got 
 
 We're really looking forward to seeing you.
 
-<!------->
-
-<!--![The Jam Factory](/img/jf.jpg)-->
-
-<!--_All events are at [the Jam Factory](https://www.google.co.uk/maps/preview?ie=UTF-8&fb=1&gl=uk&q=The+Jam+Factory&cid=2949126679461980301&ei=sFqTU7jTFM3TOe_SgagJ&ved=0CJIBEPwSMA0), it's particularly lovely on summer days._-->
-
 ---
 
 # NodeSchool <small>21st June 2014</small>
@@ -35,13 +29,6 @@ ___NodeSchool has finished - [see how it went](/2014/node-school/)___
 Register and attend if you want to meet up at the Jam Factory and dive into a nodeschool workshop. There are workshops available for every skill level from JS beginners all the way to experienced node programmers.
 
 You will need to bring your own laptop, and it will help if you have already installed [node.js](http://nodejs.org/). Mentors will help you on the day.
-
-<!--div class="lanyrd-target-participants">
-    <a href="http://lanyrd.com/2014/jsoxford-coderetreat/attendees/"
-        class="lanyrd-participants" data-lanyrd-nocss="">
-        RSVP on Lanyrd!
-    </a>
-</div-->
 
 <p>
   <a href="https://www.eventbrite.co.uk/e/sumer-of-hacks-nodeschool-tickets-11906222833" class="btn btn-large btn-default disabled" disabled>Register for NodeSchool</a>
@@ -74,7 +61,7 @@ ___NodeBots has now been dissassembled - write up coming soon___
 
 We've got 3 radio-controlled, video-enabled cars which can be controlled with JS over wifi, and also a nodecopter you can fly with JS (or just with your phone)!
 
-We'll have arduino kits you can use to build and program robots. You don't need to know what a resistor is or how to use an aynschronous callback, we'll have hardware and JS experts ready to help you throughout the day. 
+We'll have arduino kits you can use to build and program robots. You don't need to know what a resistor is or how to use an aynschronous callback, we'll have hardware and JS experts ready to help you throughout the day.
 
 We've also extra sensors and displays you can tinker with. We've also got buckets of Lego Technic you can use to build quick prototypes.
 
@@ -98,26 +85,3 @@ What does this mean for you?
 * An HD projecter for talks and demos
 
 We'll be collecting people from the station and the Jam Factory, so don't worry if you don't know the way.
-
----
-
-<!-- ## Thanks to our sponsors
-
-These events wouldn't have been possible without the support of our sponsors:
-<div class="row-fluid">
-  <div class="span4">
-    <a href="http://github.com/">
-      <img src="/img/github.png" />
-    </a>
-  </div>
-  <div class="span4">
-    <a href="http://www.haybrook.co.uk/">
-      <img src="/img/haybrook.png" />
-    </a>
-  </div>
-  <div class="span4">
-    <a href="http://www.whiteoctober.co.uk/">
-      <img src="/img/wo.png" />
-    </a>
-  </div>
-</div> -->
