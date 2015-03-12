@@ -15,12 +15,14 @@ layout: post
 ---
 
 ## Getting functional with Clojurescript
+
 ### by [Matthew Thompson](http://mthompson.org) <small><a href="https://twitter.com/intent/user?screen_name=cblop">@cblop</a></small>
 
 > Clojurescript is a dialect of lisp that compiles to Javascript. In this talk, we will go about making a basic game from scratch. Along the way, we’ll learn about setting up Clojurescript projects, using the Light Table IDE and how to design a game using immutable data structures. I’ll also explain why Clojurescript is useful for front-end web development.
 
 
 ## Naming Things
+
 ### by [Gil Gonçalves](http://lumbercoder.com/) <small><a href="https://twitter.com/intent/user?screen_name=lurst">@lurst</a></small>
 
 > > "There are only two hard things in Computer Science: cache invalidation and naming things." -- Phil Karlton
@@ -33,6 +35,7 @@ layout: post
 > [Roy Lines](https://twitter.com/intent/user?screen_name=roylinesuk) telling us about [Node School](http://nodeschool.io/), and gauging interest for a future event.
 
 ## CPython VMs
+
 ### by Mark
 
 > We'll also be having a talk about CPython VMs from Mark.  We don't have more details than that - you'll have to come along!
