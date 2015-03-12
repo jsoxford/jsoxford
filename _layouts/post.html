@@ -4,3 +4,9 @@ layout: default
 <h2 class="post-title">{{page.title}}</h2>
 
 {{ content }}
+
+{% if page.lanyrd_page %}
+    <hr />
+    {% assign rsvp_link = page.lanyrd_page %}
+    {% include lanyrd_widget.html %}
+{% endif %}

@@ -56,7 +56,10 @@
         </div>
     </div>
     <script src="//platform.twitter.com/widgets.js"></script>
+
+    {% if page.show_lanyrd_widget %}
     <script src="http://cdn.lanyrd.net/badges/embed-v1.min.js"></script>
+    {% endif %}
 
     <script>
     var _gaq = [['_setAccount', 'UA-539447-26'],['_trackPageview']];

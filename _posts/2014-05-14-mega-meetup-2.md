@@ -2,9 +2,9 @@
 published: true
 title: 14th May MegaMeetup#2
 layout: post
+show_lanyrd_widget: true
+lanyrd_page: http://lanyrd.com/2014/jsoxpy/attendees/
 ---
-
-<a href="http://lanyrd.com/2014/jsoxpy/" class="btn btn-primary">Attend On Lanyrd</a>
 
 ### As part of [digital oxford week](http://www.digitaloxford.com/weekmay2014/) we're teaming up with [Oxford Python](https://twitter.com/oxfordpython) for [another](/2013/october/) mega-meetup
 
@@ -47,14 +47,6 @@ layout: post
 ![GitHub](/img/github.png)
 
 We're able to meet in this lovely pub thanks to [Github Community](https://community.github.com/) who are sponsoring the event.
-
----
-
-<div class="lanyrd-target-participants">
-    <a href="http://lanyrd.com/2014/jsoxpy/attendees/" class="lanyrd-participants">
-        RSVP on Lanyrd
-    </a>
-</div>
 
 ---
 

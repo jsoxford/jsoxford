@@ -1,5 +1,6 @@
 ---
 layout: default
+show_lanyrd_widget: true
 ---
 
 {% for post in site.posts %}
@@ -9,7 +10,12 @@ layout: default
 
 {{ post.content}}
 
- 
+{% if post.lanyrd_page %}
+    <hr />
+    {% assign rsvp_link = post.lanyrd_page %}
+    {% include lanyrd_widget.html %}
+{% endif %}
+
 <hr class="heavy" />
 {% endunless %}
 {% endfor %}
