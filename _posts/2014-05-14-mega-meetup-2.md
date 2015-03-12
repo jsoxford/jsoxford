@@ -31,7 +31,7 @@ layout: post
 ## Events - Code Retreat & Node School
 
 > [Ryan Brooks](https://twitter.com/intent/user?screen_name=spikeheap) will be talking about last weekends JavaScriptCodeRetreat - and how we can hold more in the future.
-> 
+>
 > [Roy Lines](https://twitter.com/intent/user?screen_name=roylinesuk) telling us about [Node School](http://nodeschool.io/), and gauging interest for a future event.
 
 ## CPython VMs
