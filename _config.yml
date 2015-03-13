@@ -1,4 +1,4 @@
 safe: true
 lsi: false
-highlighter: true
+pygments: true
 permalink: /:year/:title/
