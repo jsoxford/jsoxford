@@ -1,3 +1,5 @@
+var jpegRecompress = require('imagemin-jpeg-recompress');
+
 module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
 
@@ -32,7 +34,8 @@ module.exports = function(grunt) {
     imagemin: {
       static: {
         options: {
-          optimizationLevel: 7
+          optimizationLevel: 7,
+          use: [jpegRecompress()]
         },
         files: [{
           expand: true,
