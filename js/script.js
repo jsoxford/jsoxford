@@ -56,7 +56,7 @@
         var post = $('<div/>');
         var heading = $('<h2/>');
         var link = $('<a/>');
-        var meetupImage = $('<img/>').attr('src','img/meetup.png').attr('alt','Meetup');
+        var meetupImage = $('<img/>').attr('src','/img/meetup.png').attr('alt','Meetup');
 
         post.addClass('post');
         post.data('date', eventDate);
