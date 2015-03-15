@@ -1,0 +1,89 @@
+body{
+	font-family: Roboto;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-weight: normal;
+}
+
+img {
+	max-width: 90%;
+}
+
+header {
+	height: 250px;
+	padding-top: 5px;
+	margin-bottom:150px;
+	background: url(/img/Oxford_panorama.jpg);
+	background-position: center;
+
+	a {
+		position:relative;
+		top:50px;
+
+		img {
+			margin:0 auto;
+			height:300px;
+			display:block;
+		}
+	}
+}
+
+footer {
+	margin-top: 10px;
+	text-align: center;
+	padding: 5px;
+}
+
+.sidebar {
+	h3 {
+		margin-top:3px;
+		margin-bottom:3px;
+	}
+}
+
+.post-title{
+	background-color:#f3df49;
+	padding:.5em;
+	border-top:5px solid #000;
+	img { 
+		margin-right: 5px;
+	}
+	a{
+		color: #000;
+		&.btn-primary{
+			color:#fff;
+		}
+	}
+}
+
+#MeetupMembers {
+	a {
+		display:inline-block;
+		margin-left: 10px;
+
+		&.memberThumbnail{
+			margin: 0;
+			width: 30px;
+			height: 30px;
+			background-size: cover;
+			img {
+				width: 30px;
+				height: 30px;
+				max-width: 100%;
+			}
+		}
+	}
+}
+
+.eventInfo {
+	float: right;
+	font-size: 0.4em;
+	
+	.eventDate {
+		font-weight: bold;
+	}
+	a {
+		display:block;
+	}
+}
