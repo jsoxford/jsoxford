@@ -2,9 +2,9 @@
     var days = ['Sun','Mon','Tue','Wed','Thur','Fri','Sat'];
     var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 
-    var pastEventsQuery = "https://api.meetup.com/2/events?format=json&group_id=17778422&photo-host=public&page=20&sig_id=153356042&fields=&limited_events=False&order=time&desc=true&status=past&sig=0b523c94134efcb38112a614a8e7ca68ed7a1930";
-    var upcomingEventsQuery = "https://api.meetup.com/2/events?format=json&group_id=17778422&photo-host=public&page=20&sig_id=153356042&fields=&desc=false&limited_events=False&order=time&status=upcoming&sig=7409fe5da89084fb358c689e0d7ae98894b46908";
-    var membersQuery = "https://api.meetup.com/2/members?format=json&group_id=17778422&only=photo%2Cname%2Clink&photo-host=public&page=200&order=name&sig_id=153356042&sig=a3af566e135bdd6c06a277d423bccd5740f1b145";
+    var pastEventsQuery = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_id=17778422&only=time%2Cevent_url%2Cname%2Cdescription%2Cyes_rsvp_count%2Crsvp_limit&photo-host=secure&page=40&fields=&order=time&status=past&desc=false&sig_id=153356042&sig=7c33ad50321a70d19f843d60c0c2eaee08b67d09";
+    var upcomingEventsQuery = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_id=17778422&only=time%2Cevent_url%2Cname%2Cdescription%2Cyes_rsvp_count%2Crsvp_limit&photo-host=secure&page=20&fields=&order=time&desc=false&status=upcoming&sig_id=153356042&sig=84e9ac6ce37bdb3c00e4f82fe5a7ce798865fbe4";
+    var membersQuery = "https://api.meetup.com/2/members?offset=0&format=json&group_id=17778422&only=photo%2Cname%2Clink&photo-host=secure&page=200&order=name&sig_id=153356042&sig=4d8e3265b4374b84aabb8efcc26eb8107a3ec81b";
 
     var pastEvents = [],
         upcomingEvents = [],
@@ -51,7 +51,7 @@
         }
     });
 
-    function buildPost(event){
+    function buildPost(event, isUpcoming){
         var eventDate = new Date(event.time);
         var post = $('<div/>');
         var heading = $('<h2/>');
@@ -65,13 +65,13 @@
         link.attr('href', event.event_url);
         link.text(event.name);
         heading.append(link);
-        heading.append(buildPostInfo(event));
+        heading.append(buildPostInfo(event, isUpcoming));
         post.append(heading);
         post.append(event.description);
 
         return post;
     }
-    function buildPostInfo(event){
+    function buildPostInfo(event, isUpcoming){
         var eventDateTime = new Date(event.time);
         var ampm = (eventDateTime.getHours() >= 12 ? 'PM' : 'AM');
         var eventInfo = $('<div/>').addClass('eventInfo');
@@ -85,17 +85,21 @@
             .text(
                 (eventDateTime.getHours() >= 12 ? eventDateTime.getHours()-12 : eventDateTime.getHours()) + ":"+ eventDateTime.getMinutes() + " " + ampm
             );
-        var going = $('<a/>').attr('href',event.event_url).text(event.yes_rsvp_count + ' going');
-        var spots = $('<a/>').attr('href',event.event_url).text((event.rsvp_limit - event.yes_rsvp_count) + ' spots left');
+        var goingText = (isUpcoming ? 'going' : 'went');
+        var going = $('<a/>').attr('href',event.event_url).text(event.yes_rsvp_count + ' ' + goingText);
+        eventInfo.append(eventDate).append(eventTime).append(going)
+        if(isUpcoming){
+            var spots = $('<a/>').attr('href',event.event_url).text((event.rsvp_limit - event.yes_rsvp_count) + ' spots left');
+            eventInfo.append(spots);
+        }
 
-        eventInfo.append(eventDate).append(eventTime).append(going).append(spots);
         return eventInfo;
     }
     function populateUpcomingEvents(){
         if(upcomingEvents.length > 0){
             $('#UpcomingEvents').empty();
             for(var i=0;i<upcomingEvents.length;i++){
-                $('#UpcomingEvents').append(buildPost(upcomingEvents[i]));
+                $('#UpcomingEvents').append(buildPost(upcomingEvents[i], true));
             }
         }
     }
@@ -106,7 +110,7 @@
                 pastEventsArr.push($(this));
             });
             for(var i=0;i<pastEvents.length;i++){
-                pastEventsArr.push(buildPost(pastEvents[i]));
+                pastEventsArr.push(buildPost(pastEvents[i], false));
             }
 
             pastEventsArr.sort(function(a, b){
