@@ -85,21 +85,17 @@ module.exports = function(grunt) {
         ]
       }
     },
-    connect: {
-      server: {
-        options: {
-          port: 4000,
-          base: '_site',
-          keepalive: true,
-          hostname: '*'
-        }
-      }
+    'gh-pages': {
+      options: {
+        base: '_site'
+      },
+      src: ['**']
     }
   });
 
   grunt.registerTask('build', ['less','jekyll:build']);
   grunt.registerTask('optimize', ['imagemin','uncss','cssmin','htmlmin']);
-  grunt.registerTask('prod', ['build','optimize','connect']);
+  grunt.registerTask('deploy', ['build','optimize','gh-pages']);
   grunt.registerTask('default', ['build','connect']);
 
 };

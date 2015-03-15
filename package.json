@@ -12,6 +12,7 @@
     "grunt-contrib-imagemin": "~0.9.3",
     "grunt-contrib-less": "^1.0.0",
     "grunt-css-url-embed": "^1.5.1",
+    "grunt-gh-pages": "^0.10.0",
     "grunt-jekyll": "0.4.2",
     "grunt-uncss": "~0.3.4",
     "imagemin-jpeg-recompress": "^4.1.0",
