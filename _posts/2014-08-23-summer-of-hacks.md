@@ -2,6 +2,7 @@
 published: true
 title: 2014 Summer of Hacks
 layout: post
+date: 2014-08-23
 ---
 
 # Join us for a series of hands-on events this summer

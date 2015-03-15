@@ -4,6 +4,7 @@ title: 14th May MegaMeetup#2
 layout: post
 show_lanyrd_widget: true
 lanyrd_page: http://lanyrd.com/2014/jsoxpy/attendees/
+date: 2014-05-14
 ---
 
 ### As part of [digital oxford week](http://www.digitaloxford.com/weekmay2014/) we're teaming up with [Oxford Python](https://twitter.com/oxfordpython) for [another](/2013/october/) mega-meetup
