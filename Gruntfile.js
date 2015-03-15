@@ -94,7 +94,7 @@ module.exports = function(grunt) {
   });
 
   grunt.registerTask('build', ['less','jekyll:build']);
-  grunt.registerTask('optimize', ['imagemin','uncss','cssmin','htmlmin']);
+  grunt.registerTask('optimize', ['imagemin','cssmin','htmlmin']);
   grunt.registerTask('deploy', ['build','optimize','gh-pages']);
   grunt.registerTask('default', ['build','connect']);
 
