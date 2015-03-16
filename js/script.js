@@ -59,7 +59,7 @@
         var meetupImage = $('<img/>').attr('src','/img/meetup.png').attr('alt','Meetup');
 
         post.addClass('post');
-        post.data('date', eventDate);
+        post.data('date', eventDate.getYear()+"-"+(eventDate.getMonth()+1)+"-"+eventDate.getDate());
         heading.addClass('post-title');
         heading.append(meetupImage);
         link.attr('href', event.event_url);
