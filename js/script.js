@@ -114,8 +114,8 @@
             }
 
             pastEventsArr.sort(function(a, b){
-                var dateA = new Date(a.data('date'));
-                var dateB = new Date(b.data('date'));
+                var dateA = new Date(a.data('date').split(' ')[0]);
+                var dateB = new Date(b.data('date').split(' ')[0]);
                 return dateA === dateB ? 0 : (dateA < dateB ? 1 : -1);
             });
             $('#PastEvents').empty().append(pastEventsArr);
