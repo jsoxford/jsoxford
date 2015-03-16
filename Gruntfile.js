@@ -85,6 +85,16 @@ module.exports = function(grunt) {
         ]
       }
     },
+    uglify: {
+      dist: {
+        options: {
+          sourceMap: true
+        },
+        files: {
+          '_site/js/script.js': ['_site/js/script.js']
+        }
+      }
+    },
     'gh-pages': {
       options: {
         base: '_site'
@@ -94,7 +104,7 @@ module.exports = function(grunt) {
   });
 
   grunt.registerTask('build', ['less','jekyll:build']);
-  grunt.registerTask('optimize', ['imagemin','cssmin','htmlmin']);
+  grunt.registerTask('optimize', ['imagemin','cssmin','uglify','htmlmin']);
   grunt.registerTask('deploy', ['build','optimize','gh-pages']);
   grunt.registerTask('default', ['build','connect']);
 
