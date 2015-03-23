@@ -36,19 +36,21 @@
             populatePastEvents();
         }
     });
-    // Get members
-    $.ajax({
-      url: membersQuery + "&offset=0",
-        type: "GET",
-        cache: false,
-        dataType: "jsonp",
-        crossDomain: true,
-        success: function(data){
-            // Currently will only get the first 200(?)
-            members = data.results;
-            populateMembers();
-        }
-    });
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+        // Get members, but only for desktop (don't want to waste peoples money)
+        $.ajax({
+          url: membersQuery + "&offset=0",
+            type: "GET",
+            cache: false,
+            dataType: "jsonp",
+            crossDomain: true,
+            success: function(data){
+                // Currently will only get the first 200(?)
+                members = data.results;
+                populateMembers();
+            }
+        });
+    }
 
     function buildPost(event, isUpcoming){
         var eventDate = new Date(event.time);
