@@ -8,8 +8,7 @@
 
     var pastEvents = [],
         upcomingEvents = [],
-        members = [],
-        groupInfo = {};
+        members = [];
 
     // Get upcoming events
     $.ajax({
@@ -32,7 +31,7 @@
         dataType: "jsonp",
         crossDomain: true,
         success: function(data){
-            // Currently will only get the first 20
+            // Currently will only get the first 40
             pastEvents = data.results;
             populatePastEvents();
         }
@@ -59,7 +58,7 @@
         var meetupImage = $('<img/>').attr('src','/img/meetup.png').attr('alt','Meetup');
 
         post.addClass('post');
-        post.data('date', eventDate.getFullYear()+"-"+(eventDate.getMonth()+1)+"-"+eventDate.getDate());
+        post.data('date', eventDate.getFullYear()+"-"+(eventDate.getMonth()<9?"0":"")+(eventDate.getMonth()+1)+"-"+eventDate.getDate());
         heading.addClass('post-title');
         heading.append(meetupImage);
         link.attr('href', event.event_url);
@@ -83,7 +82,7 @@
         var eventTime = $('<span/>')
             .addClass('eventTime')
             .text(
-                (eventDateTime.getHours() >= 12 ? eventDateTime.getHours()-12 : eventDateTime.getHours()) + ":"+ eventDateTime.getMinutes() + " " + ampm
+                (eventDateTime.getHours() >= 12 ? eventDateTime.getHours()-12 : eventDateTime.getHours()) + ":"+ (eventDateTime.getMinutes()<10?"0":"") + eventDateTime.getMinutes() + " " + ampm
             );
         var goingText = (isUpcoming ? 'going' : 'went');
         var going = $('<a/>').attr('href',event.event_url).text(event.yes_rsvp_count + ' ' + goingText);
@@ -143,5 +142,4 @@
         $('#MeetupMembers').append(membersArr);
         $('#Members').removeClass('hidden');
     }
-
 }());
