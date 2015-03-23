@@ -6,6 +6,8 @@
     var upcomingEventsQuery = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_id=17778422&only=time%2Cevent_url%2Cname%2Cdescription%2Cyes_rsvp_count%2Crsvp_limit&photo-host=secure&page=20&fields=&order=time&desc=false&status=upcoming&sig_id=153356042&sig=84e9ac6ce37bdb3c00e4f82fe5a7ce798865fbe4";
     var membersQuery = "https://api.meetup.com/2/members?offset=0&format=json&group_id=17778422&only=photo%2Cname%2Clink&photo-host=secure&page=200&order=name&sig_id=153356042&sig=4d8e3265b4374b84aabb8efcc26eb8107a3ec81b";
 
+    var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
     var pastEvents = [],
         upcomingEvents = [],
         members = [];
@@ -36,7 +38,7 @@
             populatePastEvents();
         }
     });
-    if(! /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+    if(!isMobile) {
         // Get members, but only for desktop (don't want to waste peoples money)
         $.ajax({
           url: membersQuery + "&offset=0",
@@ -142,6 +144,6 @@
             membersArr.push($('<a/>').attr('href','https://www.meetup.com/JSOxford/members').text("...plus "+otherMembers+" others."));
         }
         $('#MeetupMembers').append(membersArr);
-        $('#Members').removeClass('hidden').find('h3').prepend(members.length);
+        $('#Members').removeClass('hidden').find('h3').prepend(members.length+' ');
     }
 }());
