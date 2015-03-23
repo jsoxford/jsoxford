@@ -106,7 +106,7 @@ module.exports = function(grunt) {
   grunt.registerTask('build', ['less','jekyll:build']);
   grunt.registerTask('optimize', ['imagemin','cssmin','uglify','htmlmin']);
   grunt.registerTask('deploy', ['build','optimize','gh-pages']);
-  grunt.registerTask('default', ['build','connect']);
+  grunt.registerTask('default', ['build','jekyll:serve']);
 
 };
 
