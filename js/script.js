@@ -36,7 +36,7 @@
             populatePastEvents();
         }
     });
-    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+    if(! /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
         // Get members, but only for desktop (don't want to waste peoples money)
         $.ajax({
           url: membersQuery + "&offset=0",
