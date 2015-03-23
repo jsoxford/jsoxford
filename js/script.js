@@ -140,6 +140,6 @@
             membersArr.push($('<a/>').attr('href','https://www.meetup.com/JSOxford/members').text("...plus "+otherMembers+" others."));
         }
         $('#MeetupMembers').append(membersArr);
-        $('#Members').removeClass('hidden');
+        $('#Members').removeClass('hidden').find('h3').prepend(members.length);
     }
 }());

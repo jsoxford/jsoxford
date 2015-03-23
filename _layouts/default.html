@@ -6,7 +6,7 @@
 <head>
     <title>JSOxford</title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link href='//fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
@@ -22,13 +22,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-md-8">
-                 <div class="main">
-                    {{ content }}
-                </div>
-            </div>
-
-            <div class="col-md-4 sidebar">
+            <div class="col-md-4 pull-right sidebar">
                 <h3>events</h3>
                 <div><a href="http://www.meetup.com/JSOxford/"><img src="/img/meetup-logo.png"/></a></div>
                 <h3>github</h3>
@@ -42,13 +36,19 @@
                     <a class="btn btn-primary btn-lg" href="https://docs.google.com/a/whiteoctober.co.uk/spreadsheet/viewform?formkey=dHE0aldWMEFvUGY0ZXprTUlMODBXZkE6MQ">Propose a talk</a>
                 </div>
                 <div id="Members" class="hidden">
-                    <h3>members</h3>
+                    <h3> JavaScripters</h3>
                     <div id="MeetupMembers"></div>
                 </div>
                 <h3>location</h3>
                 <div>
                     <iframe width="100%" height="250px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=White%20October%2C%203%20The%20Gallery%2C%2054%20Marston%20Street%2C%20OX4%201LF%2C%20Oxford&key=AIzaSyDcfmsvBuTggv2bX9i0T_tIpcCjBPTgibQ"></iframe>
                 </div>                
+            </div>
+
+            <div class="col-md-8 pull-left content">
+                 <div class="main">
+                    {{ content }}
+                </div>
             </div>
         </div>
     </div>
