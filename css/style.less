@@ -10,11 +10,36 @@ img {
 	max-width: 90%;
 }
 
+@media (min-width: 0px) and (max-width: 479px) {
+   header {
+   	background: url(/img/Oxford_panorama-xs.jpg);
+   }
+}
+@media (min-width: 480px) and (max-width: 767px) {
+   header {
+   	background: url(/img/Oxford_panorama-sm.jpg);
+   }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+   header {
+   	background: url(/img/Oxford_panorama-md.jpg);
+   }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+   header {
+   	background: url(/img/Oxford_panorama-lg.jpg);
+   }
+}
+@media (min-width: 1200px) {
+   header {
+   	background: url(/img/Oxford_panorama.jpg);
+   }
+}
+
 header {
 	height: 250px;
 	padding-top: 5px;
 	margin-bottom:150px;
-	background: url(/img/Oxford_panorama.jpg);
 	background-position: center;
 
 	a {
