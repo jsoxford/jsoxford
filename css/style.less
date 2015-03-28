@@ -10,9 +10,56 @@ img {
 	max-width: 90%;
 }
 
+
+header {
+	height: 250px;
+	padding-top: 5px;
+	margin-bottom:150px;
+	background-position: center;
+
+	a.logo {
+		position:relative;
+		top:50px;
+
+		img {
+			margin:0 auto;
+			height:300px;
+			display:block;
+		}
+	}
+
+	.navbar {
+		position: absolute;
+		right: 0;
+		width: 100%;
+		z-index: 1;
+
+		.navbar-toggle {
+			background-color: rgba(247, 223, 30, 0.7);
+			color: #000;
+			padding: 5px 8px;
+			z-index: 2;
+		}
+
+		.navbar-collapse{
+			background-color: #fff;
+			position: absolute;
+			top: 0;
+			width: 100%;
+			padding-top: 45px;
+			font-size: 1.5em;
+		}
+	}
+}
+
 @media (min-width: 0px) and (max-width: 479px) {
    header {
    	background: url(/img/Oxford_panorama-xs.jpg);
+   	height: 150px;
+
+   	a.logo img {
+   		height: 200px;
+   	}
    }
 }
 @media (min-width: 480px) and (max-width: 767px) {
@@ -36,24 +83,6 @@ img {
    }
 }
 
-header {
-	height: 250px;
-	padding-top: 5px;
-	margin-bottom:150px;
-	background-position: center;
-
-	a {
-		position:relative;
-		top:50px;
-
-		img {
-			margin:0 auto;
-			height:300px;
-			display:block;
-		}
-	}
-}
-
 footer {
 	margin-top: 10px;
 	text-align: center;
@@ -62,6 +91,11 @@ footer {
 
 .content {
 	max-width: 100%;
+	
+
+	.main {
+		padding: 0 5px;
+	}
 }
 
 .sidebar {
