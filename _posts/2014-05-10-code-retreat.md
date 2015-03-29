@@ -4,6 +4,7 @@ title: 10th May JS Code Retreat
 layout: post
 show_lanyrd_widget: true
 lanyrd_page: http://lanyrd.com/2014/jsoxford-coderetreat/attendees/
+date: 2014-05-10
 ---
 
 ## We're very excited to be part of [JavaScript&nbsp;CodeRetreat](http://jscoderetreat.com/2/)
