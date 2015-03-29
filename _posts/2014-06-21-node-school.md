@@ -2,6 +2,7 @@
 title: NodeSchool - Summer of Hacks
 layout: post
 skip_index: true
+date: 2014-06-21
 ---
 
 # This event has finished, see the [summer of hacks](http://jsoxford.com/2014/summer-of-hacks/) post for information about the next events

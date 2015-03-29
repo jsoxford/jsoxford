@@ -4,6 +4,7 @@ title: 25th September 2013
 layout: post
 show_lanyrd_widget: true
 lanyrd_page: http://lanyrd.com/2013/js-oxford-september/attendees/
+date: 2013-09-25
 ---
 
 <p class="lead">This month we have a special speaker coming to talk about cross platform automated testing your JS.</p>

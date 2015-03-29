@@ -2,6 +2,7 @@
 title: Code Retreat - Summer of Hacks
 layout: post
 skip_index: true
+date: 2014-07-06
 ---
 
 ## This event has finished, see the [summer of hacks](http://jsoxford.com/2014/summer-of-hacks/) post for information about the next events

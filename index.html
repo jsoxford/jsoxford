@@ -1,21 +1,42 @@
 ---
 layout: default
-show_lanyrd_widget: true
 ---
 
-{% for post in site.posts %}
-{% unless post.skip_index %}
+<div class="row">
+    <h2><i class="fa fa-calendar"></i> Upcoming  Events</h2>
+    <div id="UpcomingEvents">
+        <em>No upcoming events... <i class="fa fa-frown-o"></i></em>
+    </div>
+</div>
+<div class="row">
+    <h2><i class="fa fa-calendar"></i> Past Events</h2>
+    <div id="PastEvents">
+        {% for post in site.posts %}
+            <div class="post" data-date="{{post.date}}">
+                <h2 class="post-title">
+                    <a href="{{ post.url }}">{{post.title}}</a>
+                    {% if post.lanyrd != null %}
+                        <small>
+                            <a href="http://lanyrd.com/{{post.lanyrd}}" class="icon-lanyrd"></a>
+                        </small>
+                    {% endif %}
+                </h2>
 
-<h2 class="post-title"><a href="{{ post.url }}">{{post.title}}</a></h2>
 
-{{ post.content}}
+                {{ post.content}}
+            </div>
 
-{% if post.lanyrd_page %}
-    <hr />
-    {% assign rsvp_link = post.lanyrd_page %}
-    {% include lanyrd_widget.html %}
-{% endif %}
 
-<hr class="heavy" />
-{% endunless %}
-{% endfor %}
+            {% if post.lanyrd != null %}
+                <div class="lanyrd-target-participants">
+                    <a href="http://lanyrd.com/{{post.lanyrd}}attendees/" class="lanyrd-participants">
+                        RSVP on Lanyrd
+                    </a>
+                </div>
+            {% endif %}
+
+            <hr class="heavy" />
+
+        {% endfor %}
+    </div>
+</div>
