@@ -103,7 +103,18 @@ module.exports = function(grunt) {
         branch: 'master'
       },
       src: ['**']
-    }
+    },
+    smoosher: {
+      options: {
+        jsDir: "_site/",
+        cssDir: "_site/"
+      },
+      all: {
+        files: {
+          '_site/index.html': '_site/index.html',
+        },
+      },
+    },
   });
 
   grunt.registerTask('build', ['less','jekyll:build','uncss','cssmin']);
