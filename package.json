@@ -22,8 +22,7 @@
     "load-grunt-tasks": "~0.6.0"
   },
   "scripts": {
-    "serve" : "./node_modules/.bin/grunt",
-    "deploy" : "./node_modules/.bin/grunt deploy",
-    "postinstall" : "./node_modules/.bin/bower install"
+    "start" : "./node_modules/.bin/grunt",
+    "postinstall" : "./node_modules/.bin/bower install && bundle install"
   }
 }
