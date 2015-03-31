@@ -15,7 +15,7 @@
     "grunt-gh-pages": "^0.10.0",
     "grunt-html-smoosher": "git+https://github.com/AverageMarcus/grunt-html-smoosher",
     "grunt-jekyll": "0.4.2",
-    "grunt-uncss": "~0.3.4",
+    "grunt-uncss": "^0.3.8",
     "imagemin-jpeg-recompress": "^4.1.0",
     "imagemin-mozjpeg": "^4.0.0",
     "load-grunt-tasks": "~0.6.0"

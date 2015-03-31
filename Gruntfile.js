@@ -49,19 +49,19 @@ module.exports = function(grunt) {
       }
     },
     uncss: {
-      bootstrap: {
+      dist: {
         options: {
-          stylesheets: ['_site/css/bootstrap.min.css','_site/css/font-awesome.min.css']
+          stylesheets: ['_site/css/style.min.css']
         },
         files: {
-          '_site/css/third-party.min.css': ['*.html','**/*.html', '!node_modules/**/*.html']
+          '_site/css/style.min.css': ['*.html','**/*.html', '!node_modules/**/*.html']
         }
       },
     },
     cssmin: {
       dist: {
         files: {
-          '_site/css/style.min.css': ['_site/css/third-party.min.css','_site/css/style.css']
+          '_site/css/style.min.css': ['_site/css/style.css']
         }
       }
     },
@@ -117,8 +117,8 @@ module.exports = function(grunt) {
     },
   });
 
-  grunt.registerTask('build', ['less','jekyll:build','uncss','cssmin']);
-  grunt.registerTask('optimize', ['imagemin','uglify','htmlmin']);
+  grunt.registerTask('build', ['less','jekyll:build']);
+  grunt.registerTask('optimize', ['cssmin','uncss','imagemin','uglify','htmlmin']);
   grunt.registerTask('deploy', ['build','optimize','gh-pages']);
   grunt.registerTask('default', ['build','jekyll:serve']);
 
