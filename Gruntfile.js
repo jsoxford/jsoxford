@@ -4,7 +4,6 @@ module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
 
   grunt.initConfig({
-
     less: {
       build: {
         options: {
@@ -103,7 +102,7 @@ module.exports = function(grunt) {
         branch: 'master'
       },
       src: ['**']
-    },
+    }
   });
 
   grunt.registerTask('build', ['less','jekyll:build']);
@@ -112,4 +111,3 @@ module.exports = function(grunt) {
   grunt.registerTask('default', ['build','jekyll:serve']);
 
 };
-
