@@ -50,17 +50,17 @@ module.exports = function(grunt) {
     uncss: {
       dist: {
         options: {
-          stylesheets: ['_site/css/style.min.css']
+          stylesheets: ['_site/css/style.css']
         },
         files: {
-          '_site/css/style.min.css': ['*.html','**/*.html', '!node_modules/**/*.html']
+          '_site/css/style.css': ['*.html','**/*.html', '!node_modules/**/*.html']
         }
       },
     },
     cssmin: {
       dist: {
         files: {
-          '_site/css/style.min.css': ['_site/css/style.css']
+          '_site/css/style.css': ['_site/css/style.css']
         }
       }
     },
