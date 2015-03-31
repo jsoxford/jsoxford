@@ -104,17 +104,6 @@ module.exports = function(grunt) {
       },
       src: ['**']
     },
-    smoosher: {
-      options: {
-        jsDir: "_site/",
-        cssDir: "_site/"
-      },
-      all: {
-        files: {
-          '_site/index.html': '_site/index.html',
-        },
-      },
-    },
   });
 
   grunt.registerTask('build', ['less','jekyll:build']);
