@@ -1,6 +1,8 @@
 branches:
   only:
   - develop
+install:
+  - npm install -g npm@2
 script: npm install && ./node_modules/.bin/grunt deploy
 env:
   global:
