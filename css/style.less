@@ -1,5 +1,22 @@
+// Pull in Font Awesome
+// We need to load the variables first, override the font path, then
+// load everything else.
+@import "../bower_components/fontawesome/less/variables.less";
+@fa-font-path:   "../bower_components/fontawesome/fonts/";
+@import "../bower_components/fontawesome/less/mixins.less";
+@import "../bower_components/fontawesome/less/path.less";
+@import "../bower_components/fontawesome/less/core.less";
+@import "../bower_components/fontawesome/less/larger.less";
+@import "../bower_components/fontawesome/less/fixed-width.less";
+@import "../bower_components/fontawesome/less/list.less";
+@import "../bower_components/fontawesome/less/bordered-pulled.less";
+@import "../bower_components/fontawesome/less/animated.less";
+@import "../bower_components/fontawesome/less/rotated-flipped.less";
+@import "../bower_components/fontawesome/less/stacked.less";
+@import "../bower_components/fontawesome/less/icons.less";
+
+// Pull in Bootstrap
 @import "../bower_components/bootstrap/less/bootstrap.less";
-@import "../bower_components/fontawesome/less/font-awesome.less";
 
 body{
 	font-family: Roboto, helvetica, sans-serif;
