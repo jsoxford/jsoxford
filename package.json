@@ -6,6 +6,7 @@
   "devDependencies": {
     "bower": "^1.4.0",
     "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
     "grunt-contrib-connect": "~0.9.0",
     "grunt-contrib-cssmin": "~0.10.0",
     "grunt-contrib-htmlmin": "~0.3.0",
@@ -19,5 +20,10 @@
     "imagemin-jpeg-recompress": "^4.1.0",
     "imagemin-mozjpeg": "^4.0.0",
     "load-grunt-tasks": "~0.6.0"
+  },
+  "scripts": {
+    "serve" : "./node_modules/.bin/grunt",
+    "deploy" : "./node_modules/.bin/grunt deploy",
+    "postinstall" : "./node_modules/.bin/bower install"
   }
 }
