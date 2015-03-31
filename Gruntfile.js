@@ -4,7 +4,6 @@ module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
 
   grunt.initConfig({
-
     less: {
       build: {
         options: {
@@ -56,14 +55,13 @@ module.exports = function(grunt) {
         files: {
           '_site/css/style.css': ['*.html','**/*.html', '!node_modules/**/*.html']
         }
-      }
+      },
     },
     cssmin: {
       dist: {
-        expand: true,
-        cwd: '_site/css/',
-        src: ['*.css'],
-        dest: '_site/css/'
+        files: {
+          '_site/css/style.css': ['_site/css/style.css']
+        }
       }
     },
     htmlmin: {
@@ -108,9 +106,8 @@ module.exports = function(grunt) {
   });
 
   grunt.registerTask('build', ['less','jekyll:build']);
-  grunt.registerTask('optimize', ['imagemin','cssmin','uglify','htmlmin']);
+  grunt.registerTask('optimize', ['cssmin','uncss','imagemin','uglify','htmlmin']);
   grunt.registerTask('deploy', ['build','optimize','gh-pages']);
   grunt.registerTask('default', ['build','jekyll:serve']);
 
 };
-

@@ -8,7 +8,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link href='//fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
     <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="JS Oxford Posts">
     <meta http-equiv='x-dns-prefetch-control' content='on'>
@@ -98,25 +97,6 @@
         Header image by <a href="https://www.flickr.com/people/84086311@N00">Olly Boyo</a>
     </footer>
 
-
-    <script>
-        var stylesheets = [
-            '//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'
-        ];
-        var cb = function() {
-            for(var i=0,len=stylesheets.length;i<len;i++){
-                var l = document.createElement('link'); 
-                var h = document.getElementsByTagName( "script" )[ 0 ];
-                l.rel = 'stylesheet';
-                l.href = stylesheets[i];
-                h.parentNode.insertBefore(l, h);
-            }
-        };
-        var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-            webkitRequestAnimationFrame || msRequestAnimationFrame;
-        if (raf) raf(cb);
-        else window.addEventListener('load', cb);
-    </script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" defer></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js" defer></script>
     <script src="/js/script.js" defer></script>
