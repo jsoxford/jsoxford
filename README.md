@@ -25,3 +25,27 @@ Content stuff
 -------------
 
 We link to @jsoxford with [twitter intents](https://dev.twitter.com/docs/intents), so maybe you can use that too? Or not I guess.
+
+
+Building
+--------
+
+The site has an additional deployment step to create an optimised build of the site.  This should run automatically on the CI server, though it's also possible to run locally if you want to debug stuff.
+
+```bash
+# install jekyll as above
+# ...
+
+# install the grunt cli globally
+npm install -g grunt-cli
+
+# install project dependencies
+npm install
+
+# serve the site at localhost:5000
+grunt
+
+# create an optimised build in ./_site
+# see Gruntfile.js for more tasks/details
+grunt optimize
+```
