@@ -1,0 +1,8 @@
+branches:
+  only:
+  - develop
+script: npm install && ./node_modules/.bin/grunt deploy
+env:
+  global:
+  - secure: e4nJncGBMJJVgJq67w1MxeOGSwdFBWebE3L1lHArIJEqZkiIClG2gEFxh0yzcKXc2x/u0rC2IXjFJLGap/NzMnup1IFqbWnuhQZvInfymfzj0n9PqaIQlPQrP27SINte2tIcCWLjiNwJgN4Nl4fmXcdxs312K3GVc7VtuUyRI+o=
+  - secure: RHHhIwZljvDYGkXZBm9phPGq/R+9kz05veSvK3TaWFW5OdPGjM6QSVfuhyN7TjOvf8RPMT13TqfFyWbL8skW00g/+rePjgUEAni/SazzAb6iCSDQi2Ytv5AXFsMnBEJeDRCJ/G/NUOsz7WLZTKlf5PwD39KDP38ZaRel30TImyE=
