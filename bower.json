@@ -1,0 +1,24 @@
+{
+  "name": "jsoxford.github.com",
+  "version": "0.0.0",
+  "homepage": "http://jsoxford.com",
+  "description": "The website for JSOxford",
+  "keywords": [
+    "website",
+    "javascript",
+    "community"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0"
+  }
+}

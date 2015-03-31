@@ -4,7 +4,6 @@ module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
 
   grunt.initConfig({
-
     less: {
       build: {
         options: {
@@ -56,14 +55,13 @@ module.exports = function(grunt) {
         files: {
           '_site/css/style.css': ['*.html','**/*.html', '!node_modules/**/*.html']
         }
-      }
+      },
     },
     cssmin: {
       dist: {
-        expand: true,
-        cwd: '_site/css/',
-        src: ['*.css'],
-        dest: '_site/css/'
+        files: {
+          '_site/css/style.css': ['_site/css/style.css']
+        }
       }
     },
     htmlmin: {
@@ -98,19 +96,25 @@ module.exports = function(grunt) {
         }
       }
     },
-    'gh-pages': {
-      options: {
-        base: '_site',
-        branch: 'master'
-      },
-      src: ['**']
-    }
+    buildcontrol: {
+      dist: {
+        options: {
+          config: {'user.name': 'Travis CI', "user.email": "ryanbrooksis+ci@gmail.com"},
+          login: process.env.GH_LOGIN,
+          token: process.env.GH_TOKEN,
+          dir: '_site',
+          remote: 'https://github.com/jsoxford/jsoxford.github.com',
+          branch: 'master',
+          commit: true,
+          push: true
+        }
+      }
+    },
   });
 
   grunt.registerTask('build', ['less','jekyll:build']);
-  grunt.registerTask('optimize', ['imagemin','cssmin','uglify','htmlmin']);
-  grunt.registerTask('deploy', ['build','optimize','gh-pages']);
+  grunt.registerTask('optimize', ['cssmin','uncss','imagemin','uglify','htmlmin']);
+  grunt.registerTask('deploy', ['build','optimize','buildcontrol']);
   grunt.registerTask('default', ['build','jekyll:serve']);
 
 };
-

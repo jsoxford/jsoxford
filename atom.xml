@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2015-03-30T11:30:44+01:00</updated>
+ <updated>2015-03-31T21:22:40+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -12,7 +12,7 @@
 
  
  <entry>
-   <title>We&#39;ve moved to meetup.com!</title>
+   <title>We've moved to meetup.com!</title>
    <link href="http://jsoxford.com/2014/meetup/"/>
    <updated>2014-11-13T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2014/meetup</id>
@@ -27,11 +27,11 @@
  <entry>
    <title>2014 Summer of Hacks</title>
    <link href="http://jsoxford.com/2014/summer-of-hacks/"/>
-   <updated>2014-08-23T00:00:00+01:00</updated>
+   <updated>2014-08-23T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2014/summer-of-hacks</id>
    <content type="html">&lt;h1 id=&quot;join-us-for-a-series-of-hands-on-events-this-summer&quot;&gt;Join us for a series of hands-on events this summer&lt;/h1&gt;
 
-&lt;p class=&quot;lead&quot;&gt;We&#39;re taking a break from our evening meetups for the next few months.  Instead, we&#39;re going to hold hack days, where you can come along to learn, tinker, hack &amp;amp; hang out with like minded people.&lt;/p&gt;
+&lt;p class=&quot;lead&quot;&gt;We're taking a break from our evening meetups for the next few months.  Instead, we're going to hold hack days, where you can come along to learn, tinker, hack &amp;amp; hang out with like minded people.&lt;/p&gt;
 
 &lt;p&gt;We’ve got three events planned, you’ll get a lot from them whether you’re starting out, or an experienced JS developer.&lt;/p&gt;
 
@@ -120,7 +120,7 @@
  <entry>
    <title>Code Retreat - Summer of Hacks</title>
    <link href="http://jsoxford.com/2014/soh-code-retreat/"/>
-   <updated>2014-07-06T00:00:00+01:00</updated>
+   <updated>2014-07-06T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2014/soh-code-retreat</id>
    <content type="html">&lt;h2 id=&quot;this-event-has-finished-see-the-summer-of-hackshttpjsoxfordcom2014summer-of-hacks-post-for-information-about-the-next-events&quot;&gt;This event has finished, see the &lt;a href=&quot;http://jsoxford.com/2014/summer-of-hacks/&quot;&gt;summer of hacks&lt;/a&gt; post for information about the next events&lt;/h2&gt;
 
@@ -184,7 +184,7 @@
  <entry>
    <title>NodeSchool - Summer of Hacks</title>
    <link href="http://jsoxford.com/2014/node-school/"/>
-   <updated>2014-06-21T00:00:00+01:00</updated>
+   <updated>2014-06-21T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2014/node-school</id>
    <content type="html">&lt;h1 id=&quot;this-event-has-finished-see-the-summer-of-hackshttpjsoxfordcom2014summer-of-hacks-post-for-information-about-the-next-events&quot;&gt;This event has finished, see the &lt;a href=&quot;http://jsoxford.com/2014/summer-of-hacks/&quot;&gt;summer of hacks&lt;/a&gt; post for information about the next events&lt;/h1&gt;
 
@@ -245,7 +245,7 @@
  <entry>
    <title>14th May MegaMeetup#2</title>
    <link href="http://jsoxford.com/2014/mega-meetup-2/"/>
-   <updated>2014-05-14T00:00:00+01:00</updated>
+   <updated>2014-05-14T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2014/mega-meetup-2</id>
    <content type="html">&lt;h3 id=&quot;as-part-of-digital-oxford-weekhttpwwwdigitaloxfordcomweekmay2014-were-teaming-up-with-oxford-pythonhttpstwittercomoxfordpython-for-another2013october-mega-meetup&quot;&gt;As part of &lt;a href=&quot;http://www.digitaloxford.com/weekmay2014/&quot;&gt;digital oxford week&lt;/a&gt; we’re teaming up with &lt;a href=&quot;https://twitter.com/oxfordpython&quot;&gt;Oxford Python&lt;/a&gt; for &lt;a href=&quot;/2013/october/&quot;&gt;another&lt;/a&gt; mega-meetup&lt;/h3&gt;
 
@@ -307,7 +307,7 @@ In this talk, I will talk about naming things, telling you why is it hard to nam
  <entry>
    <title>10th May JS Code Retreat</title>
    <link href="http://jsoxford.com/2014/code-retreat/"/>
-   <updated>2014-05-10T00:00:00+01:00</updated>
+   <updated>2014-05-10T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2014/code-retreat</id>
    <content type="html">&lt;h2 id=&quot;were-very-excited-to-be-part-of-javascriptnbspcoderetreathttpjscoderetreatcom2&quot;&gt;We’re very excited to be part of &lt;a href=&quot;http://jscoderetreat.com/2/&quot;&gt;JavaScript CodeRetreat&lt;/a&gt;&lt;/h2&gt;
 
@@ -327,13 +327,13 @@ In this talk, I will talk about naming things, telling you why is it hard to nam
       &lt;li&gt;&lt;a href=&quot;http://tddbin.com&quot;&gt;TDDBin&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;/p&gt;
-  &lt;p&gt;We&#39;re really excited about the possibility for variations of the code retreat theme, in particular:
+  &lt;p&gt;We're really excited about the possibility for variations of the code retreat theme, in particular:
   &lt;ul&gt;
       &lt;li&gt;Mixing up Python, Ruby &amp;amp; Javascript developers for a cultural exchange&lt;/li&gt;
-      &lt;li&gt;Focus on levelling-up JS: less focus on TDD, instead constrain the approach differently for each session to use &#39;the best bits&#39; of JS&lt;/li&gt;
+      &lt;li&gt;Focus on levelling-up JS: less focus on TDD, instead constrain the approach differently for each session to use 'the best bits' of JS&lt;/li&gt;
       &lt;li&gt;Focus on functional programming&lt;/li&gt;
   &lt;/ul&gt;
-  If you&#39;re excited too or have ideas for how we could make it better, let us know!
+  If you're excited too or have ideas for how we could make it better, let us know!
   &lt;/p&gt;
 &lt;/div&gt;
 
@@ -405,7 +405,7 @@ We also have a JetBrains WebStorm license to give away - we’ll pick a winner f
    <id>http://jsoxford.com/2014/march</id>
    <content type="html">&lt;h3 id=&quot;and-were-back-hellipon-a-tuesday&quot;&gt;And we’re back! …on a TUESDAY!?!&lt;/h3&gt;
 
-&lt;p class=&quot;lead&quot;&gt;This month we&#39;re talking about getting our code running in the real world. Come along to find out how to deploy apps with &lt;a href=&quot;http://www.heroku.com/&quot;&gt;heroku&lt;/a&gt; and how continuous deployment can help you build software faster and with less stress.&lt;/p&gt;
+&lt;p class=&quot;lead&quot;&gt;This month we're talking about getting our code running in the real world. Come along to find out how to deploy apps with &lt;a href=&quot;http://www.heroku.com/&quot;&gt;heroku&lt;/a&gt; and how continuous deployment can help you build software faster and with less stress.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -440,8 +440,8 @@ May well be a codetastrophe, heckling encouraged!&lt;/p&gt;
     &lt;h2&gt;Bring yOur Own hYperlink Along&lt;/h2&gt;
     &lt;h3&gt;with Everyone!&lt;/h3&gt;
     &lt;blockquote&gt;
-        &lt;p&gt;This worked pretty well last time, so we&#39;ll do it again!&lt;/p&gt;
-        &lt;p&gt;We all bring a link to js-based project/post/anything that you find interesting and we&#39;ll have a quick chat about it.&lt;/p&gt;
+        &lt;p&gt;This worked pretty well last time, so we'll do it again!&lt;/p&gt;
+        &lt;p&gt;We all bring a link to js-based project/post/anything that you find interesting and we'll have a quick chat about it.&lt;/p&gt;
     &lt;/blockquote&gt;
 &lt;/div&gt;
 
@@ -462,7 +462,7 @@ May well be a codetastrophe, heckling encouraged!&lt;/p&gt;
    <link href="http://jsoxford.com/2013/december/"/>
    <updated>2013-12-12T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2013/december</id>
-   <content type="html">&lt;p class=&quot;lead&quot;&gt;Join us for the last meetup of 2013 where we&#39;ll be talking about using streams in node and chattting about some new JS Projects&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;Join us for the last meetup of 2013 where we'll be talking about using streams in node and chattting about some new JS Projects&lt;/p&gt;
 
 &lt;h2 id=&quot;indestructible-twitter-streams-with-node&quot;&gt;Indestructible twitter streams with node&lt;/h2&gt;
 
@@ -531,9 +531,9 @@ May well be a codetastrophe, heckling encouraged!&lt;/p&gt;
  <entry>
    <title>17th October 2013</title>
    <link href="http://jsoxford.com/2013/october/"/>
-   <updated>2013-10-17T00:00:00+01:00</updated>
+   <updated>2013-10-17T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2013/october</id>
-   <content type="html">&lt;p class=&quot;lead&quot;&gt;For the night before &lt;a href=&quot;http://allyourbaseconf.com&quot;&gt;All Your Base&lt;/a&gt; we&#39;re teaming up with &lt;a href=&quot;https://twitter.com/intent/user?screen_name=oxfordpython&quot;&gt;Oxford&amp;nbsp;Python&lt;/a&gt; for a data-based&lt;sup&gt;&lt;abbr title=&quot;pun intended&quot;&gt;*&lt;/abbr&gt;&lt;/sup&gt; super-mega-meetup&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;For the night before &lt;a href=&quot;http://allyourbaseconf.com&quot;&gt;All Your Base&lt;/a&gt; we're teaming up with &lt;a href=&quot;https://twitter.com/intent/user?screen_name=oxfordpython&quot;&gt;Oxford&amp;nbsp;Python&lt;/a&gt; for a data-based&lt;sup&gt;&lt;abbr title=&quot;pun intended&quot;&gt;*&lt;/abbr&gt;&lt;/sup&gt; super-mega-meetup&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Please note - this event &lt;em&gt;won’t&lt;/em&gt; be at our usual venue, but at &lt;a href=&quot;http://lanyrd.com/venues/oxford/vchz/&quot;&gt;Oxford University IT Services&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -584,7 +584,7 @@ This talk will discuss the technical aspects of developing a generic HTTP API fo
  <entry>
    <title>25th September 2013</title>
    <link href="http://jsoxford.com/2013/september/"/>
-   <updated>2013-09-25T00:00:00+01:00</updated>
+   <updated>2013-09-25T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2013/september</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt;This month we have a special speaker coming to talk about cross platform automated testing your JS.&lt;/p&gt;
 
@@ -601,9 +601,9 @@ This talk will discuss the technical aspects of developing a generic HTTP API fo
  <entry>
    <title>21st August 2013</title>
    <link href="http://jsoxford.com/2013/august/"/>
-   <updated>2013-08-21T00:00:00+01:00</updated>
+   <updated>2013-08-21T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2013/august</id>
-   <content type="html">&lt;p class=&quot;lead&quot;&gt;&amp;hellip;And we&#39;re back!&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;&amp;hellip;And we're back!&lt;/p&gt;
 
 &lt;p&gt;It’s been a long summer break,  though we’ve got a nice range of talks for a welcome back JSOxford&lt;/p&gt;
 
@@ -628,7 +628,7 @@ This talk will discuss the technical aspects of developing a generic HTTP API fo
  <entry>
    <title>22nd May 2013</title>
    <link href="http://jsoxford.com/2013/may/"/>
-   <updated>2013-05-22T00:00:00+01:00</updated>
+   <updated>2013-05-22T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2013/may</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt;This month we have a selection of talks from our members &lt;a href=&quot;http://lanyrd.com/2013/jsoxford-may/&quot;&gt;- lanyrd&lt;/a&gt;.&lt;/p&gt;
 
@@ -652,9 +652,9 @@ Experiences on the web don’t have to be constrained to a single browser window
  <entry>
    <title>Hack Day - WiRC Cars - 20th April 2013</title>
    <link href="http://jsoxford.com/2013/hack-day/"/>
-   <updated>2013-04-20T00:00:00+01:00</updated>
+   <updated>2013-04-20T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2013/hack-day</id>
-   <content type="html">&lt;p class=&quot;lead&quot;&gt;We&#39;re organising a hack day as a fringe event around the &lt;a href=&quot;http://events.jquery.org/2013/uk&quot;&gt;jQuery UK&lt;/a&gt; conference.  We&#39;ll be driving RC cars around with a node.js library.&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;We're organising a hack day as a fringe event around the &lt;a href=&quot;http://events.jquery.org/2013/uk&quot;&gt;jQuery UK&lt;/a&gt; conference.  We'll be driving RC cars around with a node.js library.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/dension.jpg&quot; alt=&quot;dension wirc car&quot; /&gt;&lt;/p&gt;
 
