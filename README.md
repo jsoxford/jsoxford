@@ -7,45 +7,40 @@ jsoxford.github.com
 This is a jekyll/github pages site.  You can run it locally with these commands
 
 ```bash
-# install bundler globally
-gem install bundler
-
-# install jekyll (might take a while)
-bundle install
-
-# get jekyll to generate and serve the site
-bundle exec jekyll server --watch
+npm install && npm start
 ```
 
-If you change the style.less - you'll need to install less - `npm install -g less` and generate the css with `lessc assets/style.less > assets/style.css`.  More info at the [lesscss site](http://lesscss.org/).  If you want the css to compile automatically you can use watch-lessc - `npm install -g watch-lessc`, then `watch-lessc -i assets/style.less -o assets/style.css`.
+You can also build and optimise the site separately:
+```bash
+npm install # install npm, bower and gem dependencies
+./node_modules/.bin/grunt build # build the site into _site
+./node_modules/.bin/grunt optimize # make it wicked-fast
+```
 
-If you don't have write access make a pull request to master and maybe poke someone to accept it.
+If you're feeling really adventurous, you can deploy it like so:
+
+```bash
+npm install && ./node_modules/.bin/grunt deploy
+```
+
+Though you shouldn't need to, we build automatically on Travis.
+
+We'd love for you to make the site prettier/faster/more accessible, just fork and create a pull request (and check out our [contribution guidelines](CONTRIBUTING.md).
+
+### Travis
+
+We continuously build the site using [TravisCI](http://travis-ci.org). The config is in `.travis.yml`. If you're porting this code to a new repository you'll also need to replace the two encrypted environment variables:
+
+```bash
+travis encrypt GH_LOGIN=YOUR_GITHUB_USERNAME --add
+travis encrypt GH_TOKEN=YOUR_APPLICATION_TOKEN --add
+```
+
+### Requirements
+
+To build this site you'll need Ruby and Bundler installed (`gem install bundler`) as well as a newish version of NPM.
 
 Content stuff
 -------------
 
 We link to @jsoxford with [twitter intents](https://dev.twitter.com/docs/intents), so maybe you can use that too? Or not I guess.
-
-
-Building
---------
-
-The site has an additional deployment step to create an optimised build of the site.  This should run automatically on the CI server, though it's also possible to run locally if you want to debug stuff.
-
-```bash
-# install jekyll as above
-# ...
-
-# install the grunt cli globally
-npm install -g grunt-cli
-
-# install project dependencies
-npm install
-
-# serve the site at localhost:5000
-grunt
-
-# create an optimised build in ./_site
-# see Gruntfile.js for more tasks/details
-grunt optimize
-```
