@@ -55,7 +55,7 @@ module.exports = function(grunt) {
             '.post',
             '.post-title',
             /.eventInfo.*/,
-            '.memberThumbnail'
+            /#MeetupMembers.*/
           ]
         },
         files: {
