@@ -50,7 +50,8 @@ module.exports = function(grunt) {
     uncss: {
       dist: {
         options: {
-          stylesheets: ['_site/css/style.css']
+          stylesheets: ['_site/css/style.css'],
+          ignore: ['post','post-title','eventInfo','eventDate','eventTime','memberThumbnail']
         },
         files: {
           '_site/css/style.css': ['*.html','**/*.html', '!node_modules/**/*.html']
