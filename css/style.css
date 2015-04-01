@@ -918,6 +918,19 @@ footer {
   color: #000;
 }
 
+.eventInfo {
+  float: right;
+  font-size: .4em;
+}
+
+.eventInfo .eventDate {
+  font-weight: 700;
+}
+
+.eventInfo a {
+  display: block;
+}
+
 iframe {
   max-width: 100%;
 }
