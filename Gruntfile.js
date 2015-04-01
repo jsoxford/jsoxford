@@ -51,7 +51,7 @@ module.exports = function(grunt) {
       dist: {
         options: {
           stylesheets: ['_site/css/style.css'],
-          ignore: ['post','post-title','eventInfo','eventDate','eventTime','memberThumbnail']
+          ignore: ['.post','.post-title','.eventInfo','.eventDate','.eventTime','.memberThumbnail']
         },
         files: {
           '_site/css/style.css': ['*.html','**/*.html', '!node_modules/**/*.html']
