@@ -1,6 +1,6 @@
 branches:
   only:
-  - develop
+    - develop
 install:
   - npm install -g npm@2
 script: npm install && ./node_modules/.bin/grunt deploy
