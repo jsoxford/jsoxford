@@ -98,10 +98,9 @@
     }
     function populateUpcomingEvents(){
         if(upcomingEvents.length > 0){
-            $('#UpcomingEvents').empty();
-            for(var i=0;i<upcomingEvents.length;i++){
-                $('#UpcomingEvents').append(buildPost(upcomingEvents[i], true));
-            }
+            $('#UpcomingEvents')
+                .empty()
+                .append(buildPost(upcomingEvents[0], true));
         }
     }
     function populatePastEvents(){
