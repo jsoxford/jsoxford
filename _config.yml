@@ -3,4 +3,4 @@ lsi: false
 hightlighter: pygments
 pygments: true
 permalink: /:year/:title/
-exclude: [node_modules, package.json]
+exclude: [node_modules, package.json, Gruntfile.js]
