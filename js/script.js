@@ -58,14 +58,17 @@
         var heading = $('<h2/>');
         var link = $('<a/>');
         var meetupImage = $('<img/>').attr('src','/img/meetup.png').attr('alt','Meetup');
+        var headingTitle = $('<div/>');
 
         post.addClass('post');
         post.data('date', eventDate.getFullYear()+"-"+(eventDate.getMonth()<9?"0":"")+(eventDate.getMonth()+1)+"-"+eventDate.getDate());
-        heading.addClass('post-title');
-        heading.append(meetupImage);
+        heading.addClass('post-title row');
+        headingTitle.addClass('col-xs-9');
+        headingTitle.append(meetupImage);
         link.attr('href', event.event_url);
         link.text(event.name);
-        heading.append(link);
+        headingTitle.append(link);
+        heading.append(headingTitle);
         heading.append(buildPostInfo(event, isUpcoming));
         post.append(heading);
         post.append(event.description);
@@ -75,7 +78,7 @@
     function buildPostInfo(event, isUpcoming){
         var eventDateTime = new Date(event.time);
         var ampm = (eventDateTime.getHours() >= 12 ? 'PM' : 'AM');
-        var eventInfo = $('<div/>').addClass('eventInfo');
+        var eventInfo = $('<div/>').addClass('eventInfo col-xs-3');
         var eventDate = $('<span/>')
             .addClass('eventDate')
             .text(
