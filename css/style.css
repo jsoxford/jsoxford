@@ -2791,7 +2791,7 @@ img {
 header {
   height: 250px;
   padding-top: 5px;
-  margin-bottom: 150px;
+  margin-bottom: 100px;
   background-position: center;
 }
 
@@ -2891,6 +2891,7 @@ footer {
 
 .post-title a {
   color: #000;
+  font-size: .8em;
 }
 
 #MeetupMembers a {
@@ -2912,7 +2913,6 @@ footer {
 }
 
 .eventInfo {
-  float: right;
   font-size: .4em;
 }
 
