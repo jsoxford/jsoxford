@@ -57,7 +57,9 @@ module.exports = function(grunt) {
             /.eventInfo.*/,
             /#MeetupMembers.*/,
             /.collapse.*/,
-            /.in.*/
+            /.in.*/,
+	    /col-xs-3.*/,
+	    /col-xs-9.*/
           ]
         },
         files: {
