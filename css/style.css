@@ -794,11 +794,26 @@ code {
 }
 
 .col-sm-4,
-.col-sm-8 {
+.col-sm-8,
+.col-xs-3,
+.col-xs-9 {
   position: relative;
   min-height: 1px;
   padding-left: 15px;
   padding-right: 15px;
+}
+
+.col-xs-3,
+.col-xs-9 {
+  float: left;
+}
+
+.col-xs-9 {
+  width: 75%;
+}
+
+.col-xs-3 {
+  width: 25%;
 }
 
 @media (min-width:768px) {
