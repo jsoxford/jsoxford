@@ -73,6 +73,10 @@
   content: "\f03c";
 }
 
+.fa-map-marker:before {
+  content: "\f041";
+}
+
 .fa-tint:before {
   content: "\f043";
 }
