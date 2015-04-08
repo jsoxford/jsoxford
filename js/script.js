@@ -159,7 +159,7 @@
             otherMembers = members.length - 15;
         }
         if(otherMembers){
-            membersArr.push($('<a/>').attr('href','https://www.meetup.com/JSOxford/members').text("...plus "+otherMembers+" others."));
+            membersArr.push($('<a/>').attr('href','https://www.meetup.com/JSOxford/members').text("...plus others."));
         }
         $('#MeetupMembers').append(membersArr);
         $('#Members').removeClass('hidden').find('h3').prepend(members.length+' ');

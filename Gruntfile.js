@@ -130,14 +130,15 @@ module.exports = function(grunt) {
     },
     clean: {
       members: {
-        src: ["./members"]
+        src: ["./members", './sprites']
       }
-    }
+    },
   });
 
 
   grunt.task.registerTask('downloadmemberphotos', 'Downloads all member photos from Meetup.com', function() {
     var done = this.async();
+    var completed = 0;
     var membersQuery = "https://api.meetup.com/2/members?offset=0&format=json&group_id=17778422&only=photo%2Cname%2Clink&photo-host=secure&page=200&order=name&sig_id=153356042&sig=4d8e3265b4374b84aabb8efcc26eb8107a3ec81b";
     var https = require('https');
     var http = require('http');
@@ -180,6 +181,7 @@ module.exports = function(grunt) {
                     .resize(30,30, "!")
                     .write(newfilename, function (err) {
                       if(err) fs.unlinkSync(newfilename); // Lets remove any images that fail
+                      if(++completed === members.length) done();
                     });
                   });
                 });
@@ -188,6 +190,8 @@ module.exports = function(grunt) {
 
             }(members[i].photo.thumb_link));
 
+          }else{
+            if(++completed === members.length) done();
           }
         }
       });
