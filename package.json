@@ -24,7 +24,8 @@
     "image-type": "^2.0.2",
     "imagemin-jpeg-recompress": "^4.1.0",
     "imagemin-mozjpeg": "^4.0.0",
-    "load-grunt-tasks": "~0.6.0"
+    "load-grunt-tasks": "~0.6.0",
+    "lwip": "0.0.6"
   },
   "scripts": {
     "start": "./node_modules/.bin/grunt",

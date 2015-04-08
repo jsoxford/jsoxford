@@ -144,7 +144,7 @@ module.exports = function(grunt) {
     var http = require('http');
     var fs = require('fs');
     var imageType = require('image-type');
-    var gm = require('gm').subClass({ imageMagick: true });
+    var lwip = require('lwip');
 
     // Create output dir
     if (!fs.existsSync('./members')){
@@ -164,7 +164,7 @@ module.exports = function(grunt) {
             (function(memberPhoto){
               var filename = "members" + memberPhoto.substring(memberPhoto.lastIndexOf('/'));
               var file = fs.createWriteStream(filename);
-              
+              var imageBytes;
               http.get(memberPhoto, function(response) {
                 var ext = 'jpg';
                 // Meetup.com sends all images with .jpeg extension but the file type could be anything. Lets fix that!
@@ -177,11 +177,14 @@ module.exports = function(grunt) {
                   var newfilename = filename.replace('jpeg', ext);
                   fs.rename(filename, newfilename, function(){
                     // Resize all images to 30x30. The "!" overrides the aspect ratio.
-                    gm(newfilename)
-                    .resize(30,30, "!")
-                    .write(newfilename, function (err) {
-                      if(err) fs.unlinkSync(newfilename); // Lets remove any images that fail
-                      if(++completed === members.length) done();
+                    lwip.open(newfilename, function(err, image){
+                      image.batch()
+                        .resize(30,30)
+                        .writeFile(newfilename, function(err){
+                          if(err) grunt.log.writeln(err);
+                          if(++completed === members.length) done();
+                        });
+
                     });
                   });
                 });
