@@ -1,6 +1,9 @@
 branches:
   only:
     - develop
+before_install:
+  - sudo apt-get update -qq
+  - sudo apt-get install -y imagemagick
 install:
   - npm install -g npm@2
 script: npm install && ./node_modules/.bin/grunt deploy

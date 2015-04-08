@@ -134,10 +134,9 @@
                 if(members[i].photo){
                     membersArr.push(
                         $('<a/>')
-                            .addClass('memberThumbnail')
+                            .addClass('memberThumbnail icon-thumb_' + members[i].photo.photo_id)
                             .attr('href', members[i].link)
-                            .attr('title', members[i].name)
-                            .css('background-image', 'url('+members[i].photo.thumb_link+')')
+                            .attr('title', members[i].name);
                     );
                 } else {
                     otherMembers++;
@@ -152,10 +151,9 @@
                 mobileIndexes.push(rand);
                 membersArr.push(
                     $('<a/>')
-                        .addClass('memberThumbnail')
+                        .addClass('memberThumbnail icon-thumb_' + members[rand].photo.photo_id)
                         .attr('href', members[rand].link)
-                        .attr('title', members[rand].name)
-                        .css('background-image', 'url('+members[rand].photo.thumb_link+')')
+                        .attr('title', members[rand].name);
                 );
             }
             otherMembers = members.length - 15;

@@ -3,3 +3,5 @@ _site/
 /bower_components/
 .grunt
 css/*.css
+img/memberssprite.png
+members/
