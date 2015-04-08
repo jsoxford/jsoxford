@@ -36,6 +36,8 @@ travis encrypt GH_LOGIN=YOUR_GITHUB_USERNAME --add
 travis encrypt GH_TOKEN=YOUR_APPLICATION_TOKEN --add
 ```
 
+We have a [Tron-ci](http://tron-ci.herokuapp.com/jobs/1519935/) job to trigger a build every day at midnight, so scheduled pages and/or any time-sensitive preprocessing can occur without us having to modify the repository.
+
 ### Requirements
 
 To build this site you'll need Ruby and Bundler installed (`gem install bundler`) as well as a newish version of NPM.
