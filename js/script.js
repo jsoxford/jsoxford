@@ -136,7 +136,7 @@
                         $('<a/>')
                             .addClass('memberThumbnail icon-thumb_' + members[i].photo.photo_id)
                             .attr('href', members[i].link)
-                            .attr('title', members[i].name);
+                            .attr('title', members[i].name)
                     );
                 } else {
                     otherMembers++;
@@ -153,7 +153,7 @@
                     $('<a/>')
                         .addClass('memberThumbnail icon-thumb_' + members[rand].photo.photo_id)
                         .attr('href', members[rand].link)
-                        .attr('title', members[rand].name);
+                        .attr('title', members[rand].name)
                 );
             }
             otherMembers = members.length - 15;
