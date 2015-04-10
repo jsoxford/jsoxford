@@ -794,7 +794,9 @@ code {
 }
 
 .col-sm-4,
+.col-sm-6,
 .col-sm-8,
+.col-xs-12,
 .col-xs-3,
 .col-xs-9 {
   position: relative;
@@ -803,9 +805,14 @@ code {
   padding-right: 15px;
 }
 
+.col-xs-12,
 .col-xs-3,
 .col-xs-9 {
   float: left;
+}
+
+.col-xs-12 {
+  width: 100%;
 }
 
 .col-xs-9 {
@@ -818,6 +825,7 @@ code {
 
 @media (min-width:768px) {
   .col-sm-4,
+  .col-sm-6,
   .col-sm-8 {
     float: left;
   }
@@ -826,8 +834,20 @@ code {
     width: 66.66666667%;
   }
 
+  .col-sm-6 {
+    width: 50%;
+  }
+
   .col-sm-4 {
     width: 33.33333333%;
+  }
+
+  .col-sm-offset-3 {
+    margin-left: 25%;
+  }
+
+  .col-sm-offset-2 {
+    margin-left: 16.66666667%;
   }
 }
 
@@ -2082,6 +2102,19 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
   background-color: #ec971f;
 }
 
+.jumbotron {
+  padding: 30px 15px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+}
+
+.jumbotron p {
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 200;
+}
+
 .container .jumbotron,
 .container-fluid .jumbotron {
   border-radius: 6px;
@@ -2092,6 +2125,10 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 }
 
 @media screen and (min-width:768px) {
+  .jumbotron {
+    padding: 48px 0;
+  }
+
   .container .jumbotron,
   .container-fluid .jumbotron {
     padding-left: 60px;
