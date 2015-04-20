@@ -131,7 +131,6 @@ module.exports = function(grunt) {
     var total = 0, complete = 0;
 
     function postComplete(){
-      console.log(complete+'/'+total);
       if(++complete === total){
         done();
       }
@@ -167,6 +166,7 @@ module.exports = function(grunt) {
       outputString += 'title: '+post.name+'\n';
       outputString += 'date: '+formatDate(date)+'\n';
       outputString += 'source: meetup\n';
+      outputString += 'attendees: '+post.yes_rsvp_count+'\n';
       outputString += 'externalURL: '+post.event_url+'\n';
       if(post.status === 'upcoming'){
         outputString += 'future: true\n';
