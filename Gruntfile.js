@@ -1,4 +1,7 @@
 var jpegRecompress = require('imagemin-jpeg-recompress');
+var https = require('https');
+var http = require('http');
+var fs = require('fs');
 
 module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
@@ -122,7 +125,78 @@ module.exports = function(grunt) {
     },
   });
 
-  grunt.registerTask('build', ['less','jekyll:build']);
+  grunt.registerTask('buildMeetupPosts', 'Fetches all events from Meetup.com and creates Jekyll posts where they dont exist', function(){
+    var done = this.async();
+    var allEventsQuery = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_id=17778422&photo-host=secure&page=100&fields=&order=time&status=past%2Cupcoming&desc=false&sig_id=153356042&sig=66887b77c34d304571d20465b10229ce582b7e02";
+    var total = 0, complete = 0;
+
+    function postComplete(){
+      console.log(complete+'/'+total);
+      if(++complete === total){
+        done();
+      }
+    }
+
+    function formatDate(date){
+      var dateString = '';
+      dateString += date.getFullYear()+'-';
+      if(date.getMonth()+1<10){
+        dateString += '0';
+      }
+      dateString += (date.getMonth()+1);     
+      dateString += '-';
+      dateString += date.getDate();
+      return dateString;
+    }
+
+    function getFilename(post){
+      var date,title,filename;
+
+      date = new Date(post.time);
+      title = post.name.replace(/ /g, '-');
+      filename = '_posts/'+formatDate(date)+'-'+title+'.md';
+      
+      return filename;
+    }
+
+    function processPost(post){
+      var date = new Date(post.time);
+      var outputString = '---\n';
+      outputString += 'published: true\n';
+      outputString += 'layout: post\n';
+      outputString += 'title: '+post.name+'\n';
+      outputString += 'date: '+formatDate(date)+'\n';
+      outputString += 'source: meetup\n';
+      outputString += 'externalURL: '+post.event_url+'\n';
+      if(post.status === 'upcoming'){
+        outputString += 'future: true\n';
+      }
+      outputString += '---\n\n';
+      outputString += post.description;
+      fs.writeFile(getFilename(post), outputString, function(err) {
+        if(err) return console.log(err);
+        postComplete();
+      }); 
+    }
+
+    https.get(allEventsQuery, function(res){
+      var body = '';
+      res.on('data', function(d){
+        body += d;
+      });
+      res.on('end', function(){
+        var events = JSON.parse(body).results;
+        var i=0; len = events.length;
+        total = len;
+        for(i=0;i<len;i++){
+          processPost(events[i]);
+        }
+      });
+    });
+  });
+
+  grunt.registerTask('meetup', 'buildMeetupPosts');
+  grunt.registerTask('build', ['less','meetup','jekyll:build']);
   grunt.registerTask('optimize', ['cssmin','uncss','imagemin','uglify','htmlmin']);
   grunt.registerTask('deploy', ['build','optimize','buildcontrol']);
   grunt.registerTask('default', ['build','jekyll:serve']);

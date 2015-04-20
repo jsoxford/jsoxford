@@ -20,7 +20,7 @@
     "grunt-uncss": "^0.3.8",
     "imagemin-jpeg-recompress": "^4.1.0",
     "imagemin-mozjpeg": "^4.0.0",
-    "load-grunt-tasks": "~0.6.0"
+    "load-grunt-tasks": "^3.1.0"
   },
   "scripts": {
     "start": "./node_modules/.bin/grunt",
