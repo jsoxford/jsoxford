@@ -148,6 +148,30 @@ module.exports = function(grunt) {
       return dateString;
     }
 
+    function formatDateWithTime(date){
+      var dateString = '';
+      dateString += date.getFullYear()+'-';
+      if(date.getMonth()+1<10){
+        dateString += '0';
+      }
+      dateString += (date.getMonth()+1);     
+      dateString += '-';
+      dateString += date.getDate() + " ";
+      if(date.getUTCHours()<10){
+        dateString += "0";
+      }
+      dateString += date.getUTCHours() + ":";
+      if(date.getMinutes()<10){
+        dateString += "0";
+      }
+      dateString += date.getMinutes() + ":";
+      if(date.getSeconds()<10){
+        dateString += "0";
+      }
+      dateString += date.getSeconds();
+      return dateString;
+    }
+
     function getFilename(post){
       var date,title,filename;
 
@@ -164,7 +188,7 @@ module.exports = function(grunt) {
       outputString += 'published: true\n';
       outputString += 'layout: post\n';
       outputString += 'title: '+post.name+'\n';
-      outputString += 'date: '+formatDate(date)+'\n';
+      outputString += 'date: '+formatDateWithTime(date)+'\n';
       outputString += 'source: meetup\n';
       outputString += 'attendees: '+post.yes_rsvp_count+'\n';
       outputString += 'externalURL: '+post.event_url+'\n';
