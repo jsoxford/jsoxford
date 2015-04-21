@@ -5,9 +5,9 @@ layout: default
 <h2 class="post-title row">
     <div class="col-xs-9">
         {% if page.source != null && page.source == 'meetup' %}
-            <a href="{{ page.externalURL }}"><img src="/img/meetup.png" alt="Meetup" /></a>
+            <a href="{{ page.externalURL }}"><img src="/img/meetup.png" alt="Meetup" class="meetupIcon" /></a>
         {% endif %}
-        <a href="{{ page.url }}">{{page.title}}</a>
+        <a href="{{ page.url }}" class="title">{{page.title}}</a>
         {% if page.lanyrd != null %}
             <small>
                 <a href="http://lanyrd.com/{{page.lanyrd}}" class="icon-lanyrd"></a>
@@ -18,12 +18,14 @@ layout: default
         <div class="eventInfo col-xs-3">
             <span class="eventDate">{{ page.date | date: "%a %b %d"}} </span>
             <span class="eventTime">{{ page.date | date: "%I:%M %p"}}</span>
-            <a href="{{ page.externalURL }}">{{page.attendees}} went</a>
+            <a href="{{ page.externalURL }}"><span class="attendees">{{page.attendees}}</span> went</a>
         </div>
     {% endif %}
 </h2>
 
-{{ content }}
+<div class="postContent">
+    {{ post.content}}
+</div>
 
 {% if page.lanyrd_page %}
     <hr />
