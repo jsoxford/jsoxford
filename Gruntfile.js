@@ -3,6 +3,7 @@ var https = require('https');
 var http = require('http');
 var fs = require('fs');
 var moment = require('moment');
+var slug = require('slug');
 
 module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
@@ -138,11 +139,10 @@ module.exports = function(grunt) {
     }
 
     function getFilename(post){
-      var date,title,filename;
-
-      date = new Date(post.time);
-      title = post.name.replace(/ /g, '-');
-      filename = '_posts/'+moment(date).format('YYYY-MM-DD')+'-'+title+'.md';
+      var title,filename;
+      
+      title = slug(post.name);
+      filename = '_posts/'+moment(post.time).format('YYYY-MM-DD')+'-'+title+'.md';
       
       return filename;
     }
