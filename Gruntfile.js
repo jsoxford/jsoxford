@@ -4,6 +4,7 @@ var http = require('http');
 var fs = require('fs');
 var moment = require('moment');
 var slug = require('slug');
+var matter = require('gray-matter');
 
 module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
@@ -148,21 +149,20 @@ module.exports = function(grunt) {
     }
 
     function processPost(post){
-      var date = new Date(post.time);
-      var outputString = '---\n';
-      outputString += '# Note: This post has been auto-generated from a Meetup.com event\n'
-      outputString += 'published: true\n';
-      outputString += 'layout: post\n';
-      outputString += 'title: '+post.name+'\n';
-      outputString += 'date: '+moment(date).format('YYYY-MM-DD HH:mm:ss')+'\n';
-      outputString += 'source: meetup\n';
-      outputString += 'attendees: '+post.yes_rsvp_count+'\n';
-      outputString += 'externalURL: '+post.event_url+'\n';
-      if(post.status === 'upcoming'){
-        outputString += 'future: true\n';
-      }
-      outputString += '---\n\n';
-      outputString += post.description;
+      var outputString = matter.stringify(
+        post.description,
+        {
+          '!':'Note: This post has been auto-generated from a Meetup.com event',
+          published: true,
+          layout: 'post',
+          title: post.name,
+          date: moment(post.time).format('YYYY-MM-DD HH:mm:ss'),
+          source: 'meetup',
+          attendees: post.yes_rsvp_count,
+          externalURL: post.event_url,
+          status: post.status
+        }
+      );
       fs.writeFile(getFilename(post), outputString, function(err) {
         if(err) return console.log(err);
         postComplete();

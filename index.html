@@ -6,7 +6,7 @@ layout: default
     <h2><i class="fa fa-calendar"></i> Upcoming  Events</h2>
     <div id="UpcomingEvents">
         {% for post in site.posts %}
-            {% if post.future == true %}
+            {% if post.status == 'upcoming' %}
                 <div class="post" data-date="{{post.date}}">
                     <h2 class="post-title row">
                         <div class="col-xs-9">
@@ -58,7 +58,7 @@ layout: default
     <h2><i class="fa fa-calendar"></i> Past Events</h2>
     <div id="PastEvents">
         {% for post in site.posts %}
-            {% if post.future != true %}
+            {% if post.status != 'upcoming' %}
                 <div class="post" data-date="{{post.date}}">
                     <h2 class="post-title row">
                         <div class="col-xs-9">
