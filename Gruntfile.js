@@ -176,7 +176,7 @@ module.exports = function(grunt) {
       });
       res.on('end', function(){
         var events = JSON.parse(body).results;
-        var i=0; len = events.length;
+        var i=0, len = events.length;
         total = len;
         for(i=0;i<len;i++){
           processPost(events[i]);
