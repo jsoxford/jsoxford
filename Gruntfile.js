@@ -140,7 +140,7 @@ module.exports = function(grunt) {
 
     function getFilename(post){
       var title,filename;
-      
+
       title = slug(post.name);
       filename = '_posts/'+moment(post.time).format('YYYY-MM-DD')+'-'+title+'.md';
       
@@ -150,6 +150,7 @@ module.exports = function(grunt) {
     function processPost(post){
       var date = new Date(post.time);
       var outputString = '---\n';
+      outputString += '# Note: This post has been auto-generated from a Meetup.com event\n'
       outputString += 'published: true\n';
       outputString += 'layout: post\n';
       outputString += 'title: '+post.name+'\n';
