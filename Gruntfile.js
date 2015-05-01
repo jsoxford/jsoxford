@@ -109,7 +109,7 @@ module.exports = function(grunt) {
     buildcontrol: {
       dist: {
         options: {
-          config: {'user.name': 'Travis CI', "user.email": "ryanbrooksis+ci@gmail.com"},
+          config: {'user.name': 'JSOxbot', "user.email": "jsoxford@whiteoctober.co.uk"},
           login: process.env.GH_LOGIN,
           token: process.env.GH_TOKEN,
           dir: '_site',
