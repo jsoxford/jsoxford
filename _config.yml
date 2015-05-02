@@ -1,6 +1,6 @@
 safe: true
 lsi: false
-hightlighter: pygments
-pygments: true
 permalink: /:year/:title/
 exclude: [node_modules, package.json, Gruntfile.js]
+sass:
+  sass_dir: css
