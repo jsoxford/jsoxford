@@ -3,7 +3,11 @@ branches:
     - develop
 install:
   - npm install -g npm@2
-script: npm install && ./node_modules/.bin/grunt deploy
+  - ./node_modules/.bin/bower install
+  - bundle install
+script: echo SHABLAM
+after_success:
+  - ./node_modules/.bin/grunt deploy
 env:
   global:
   - secure: e4nJncGBMJJVgJq67w1MxeOGSwdFBWebE3L1lHArIJEqZkiIClG2gEFxh0yzcKXc2x/u0rC2IXjFJLGap/NzMnup1IFqbWnuhQZvInfymfzj0n9PqaIQlPQrP27SINte2tIcCWLjiNwJgN4Nl4fmXcdxs312K3GVc7VtuUyRI+o=

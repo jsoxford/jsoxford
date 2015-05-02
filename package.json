@@ -20,9 +20,5 @@
     "imagemin-jpeg-recompress": "^4.1.0",
     "imagemin-mozjpeg": "^4.0.0",
     "load-grunt-tasks": "~0.6.0"
-  },
-  "scripts": {
-    "start": "./node_modules/.bin/grunt",
-    "postinstall": "./node_modules/.bin/bower install && bundle install"
   }
 }
