@@ -171,6 +171,10 @@
   content: "\f134";
 }
 
+.fa-rocket:before {
+  content: "\f135";
+}
+
 .fa-minus-square:before {
   content: "\f146";
 }
