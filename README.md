@@ -36,17 +36,17 @@ You should now be able to visit http://localhost:4000 and see the JSOxford site.
 ### 3. Build an optimised version of the site
 
 ```bash
-# get the gulp task runner
-npm install -g gulp-cli
+# get the grunt task runner
+npm install -g grunt-cli
 
-# install gulp/node project dependencies
+# install grunt/node project dependencies
 npm install
 
 # build a static version of the site
-gulp build
+grunt build
 
 # optimise it
-gulp optimize
+grunt optimize
 ```
 
 Now `_site/` will contain an optimised version of the website, similar to jsoxford.com
