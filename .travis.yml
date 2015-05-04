@@ -2,7 +2,8 @@ branches:
   only:
     - develop
 install:
-  - npm install -g npm@2
+  - npm install -g npm@
+  - npm install
   - ./node_modules/.bin/bower install
   - bundle install
 script: echo SHABLAM
