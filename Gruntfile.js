@@ -4,16 +4,6 @@ module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
 
   grunt.initConfig({
-    less: {
-      build: {
-        options: {
-          paths: ["css"]
-        },
-        files: {
-          "css/style.css": "css/style.less"
-        }
-      }
-    },
     jekyll: {
       options: {
         bundleExec: true
@@ -28,7 +18,7 @@ module.exports = function(grunt) {
         options: {
           config: '_config.yml',
           serve: true,
-          port: 5000,
+          port: 4000,
           nowatch: true
         }
       },
@@ -110,7 +100,7 @@ module.exports = function(grunt) {
     buildcontrol: {
       dist: {
         options: {
-          config: {'user.name': 'Travis CI', "user.email": "ryanbrooksis+ci@gmail.com"},
+          config: {'user.name': 'JSOxbot', "user.email": "jsoxford@whiteoctober.co.uk"},
           login: process.env.GH_LOGIN,
           token: process.env.GH_TOKEN,
           dir: '_site',
