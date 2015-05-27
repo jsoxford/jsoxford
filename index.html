@@ -12,55 +12,54 @@ layout: default
 <div class="row">
     <h2><i class="fa fa-calendar"></i> Upcoming  Events</h2>
     <div id="UpcomingEvents">
-        {% for post in site.posts %}
-            {% if post.status == 'upcoming' %}
-                <div class="post" data-date="{{post.date}}">
-                    <h2 class="post-title row">
-                        <div class="col-xs-9">
-                            {% if post.source != null && post.source == 'meetup' %}
-                                <a href="{{ post.externalURL }}" title="View on Meetup.com"><img src="/img/meetup.png" alt="Meetup" class="meetupIcon" /></a>
-                            {% endif %}
-                            <a href="{{ post.url }}" class="title">{{post.title}}</a>
-                            {% if post.lanyrd != null %}
-                                <small>
-                                    <a href="http://lanyrd.com/{{post.lanyrd}}" class="icon-lanyrd"></a>
-                                </small>
-                            {% endif %}
-                        </div>
+        {% assign upcoming = site.posts | sort:'date' | where:'status','upcoming' %}
+        {% for post in upcoming %}
+            <div class="post" data-date="{{post.date}}">
+                <h2 class="post-title row">
+                    <div class="col-xs-9">
                         {% if post.source != null && post.source == 'meetup' %}
-                            <div class="eventInfo col-xs-3">
-                                <span class="eventDate">{{ post.date | date: "%a %b %d"}} </span>
-                                <span class="eventTime">{{ post.date | date: "%I:%M %p"}}</span>
-                                <a href="{{ post.externalURL }}"><span class="attendees">{{post.attendees}}</span> went</a>
-                            </div>
+                            <a href="{{ post.externalURL }}" title="View on Meetup.com"><img src="/img/meetup.png" alt="Meetup" class="meetupIcon" /></a>
                         {% endif %}
-                    </h2>
-
-                    <div class="postContent">
-                        {{ post.content}}
+                        <a href="{{ post.url }}" class="title">{{post.title}}</a>
+                        {% if post.lanyrd != null %}
+                            <small>
+                                <a href="http://lanyrd.com/{{post.lanyrd}}" class="icon-lanyrd"></a>
+                            </small>
+                        {% endif %}
                     </div>
+                    {% if post.source != null && post.source == 'meetup' %}
+                        <div class="eventInfo col-xs-3">
+                            <span class="eventDate">{{ post.date | date: "%a %b %d"}} </span>
+                            <span class="eventTime">{{ post.date | date: "%I:%M %p"}}</span>
+                            <a href="{{ post.externalURL }}"><span class="attendees">{{post.attendees}}</span> went</a>
+                        </div>
+                    {% endif %}
+                </h2>
+
+                <div class="postContent">
+                    {{ post.content}}
                 </div>
+            </div>
 
 
-                {% if post.lanyrd != null %}
-                    <div class="lanyrd-target-participants">
-                        <a href="http://lanyrd.com/{{post.lanyrd}}attendees/" class="lanyrd-participants">
-                            RSVP on Lanyrd
-                        </a>
-                    </div>
-                {% endif %}
-
-                <hr class="heavy" />
-
-                {% break %}
+            {% if post.lanyrd != null %}
+                <div class="lanyrd-target-participants">
+                    <a href="http://lanyrd.com/{{post.lanyrd}}attendees/" class="lanyrd-participants">
+                        RSVP on Lanyrd
+                    </a>
+                </div>
             {% endif %}
+
+            <hr class="heavy" />
+
+            {% break %}
         {% endfor %}
     </div>
 </div>
 <div class="visible-xs">
     <h2><i class="fa fa-map-marker"></i> Location</h2>
     <iframe width="100%" height="250px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=White%20October%2C%203%20The%20Gallery%2C%2054%20Marston%20Street%2C%20OX4%201LF%2C%20Oxford&key=AIzaSyDcfmsvBuTggv2bX9i0T_tIpcCjBPTgibQ"></iframe>
-</div>      
+</div>
 <div class="row">
     <h2><i class="fa fa-calendar"></i> Past Events</h2>
     <div id="PastEvents">
