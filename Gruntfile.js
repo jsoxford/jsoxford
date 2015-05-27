@@ -10,16 +10,6 @@ module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
 
   grunt.initConfig({
-    less: {
-      build: {
-        options: {
-          paths: ["css"]
-        },
-        files: {
-          "css/style.css": "css/style.less"
-        }
-      }
-    },
     jekyll: {
       options: {
         bundleExec: true
@@ -34,7 +24,7 @@ module.exports = function(grunt) {
         options: {
           config: '_config.yml',
           serve: true,
-          port: 5000,
+          port: 4000,
           nowatch: true
         }
       },
@@ -115,7 +105,7 @@ module.exports = function(grunt) {
     buildcontrol: {
       dist: {
         options: {
-          config: {'user.name': 'Travis CI', "user.email": "ryanbrooksis+ci@gmail.com"},
+          config: {'user.name': 'JSOxbot', "user.email": "jsoxford@whiteoctober.co.uk"},
           login: process.env.GH_LOGIN,
           token: process.env.GH_TOKEN,
           dir: '_site',
@@ -144,7 +134,7 @@ module.exports = function(grunt) {
 
       title = slug(post.name);
       filename = '_posts/'+moment(post.time).format('YYYY-MM-DD')+'-'+title+'.md';
-      
+
       return filename;
     }
 
@@ -166,7 +156,7 @@ module.exports = function(grunt) {
       fs.writeFile(getFilename(post), outputString, function(err) {
         if(err) return console.log(err);
         postComplete();
-      }); 
+      });
     }
 
     https.get(allEventsQuery, function(res){
@@ -186,7 +176,7 @@ module.exports = function(grunt) {
   });
 
   grunt.registerTask('meetup', 'buildMeetupPosts');
-  grunt.registerTask('build', ['less','meetup','jekyll:build']);
+  grunt.registerTask('build', ['meetup','jekyll:build']);
   grunt.registerTask('optimize', ['cssmin','uncss','imagemin','uglify','htmlmin']);
   grunt.registerTask('deploy', ['build','optimize','buildcontrol']);
   grunt.registerTask('default', ['build','jekyll:serve']);
