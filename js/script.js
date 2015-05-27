@@ -7,7 +7,7 @@
     var membersQuery = "https://api.meetup.com/2/members?offset=0&format=json&group_id=17778422&only=photo%2Cname%2Clink&photo-host=secure&page=200&order=name&sig_id=153356042&sig=4d8e3265b4374b84aabb8efcc26eb8107a3ec81b";
 
     var isSmall = window.matchMedia && window.matchMedia('(max-width: 600px)').matches
-    
+
     var pastEvents = [],
         upcomingEvents = [],
         members = [];
@@ -39,18 +39,26 @@
         }
     });
     // Get members, but only for desktop (don't want to waste peoples money)
-    $.ajax({
-      url: membersQuery + "&offset=0",
-        type: "GET",
-        cache: false,
-        dataType: "jsonp",
-        crossDomain: true,
-        success: function(data){
-            // Currently will only get the first 200(?)
-            members = data.results;
-            populateMembers();
-        }
-    });
+    function fetchMembers(url){
+        $.ajax({
+          url: url,
+            type: "GET",
+            cache: false,
+            dataType: "jsonp",
+            crossDomain: true,
+            success: function(data){
+                // Currently will only get the first 200(?)
+                Array.prototype.push.apply(members, data.results);
+
+                if(data.meta.next){
+                    fetchMembers(data.meta.next);
+                }else{
+                    populateMembers();
+                }
+            }
+        });
+    }
+    fetchMembers(membersQuery);
 
     function buildPost(event, isUpcoming){
         var eventDate = new Date(event.time);
