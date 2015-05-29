@@ -18,4 +18,4 @@ notifications:
   webhooks:
     urls:
       - secure: "Sk8ccbgRxxotKjP2QaTay5xJ7oT+EYBnJkKVc3vcYLDiLFy52Yoyr6uz8bkUQ3ZtqK/ypO00Q/dnkIpHr9pFDckcCrG+UJMXeuF1Zl3lpoEeeQOTWiH1YQ3YNvNbWkfJSj8FKmR2hFT7AEvIRpJKCGVGhmyOIFrSGHZuL4EWDVk="
-    on_start: true
+    on_start: always
