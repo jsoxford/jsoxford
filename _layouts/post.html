@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
-<h2 class="post-title">{{page.title}}</h2>
+<h2 class="post-title">
+	{{page.title}}
+	{% if page.author != null %}
+		<div class="byline">by {{ page.author | markdownify }}</div>
+	{% endif %}
+</h2>
 
 {{ content }}
 
