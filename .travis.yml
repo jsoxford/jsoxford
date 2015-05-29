@@ -3,10 +3,10 @@ branches:
     - develop
 install:
   - npm install -g npm@2
+script:
   - npm install
   - ./node_modules/.bin/bower install
   - bundle install
-script: echo SHABLAM
 after_success:
   - ./node_modules/.bin/grunt deploy
 env:
