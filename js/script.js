@@ -1,6 +1,4 @@
 (function(){
-    var days = ['Sun','Mon','Tue','Wed','Thur','Fri','Sat'];
-    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 
     var pastEventsQuery = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_id=17778422&only=time%2Cevent_url%2Cname%2Cdescription%2Cyes_rsvp_count%2Crsvp_limit&photo-host=secure&page=40&fields=&order=time&status=past&desc=false&sig_id=153356042&sig=7c33ad50321a70d19f843d60c0c2eaee08b67d09";
     var upcomingEventsQuery = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_id=17778422&only=time%2Cevent_url%2Cname%2Cdescription%2Cyes_rsvp_count%2Crsvp_limit&photo-host=secure&page=20&fields=&order=time&desc=false&status=upcoming&sig_id=153356042&sig=84e9ac6ce37bdb3c00e4f82fe5a7ce798865fbe4";
@@ -87,10 +85,14 @@
         var eventDateTime = new Date(event.time);
         var ampm = (eventDateTime.getHours() >= 12 ? 'PM' : 'AM');
         var eventInfo = $('<div/>').addClass('eventInfo col-xs-3');
+        var eventDateString = eventDateTime.toDateString().split(' '); // ['Wed', 'Jul', '15', '2015']
+        var eventMonth = eventDateString[1];
+        var eventDay = eventDateString[0];
+
         var eventDate = $('<span/>')
             .addClass('eventDate')
             .text(
-                days[eventDateTime.getDay()] + " " + months[eventDateTime.getMonth()] + " "+ eventDateTime.getDate() + " "
+                eventDay + " " + eventMonth + " "+ eventDateTime.getDate() + " "
             );
         var eventTime = $('<span/>')
             .addClass('eventTime')
