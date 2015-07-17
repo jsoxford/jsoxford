@@ -1,23 +1,14 @@
 ---
-layout: default
+layout: archive
+permalink: /archive/
+title: Archive
 ---
 
-<div class="row">
-    <h2><i class="fa fa-rocket"></i> Summer of Hacks</h2>
-    <div>
-        <em>We've got an amazing series of summer events planned in addition to our regular monthly meetups. Check out <a href="http://summerofhacks.io">our Summer of Hacks website</a> for information and tickets.</em>
-    </div>
-</div>
-<hr>
 <div class="row">
     <h2><i class="fa fa-calendar"></i> Upcoming  Events</h2>
     <div id="UpcomingEvents">
         <em>No upcoming events... <i class="fa fa-frown-o"></i></em>
     </div>
-</div>
-<div class="visible-xs">
-    <h2><i class="fa fa-map-marker"></i> Location</h2>
-    <iframe width="100%" height="250px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=White%20October%2C%203%20The%20Gallery%2C%2054%20Marston%20Street%2C%20OX4%201LF%2C%20Oxford&key=AIzaSyDcfmsvBuTggv2bX9i0T_tIpcCjBPTgibQ"></iframe>
 </div>
 <div class="row">
     <h2><i class="fa fa-calendar"></i> Past Events</h2>
@@ -32,12 +23,8 @@ layout: default
                         </small>
                     {% endif %}
                 </h2>
-
-
                 {{ post.content}}
             </div>
-
-
             {% if post.lanyrd != null %}
                 <div class="lanyrd-target-participants">
                     <a href="http://lanyrd.com/{{post.lanyrd}}attendees/" class="lanyrd-participants">
@@ -45,12 +32,7 @@ layout: default
                     </a>
                 </div>
             {% endif %}
-
             <hr class="heavy" />
-
         {% endfor %}
     </div>
-</div>
-<div class="row">
-  <p>You can find more events in the <a href="/archive/">Events Archive</a>.</p>
 </div>
