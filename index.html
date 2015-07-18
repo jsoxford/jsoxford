@@ -52,8 +52,10 @@ layout: default
 
             <hr class="heavy" />
 
-            {% break %}
         {% endfor %}
+        {% if upcoming == blank %}
+            <em>No upcoming events... <i class="fa fa-frown-o"></i></em>
+        {% endif %}
     </div>
 </div>
 <div class="visible-xs">
