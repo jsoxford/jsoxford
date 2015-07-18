@@ -3,25 +3,17 @@ jsoxford.github.com
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jsoxford/jsoxford.github.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/jsoxford/jsoxford.github.com.svg?branch=develop)](https://travis-ci.org/jsoxford/jsoxford.github.com)
 
-This is the source for jsoxford.com - it’s a static site that is generated with [jekyll](http://jekyllrb.com/) and [grunt](http://gruntjs.com/) and uses [bower](http://bower.io/) for front-end dependencies.
+This is the source for jsoxford.com - it’s a static site that is generated with [jekyll](http://jekyllrb.com/).
 
 ### Getting started
 
-_note: if you’ve got a small tweak to make, just edit the file directly in github and create a PR,  you don’t have to spend ages installing dependencies just to correct a spelling mistake_
+_note: if you’ve got a small tweak to make, just edit the file directly in github and send us a PR, you don't have to worry about installing anything_
 
-#### 1. get front-end dependencies
+Requirements:
 
-```bash
-# install bower
-npm install -g bower
+  * a Ruby environment (hint: [rvm](https://rvm.io/) or [rbenv](https://github.com/sstephenson/rbenv) are handy)
+  * [bundler](http://bundler.io/)
 
-# download dependencies
-bower install
-```
-
-#### 2. serve the files locally
-
-For this, you need to have some kind of ruby environment (hint: rvm or rbenv are handy).  And have install [bundler](http://bundler.io/). 
 
 ```bash
 # install jekyll
@@ -33,7 +25,9 @@ bundle exec jekyll serve
 
 You should now be able to visit http://localhost:4000 and see the JSOxford site.
 
-### 3. Build an optimised version of the site
+### Building an optimised version of the site
+
+The version of the site up on jsoxford.com is optimised to make it quicker to load - you can build that locally with [grunt](http://gruntjs.com/).
 
 ```bash
 # get the grunt task runner

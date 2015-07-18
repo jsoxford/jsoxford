@@ -1,0 +1,38 @@
+---
+layout: archive
+permalink: /archive/
+title: Archive
+---
+
+<div class="row">
+    <h2><i class="fa fa-calendar"></i> Upcoming  Events</h2>
+    <div id="UpcomingEvents">
+        <em>No upcoming events... <i class="fa fa-frown-o"></i></em>
+    </div>
+</div>
+<div class="row">
+    <h2><i class="fa fa-calendar"></i> Past Events</h2>
+    <div id="PastEvents">
+        {% for post in site.posts %}
+            <div class="post" data-date="{{post.date}}">
+                <h2 class="post-title">
+                    <a href="{{ post.url }}">{{post.title}}</a>
+                    {% if post.lanyrd != null %}
+                        <small>
+                            <a href="http://lanyrd.com/{{post.lanyrd}}" class="icon-lanyrd"></a>
+                        </small>
+                    {% endif %}
+                </h2>
+                {{ post.content}}
+            </div>
+            {% if post.lanyrd != null %}
+                <div class="lanyrd-target-participants">
+                    <a href="http://lanyrd.com/{{post.lanyrd}}attendees/" class="lanyrd-participants">
+                        RSVP on Lanyrd
+                    </a>
+                </div>
+            {% endif %}
+            <hr class="heavy" />
+        {% endfor %}
+    </div>
+</div>
