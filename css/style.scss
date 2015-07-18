@@ -105,7 +105,7 @@ footer {
 }
 
 .content {
-  max-width: 100%;
+	max-width: 100%;
 
   .main {
     padding: 0;
@@ -129,6 +129,30 @@ footer {
   }
 }
 
+.post-title{
+	background-color:#f3df49;
+	padding:.5em;
+	border-top:5px solid #000;
+	img {
+		margin-right: 5px;
+	}
+	a{
+		color: #000;
+		font-size: 0.8em;
+		&.btn-primary{
+			color:#fff;
+		}
+	}
+	.byline {
+		font-size: 0.5em;
+		font-style: italic;
+		margin-left: 10px;
+		p,a {
+			display: inline;
+		}
+	}
+}
+
 .eventInfo {
   font-size: 0.4em;
 
@@ -143,6 +167,7 @@ footer {
 iframe {
   max-width: 100%;
 }
+
 
 .row {
   > h2 {
