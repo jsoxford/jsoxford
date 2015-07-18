@@ -20,3 +20,9 @@ This project uses a modified version of the [Git Flow](https://www.atlassian.com
 * `master` holds the deployed site. There's no source-code there!
 * `develop` contains the latest released source. This branch is built and deployed to master on every commit. No commits should ever be made to `develop` directly, instead use a feature branch/forked repository and a pull request.
 * Feature branches (prefixed `feature/`) are used to hold changes in development or up for discussion.
+
+## Code style
+
+Consistency is key! We can add more rules here as they crop up.
+
+1. 2-space soft-tabs
