@@ -1,8 +1,6 @@
 (function(){
     'use strict';
-
-    var pastEventsQuery = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_id=17778422&only=time%2Cevent_url%2Cname%2Cdescription%2Cyes_rsvp_count%2Crsvp_limit&photo-host=secure&page=40&fields=&order=time&status=past&desc=false&sig_id=153356042&sig=7c33ad50321a70d19f843d60c0c2eaee08b67d09";
-    var upcomingEventsQuery = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_id=17778422&only=time%2Cevent_url%2Cname%2Cdescription%2Cyes_rsvp_count%2Crsvp_limit&photo-host=secure&page=20&fields=&order=time&desc=false&status=upcoming&sig_id=153356042&sig=84e9ac6ce37bdb3c00e4f82fe5a7ce798865fbe4";
+    var allEventsQuery = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_id=17778422&photo-host=secure&page=100&fields=&order=time&status=past%2Cupcoming&desc=false&sig_id=153356042&sig=66887b77c34d304571d20465b10229ce582b7e02";
     var membersQuery = "https://api.meetup.com/2/members?offset=0&format=json&group_id=17778422&only=photo%2Cname%2Clink&photo-host=secure&page=200&order=name&sig_id=153356042&sig=4d8e3265b4374b84aabb8efcc26eb8107a3ec81b";
 
     var maxEventsToShow = window.maxEventsToShow || 10;
@@ -10,29 +8,6 @@
     var isSmall = window.matchMedia && window.matchMedia('(max-width: 600px)').matches;
 
     var members = [];
-
-    // Get upcoming events
-    $.ajax({
-      url: upcomingEventsQuery + "&offset=0",
-        type: "GET",
-        cache: false,
-        dataType: "jsonp",
-        crossDomain: true,
-        success: function(data){
-            buildArrayOfEventElements(data.results, true);
-        }
-    });
-    // Get past events
-    $.ajax({
-      url: pastEventsQuery + "&offset=0",
-        type: "GET",
-        cache: false,
-        dataType: "jsonp",
-        crossDomain: true,
-        success: function(data){
-            buildArrayOfEventElements(data.results, false);
-        }
-    });
     // Get members, but only for desktop (don't want to waste peoples money)
     function fetchMembers(url){
         $.ajax({
@@ -54,6 +29,83 @@
         });
     }
     fetchMembers(membersQuery);
+
+    function populateMembers(){
+        var membersArr = [];
+        var otherMembers = 0;
+        var mobileIndexes = [];
+        var rand, i;
+        if(!isSmall){
+            for(i=0;i<members.length;i++){
+                if(members[i].photo){
+                    membersArr.push(
+                        $('<a/>')
+                            .addClass('memberThumbnail icon-thumb_' + members[i].photo.photo_id)
+                            .attr('href', members[i].link)
+                            .attr('title', members[i].name)
+                    );
+                } else {
+                    otherMembers++;
+                }
+            }
+        }else{
+            for(i=0;i<15;i++){
+                rand = Math.floor(Math.random() * members.length) + 1;
+                while(mobileIndexes.indexOf(rand) >= 0 || !members[rand].photo){
+                    rand = Math.floor(Math.random() * members.length) + 1;
+                }
+                mobileIndexes.push(rand);
+                membersArr.push(
+                    $('<a/>')
+                        .addClass('memberThumbnail icon-thumb_' + members[rand].photo.photo_id)
+                        .attr('href', members[rand].link)
+                        .attr('title', members[rand].name)
+                );
+            }
+            otherMembers = members.length - 15;
+        }
+        if(otherMembers){
+            membersArr.push($('<a/>').attr('href','https://www.meetup.com/JSOxford/members').text("...plus others."));
+        }
+        $('#MeetupMembers').append(membersArr);
+        $('#Members').removeClass('hidden').find('h3').prepend(members.length+' ');
+    }
+
+    // Get events
+    $.ajax({
+      url: allEventsQuery + "&offset=0",
+        type: "GET",
+        cache: false,
+        dataType: "jsonp",
+        crossDomain: true,
+        success: function(data){
+            updatePosts(data.results);
+        }
+    });
+
+    function updatePosts(posts){
+        var newEventElements = [];
+        var yesterday = new Date(new Date() - 86400000);
+        var i,len,postDate;
+        for(i=0,len=posts.length;i<len;i++){
+            if(posts[i].created > yesterday){
+                var eventRendered = buildPost(posts[i], true);
+                eventElements.push(eventRendered);
+            }
+            if(posts[i].updated > yesterday){
+                postDate = new Date(posts[i].time);
+                $('[data-date^='+formatDate(postDate)+']').has('.meetupIcon').each(function(){
+                    $(this).find('.title').text(posts[i].name);
+                    $(this).find('.postContent').html(posts[i].description);
+                    $(this).find('.attendees').text(posts[i].yes_rsvp_count);
+                });
+            }
+        }
+        // Sort the events by date
+        eventElements = sortEvents(eventElements);
+        // Display them
+        $(outputTarget).append(eventElements);
+    }
 
     function buildPost(event, isUpcoming){
         var eventDate = new Date(event.time);
@@ -106,35 +158,7 @@
 
         return eventInfo;
     }
-
-    var buildArrayOfEventElements = function (events, isUpcoming) {
-        var eventElements = [];
-        var outputTarget = isUpcoming ? '#UpcomingEvents' : '#PastEvents';
-
-        if (!isUpcoming) {
-            var $staticPosts = $('.post', outputTarget);
-            if ($staticPosts.length) {
-                $staticPosts.each(function () {
-                    eventElements.push($(this));
-                });
-            }
-        }
-        if (events.length) {
-            for (var current = 0; current < maxEventsToShow; current++) {
-                if (undefined !== events[current]) {
-                    var eventRendered = buildPost(events[current], isUpcoming);
-                    eventElements.push(eventRendered);
-                }
-            }
-        }
-        // Sort the events by date
-        eventElements = sortEvents(eventElements);
-        // Trim to our limit for this set
-        eventElements = eventElements.splice(0, maxEventsToShow);
-        // Display them
-        $(outputTarget).empty().append(eventElements);
-    };
-    var sortEvents = function (events) {
+    function sortEvents(events) {
         var sortedEvents = events.sort(function (a, b) {
             // No dates, get out of here!
             if (!a.data('date') || !b.data('date')) return;
@@ -144,45 +168,5 @@
             return dateA === dateB ? 0 : (dateA < dateB ? 1 : -1);
         });
         return sortedEvents;
-    }
-    function populateMembers(){
-        var membersArr = [];
-        var otherMembers = 0;
-        var mobileIndexes = [];
-        var rand, i;
-        if(!isSmall){
-            for(i=0;i<members.length;i++){
-                if(members[i].photo){
-                    membersArr.push(
-                        $('<a/>')
-                            .addClass('memberThumbnail icon-thumb_' + members[i].photo.photo_id)
-                            .attr('href', members[i].link)
-                            .attr('title', members[i].name)
-                    );
-                } else {
-                    otherMembers++;
-                }
-            }
-        }else{
-            for(i=0;i<15;i++){
-                rand = Math.floor(Math.random() * members.length) + 1;
-                while(mobileIndexes.indexOf(rand) >= 0 || !members[rand].photo){
-                    rand = Math.floor(Math.random() * members.length) + 1;
-                }
-                mobileIndexes.push(rand);
-                membersArr.push(
-                    $('<a/>')
-                        .addClass('memberThumbnail icon-thumb_' + members[rand].photo.photo_id)
-                        .attr('href', members[rand].link)
-                        .attr('title', members[rand].name)
-                );
-            }
-            otherMembers = members.length - 15;
-        }
-        if(otherMembers){
-            membersArr.push($('<a/>').attr('href','https://www.meetup.com/JSOxford/members').text("...plus others."));
-        }
-        $('#MeetupMembers').append(membersArr);
-        $('#Members').removeClass('hidden').find('h3').prepend(members.length+' ');
     }
 }());

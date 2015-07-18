@@ -1,12 +1,39 @@
 ---
 layout: default
 ---
-<h2 class="post-title">{{page.title}}</h2>
 
-{{ content }}
+<div class="post" data-date="{{page.date}}">
+    <h2 class="post-title row">
+        <div class="col-xs-9">
+            {% if page.source != null && page.source == 'meetup' %}
+                <a href="{{ page.externalURL }}" title="View on Meetup.com"><img src="/img/meetup.png" alt="Meetup" class="meetupIcon" /></a>
+            {% endif %}
+            <a href="{{ page.url }}" class="title">{{page.title}}</a>
+            {% if page.lanyrd != null %}
+                <small>
+                    <a href="http://lanyrd.com/{{page.lanyrd}}" class="icon-lanyrd"></a>
+                </small>
+            {% endif %}
+        </div>
+        {% if page.source != null && page.source == 'meetup' %}
+            <div class="eventInfo col-xs-3">
+                <span class="eventDate">{{ page.date | date: "%a %b %d"}} </span>
+                <span class="eventTime">{{ page.date | date: "%I:%M %p"}}</span>
+                <a href="{{ page.externalURL }}"><span class="attendees">{{page.attendees}}</span> went</a>
+            </div>
+        {% endif %}
+    </h2>
 
-{% if page.lanyrd_page %}
-    <hr />
-    {% assign rsvp_link = page.lanyrd_page %}
-    {% include lanyrd_widget.html %}
+    <div class="postContent">
+        {{ page.content}}
+    </div>
+</div>
+
+
+{% if page.lanyrd != null %}
+    <div class="lanyrd-target-participants">
+        <a href="http://lanyrd.com/{{page.lanyrd}}attendees/" class="lanyrd-participants">
+            RSVP on Lanyrd
+        </a>
+    </div>
 {% endif %}
