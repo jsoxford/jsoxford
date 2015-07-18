@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2015-07-18T13:13:53+00:00</updated>
+ <updated>2015-07-18T13:21:54+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -109,6 +109,73 @@
 &lt;p&gt;TBA&lt;/p&gt;
 &lt;p&gt;After the talks we'll host a discussion on the practicalities of open data, so bring along stories of success, failure, glory and pain!&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;As always, we've got some time for micro-pitches before we break out for drinks and discussion, so if you've got a job, project or interesting thing to share with the group that's your chance.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NodeSchool Writeup</title>
+   <link href="http://jsoxford.com/2015/nodeschool-writeup/"/>
+   <updated>2015-05-24T00:00:00+00:00</updated>
+   <id>http://jsoxford.com/2015/nodeschool-writeup</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“First learn stand, then learn fly. Nature rule, Daniel-san, not mine.”&lt;/em&gt; — Mr. Miyagi, &lt;a href=&quot;http://www.imdb.com/title/tt0087538/&quot;&gt;The Karate Kid&lt;/a&gt; (1984)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Saturday 23rd of May was &lt;a href=&quot;http://nodeschool.io/international-day/&quot;&gt;International NodeSchool Day&lt;/a&gt;, with workshops focused on grokking &lt;a href=&quot;https://nodejs.org/&quot;&gt;Node.js&lt;/a&gt; taking place all over the globe.&lt;/p&gt;
+
+&lt;p&gt;The canny bods at &lt;a href=&quot;http://jsoxford.com/&quot;&gt;JSOxford&lt;/a&gt; were running an event locally at &lt;a href=&quot;https://www.whiteoctober.co.uk/&quot;&gt;White October’s&lt;/a&gt; offices in Oxford’s hip Cowley suburb as part of their &lt;a href=&quot;http://summerofhacks.io/&quot;&gt;Summer of Hacks&lt;/a&gt; programme. Intrigued by the thought of spending a day immersed in NodeJS, I duly sauntered along in my &lt;a href=&quot;http://www.vibramfivefingers.com/index.htm&quot;&gt;Vibram’s&lt;/a&gt; to see what was cooking in their Node kitchen. I’m glad I did because the day was proper station.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“Station!”&lt;/em&gt; — Ted, &lt;a href=&quot;http://www.imdb.com/title/tt0101452/&quot;&gt;Bill &amp;amp; Ted’s Bogus Journey&lt;/a&gt; (1991)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-morning&quot;&gt;The Morning&lt;/h2&gt;
+
+&lt;p&gt;The day was structured such that the first half was spent working through the &lt;a href=&quot;https://www.github.com/workshopper/learnyounode&quot;&gt;learnyounode&lt;/a&gt; workshop. This workshop is introductory Node material, covering topics such as asynchronous IO and the module system.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/nodeschool-learnyounode-workshow.png&quot; alt=&quot;learnyounode workshop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This material is good and presented well via a lovely command line application. I’d recommend it to my colleagues to bootstrap their Node learning. Some of the error messages were a tad cryptic, but that’s easily addressed: one of the attendees even took the time to submit a Pull Request to improve the error message in one of the exercises.&lt;/p&gt;
+
+&lt;p&gt;Personally I didn’t get much from the material having already covered the content in my earlier explorations of NodeJS. It was good to structure the day this way though, because more experienced folk were thus pushed to pair with less experienced folk and there was plenty of knowledge-sharing and conversation which made me happy.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-afternoon&quot;&gt;The Afternoon&lt;/h2&gt;
+
+&lt;p&gt;The second half of the day was devoted to “electives”: material that covered a specific area of NodeJS to an intermediate level. (Promises, Express, Working With Binary Data, that sort of thing.). Folk were encouraged to pick an elective that interested them, and they could then either pair with like-minded folk or strike out on their own. If folk wanted to continue with the &lt;code&gt;learnyounode&lt;/code&gt; module they could do that too.&lt;/p&gt;
+
+&lt;p&gt;I dipped in and out of a few electives, sampling them and getting a feel for ones that I’ll work through on my own time later. The Functional Elective isn’t particularly NodeJS-focused – being more of a general ES5 elective – but Ryan and I had a fun few minutes working through the trampolining exercise.&lt;/p&gt;
+
+&lt;p&gt;I liked that folk could investigate areas of NodeJS that appealed to them. The (slight) downside is that folk fragmented into isolated clusters and a little of the collaborative pair programming vibe was lost. I spent some of the afternoon wandering around asking folk about what they were working on and offering help where I could.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There was a definite “post burrito” slump after lunch :laughing: Thanks for the awesome lunch &lt;a href=&quot;http://www.haybrook.co.uk/&quot;&gt;HaybrookIT&lt;/a&gt;, you rock!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-evening&quot;&gt;The Evening&lt;/h2&gt;
+
+&lt;p&gt;And then we retired the the pub for some drinks and fine banter. What happened at the pub stays at the pub though, so I will speak no more of it here save to mention that there was krumping.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-i-wanted-from-the-day&quot;&gt;What I Wanted From The Day&lt;/h2&gt;
+
+&lt;p&gt;I use a lot of the &lt;a href=&quot;http://aws.amazon.com/&quot;&gt;Amazon Web Services&lt;/a&gt; stack in my &lt;a href=&quot;http://www.cardgamedb.com/index.php/netrunner/android-netrunner-card-spoilers/_/order-and-chaos/day-job-r622&quot;&gt;day job&lt;/a&gt; and the recent release of &lt;a href=&quot;http://aws.amazon.com/lambda/&quot;&gt;AWS Lambda&lt;/a&gt; has opened the door to using NodeJS.&lt;/p&gt;
+
+&lt;p&gt;I wanted to spend the day knee deep in the mud of NodeJS: I wanted to wiggle my toes deep in the cool muck and get a good feel for the Node ecosystem.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-i-got-from-the-day&quot;&gt;What I Got From The Day&lt;/h2&gt;
+
+&lt;p&gt;I spent ~6 hours immersed in NodeJS via the &lt;a href=&quot;http://nodeschool.io/#workshoppers&quot;&gt;excellent material&lt;/a&gt; provided by the NodeSchool website.&lt;/p&gt;
+
+&lt;p&gt;I got to know about a great resource for bootstrapping the folk on my team into NodeJS. I also learned about &lt;a href=&quot;http://en.wikipedia.org/wiki/Cowsay&quot;&gt;cowsay&lt;/a&gt;. Finally, I got to enjoy the company of some great folk that I already know, and got to meet some new folk on the JSOxford scene.&lt;/p&gt;
+
+&lt;p&gt;Win.&lt;/p&gt;
+
+&lt;p&gt;Many thanks to Ryan and Ben from JSOxford for organising the day, to Sarah from HaybrookIT for sponsoring the event, to the NodeSchool community for providing such sweet resource, and to the folk that attended on the day.&lt;/p&gt;
+
+&lt;p&gt;Shout out to Adam for his stirring singalong of The Rains of Castamere. #awesome&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“Lesson not just karate only. Lesson for whole life. Whole life have a balance.”&lt;/em&gt; — Mr. Miyagi, &lt;a href=&quot;http://www.imdb.com/title/tt0087538/&quot;&gt;The Karate Kid&lt;/a&gt; (1984)&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
  </entry>
  
