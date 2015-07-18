@@ -38,41 +38,30 @@
     #details strong {
       color: #555;
     }
-    #details ul .time textarea,
-    #details ul .time textarea:focus {
+    #details ul .time[contenteditable],
+    #details ul .time[contenteditable]:focus {
       font-size: 0.6em;
       color: #555;
       text-decoration: none;
       text-align: right;
-      width: 200px;
     }
-    #details ul li textarea,
-    #details ul li textarea:focus {
-      width: 1000px;
+    #details ul li [contenteditable],
+    #details ul li [contenteditable]:focus {
       font-size: 0.8em;
       text-align: left;
       text-decoration: none;
     }
-    #details textarea,
-    #details textarea:focus {
-      width: 300px;
-      height: 50px;
-      text-align: center;
-      font-size: 1em;
-      line-height: 1em;
-      vertical-align: middle;
-      margin: 0;
-      border: 0;
-      border-color: transparent;
-      background: transparent;
-      outline: none;
-      overflow: hidden;
-      resize: none;
-      text-decoration: underline;
+    [contenteditable] {
+      min-width:1em;
+      display:inline-block;
     }
-
-    textarea:invalid {
-      border-bottom: 1px dashed #000 !important;
+    [contenteditable]:hover,
+    [contenteditable]:focus {
+      background:rgba(255,255,255,0.3);
+      outline: none;
+    }
+    [contenteditable]:empty {
+      border-bottom: 1px solid #999 !important;
     }
   </style>
 </head>
@@ -513,16 +502,16 @@
   </ul>
 
   <div class="jo-wifi">
-    <strong>WiFi</strong> <textarea required></textarea> / <textarea required></textarea>
+    <strong>WiFi</strong> <span contenteditable></span> / <span contenteditable></span>
   </div>
 </div>
 
   <script>
-    var numberOfSpeakers = prompt("How many speakers do we have today?", 2);
+    var numberOfSpeakers = 2; //prompt("How many speakers do we have today?", 2);
     var list = document.getElementsByClassName('speaker-list')[0];
     var listElements = "";
     for(var i=0;i<numberOfSpeakers;i++){
-      listElements += '<li><span class="time"><textarea required spellcheck="false"></textarea></span> <textarea required spellcheck="false"></textarea></li>';
+      listElements += '<li><span class="time" contenteditable></span> <span contenteditable></span></li>';
     }
     list.innerHTML = listElements;
   </script>
