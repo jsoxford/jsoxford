@@ -26,3 +26,10 @@ This project uses a modified version of the [Git Flow](https://www.atlassian.com
 Consistency is key! We can add more rules here as they crop up.
 
 1. 2-space soft-tabs
+
+### SCSS
+
+1. One selector per line
+2. Space before opening `{`
+3. Space before property value (after `:`)
+4. Use explicit properties over shorthand properties
