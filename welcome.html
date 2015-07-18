@@ -38,22 +38,28 @@
     #details strong {
       color: #555;
     }
-    #details ul .time[contenteditable],
-    #details ul .time[contenteditable]:focus {
-      font-size: 0.6em;
+    #details .time[contenteditable],
+    #details .time[contenteditable]:focus {
+      font-size: 0.5em;
       color: #555;
       text-decoration: none;
       text-align: right;
+      padding-right: .8em;
+      padding-top: .9em;
     }
-    #details ul li [contenteditable],
-    #details ul li [contenteditable]:focus {
-      font-size: 0.8em;
+    #details .speaker[contenteditable],
+    #details .speaker[contenteditable]:focus {
       text-align: left;
       text-decoration: none;
+      font-weight:bold;
+    }
+
+    #details table{
+      margin: 1em auto;
     }
     [contenteditable] {
       min-width:1em;
-      display:inline-block;
+      /*display:inline-block;*/
     }
     [contenteditable]:hover,
     [contenteditable]:focus {
@@ -497,21 +503,20 @@
 </div>
 
 <div id="details">
-  <ul class="speaker-list">
-
-  </ul>
+  <table class="speaker-list">
+  </table>
 
   <div class="jo-wifi">
-    <strong>WiFi</strong> <span contenteditable></span> / <span contenteditable></span>
+    <strong>WiFi</strong> <span contenteditable>wo-guest</span> / <span contenteditable>Big Society</span>
   </div>
 </div>
 
   <script>
     var numberOfSpeakers = prompt("How many speakers do we have today?", 2);
-    var list = document.getElementsByClassName('speaker-list')[0];
+    var list = document.querySelector('.speaker-list')
     var listElements = "";
     for(var i=0;i<numberOfSpeakers;i++){
-      listElements += '<li><span class="time" contenteditable></span> <span contenteditable></span></li>';
+      listElements += '<tr><td class="time" contenteditable></td> <td class="speaker" contenteditable></td></tr>';
     }
     list.innerHTML = listElements;
   </script>
