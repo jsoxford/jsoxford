@@ -4,12 +4,146 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2015-07-18T09:40:06+00:00</updated>
+ <updated>2015-07-18T09:47:12+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
  </author>
 
+ 
+ <entry>
+   <title>JSOxHack</title>
+   <link href="http://jsoxford.com/2015/JSOxHack/"/>
+   <updated>2015-08-22T09:00:00+00:00</updated>
+   <id>http://jsoxford.com/2015/JSOxHack</id>
+   <content type="html">&lt;p&gt;The JSOxHack is a full-day hack event to play with the technologies we've learned over summer, or anything else that interests us. &lt;/p&gt;
+&lt;p&gt;This is not a hackathon or competition, and there are no prizes. Instead it's a chance to hack with great people on interesting things. We'll start the day with a round of pitches, so if you've got any ideas bring them along. If you're just keen to take part there will be plenty of groups, and we've got mentors around all day to guide and support you.&lt;/p&gt;
+&lt;p&gt;At the end of the day anyone who'd like to can show and tell before we wrap up and head to Jo Perks for an evening of conversation and drinks.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Who should come?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Everyone! If you can write a bit of JavaScript you'll fit right in. We'll have plenty of mentors to help and guide you throughout the day, and the aim of the event is to have a good time.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What do I need to bring?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;All you'll need is your own laptop (if you don't have one, just get in touch with us in advance and we'll do our best to sort you out).&lt;/p&gt;
+&lt;p&gt;If you have any leftovers from a previous event, components, devices or things you'd like to hack on, bring them along!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RailsBridge</title>
+   <link href="http://jsoxford.com/2015/RailsBridge/"/>
+   <updated>2015-08-08T09:00:00+00:00</updated>
+   <id>http://jsoxford.com/2015/RailsBridge</id>
+   <content type="html">&lt;p&gt;RailsBridge workshops are a free and fun way to get started or level up with Rails, Ruby, and other web technologies. Our events focus on increasing diversity in tech, so that people of all backgrounds can feel welcome and comfortable in our industry.&lt;/p&gt;
+&lt;p&gt;This workshop is intended to reach out to women who are interested in learning how to build interactive websites. &lt;b&gt;Attendees should identify as a woman, and can bring a guest of any gender.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Interested in learning how to program? Never written a line of code before and are a little intimidated by nerds? There's no need to be! RailsBridge is a friendly place to get together and learn how to write some code.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Maybe you've written a little HTML and CSS before, or touched on Ruby or programming. Maybe you're completely new to this and ready for a challenge. All you need to attend is a laptop* and enthusiasm (*get in touch if you can't get hold of a laptop and we'll see what we can do).&lt;/p&gt;
+&lt;p&gt;We'll have some of the amazing people from &lt;a href=&quot;https://www.new-bamboo.co.uk/&quot;&gt;New Bamboo&lt;/a&gt; on hand alongside the JSOxford and OxRUG volunteers, so there's plenty of help and mentorship available.&lt;/p&gt;
+&lt;p&gt;We'll have tea, coffee, snacks and drinks available throughout the day, as well as pastries in the morning and burritos for lunch. Please get in touch if you have any special dietary requirements and we'll sort you out.&lt;/p&gt;
+&lt;p&gt;We have two tracks: &lt;b&gt;Frontend&lt;/b&gt; and &lt;b&gt;Ruby on Rails&lt;/b&gt;. Programmers of all skill levels are welcome.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Ruby on Rails track&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In this track we'll take you through building a complete web application using Ruby on Rails. By the end of the day, you'll have an application that connects to a database and reads and writes information. Even better, it'll be on the internet! You can see the activities for this track &lt;a href=&quot;http://docs.railsbridge.org/docs/&quot;&gt;here&lt;/a&gt;. Don't forget to come to the Friday InstallFest (see below).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Frontend track&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Frontend track is all about HTML, CSS and JavaScript. We'll be building webpages, making them look *amazing*, and adding dynamic behaviour using JavaScript (click &lt;a href=&quot;http://docs.railsbridge.org/frontend/&quot;&gt;here&lt;/a&gt; to see the course syllabus) The only thing you need for this track is a text editor and the web browser you already use! Please download and install a programming text editor (&lt;a href=&quot;http://www.sublimetext.com/3&quot;&gt;Sublime Text&lt;/a&gt; or &lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; are a good choice). Don't forget to come to the Friday InstallFest (see below).&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;Friday evening InstallFest&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;There's a lot to learn on Saturday, so it would be really helpful if everyone is set-up and ready to go. We'll meet up on Friday evening to install all of the software you need (or work through any problems you've had installing), and then spend Saturday learning and writing code.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;If you can run through the &lt;a href=&quot;http://installfest.railsbridge.org/installfest/&quot;&gt;InstallFest&lt;/a&gt; steps prior to attending that's also great. Even if you get stuck, please go through the rest of the instructions and download all the things you'll need. Bandwidth will be at a premium during the day, so it will help immensely to have everything on your laptop already. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Sponsors&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt; We're very grateful to our sponsors for helping to make this event happen:&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;• &lt;a href=&quot;http://www.haybrook.co.uk/&quot;&gt;Haybrook IT&lt;/a&gt;, for providing lunchtime burritos, snacks and refreshments.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://photos3.meetupstatic.com/photos/event/3/2/5/c/600_439032892.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&quot;https://www.new-bamboo.co.uk/&quot;&gt;New Bamboo&lt;/a&gt;, for making awesome swag for attendees and bringing a cohort of Bambinos to help out.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://photos1.meetupstatic.com/photos/event/3/2/5/1/600_439032881.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&quot;https://www.whiteoctober.co.uk/&quot;&gt;White October&lt;/a&gt;, for being an amazing venue.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://photos2.meetupstatic.com/photos/event/3/2/2/9/600_439032841.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;, for sending a free WebStorm/RubyMine license for one lucky attendee as well as other goodies for attendees.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://photos1.meetupstatic.com/photos/event/2/b/7/2/600_438011122.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&quot;http://cucumber.pro&quot;&gt;Cucumber Pro&lt;/a&gt;, for donating a signed copy of &lt;a href=&quot;https://pragprog.com/book/hwcuc/the-cucumber-book&quot;&gt;the Cucumber Book&lt;/a&gt;, and other swag to hand out on the day.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://photos3.meetupstatic.com/photos/event/3/2/7/e/600_439032926.jpeg&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NodeBots Day</title>
+   <link href="http://jsoxford.com/2015/NodeBots-Day/"/>
+   <updated>2015-07-25T09:00:00+00:00</updated>
+   <id>http://jsoxford.com/2015/NodeBots-Day</id>
+   <content type="html">&lt;p&gt;NodeBots are robots that are controlled by JavaScript. Come along for a day of hardware and software hacking, where &lt;i&gt;we&lt;/i&gt; get to control the machines.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/espruino&quot;&gt;Gordon Williams&lt;/a&gt; will be joining us with a host of &lt;a href=&quot;http://www.espruino.com/&quot;&gt;Espruino&lt;/a&gt; boards, components and wizardry. We also have a couple of node-powered RC cars, some Arduino Uno boards and a collection of components, as well as a few boxes of Lego Technic to let your imagination run wild.&lt;/p&gt;
+&lt;p&gt;This event is part of the International NodeBots Day. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Who should come?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Everyone! If you can write a bit of JavaScript you'll fit right in. If you know a little about electronics or Arduino then all the better, but it's not required. We'll have plenty of mentors to help and guide you throughout the day, and you've got the opportunity to hack on your own projects, play with some of the kit, or even just join a group and see what the day brings. The focus of NodeBots day is sharing and enjoying each others company.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What do I need to bring?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;All you'll need is your own laptop (if you don't have one, just get in touch with us in advance and we'll do our best to sort you out), and it will help if nodejs is already installed.&lt;/p&gt;
+&lt;p&gt;If you have any components, devices or things you'd like to hack on &lt;b&gt;bring them along!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We'll have tea, coffee, snacks and drinks available throughout the day, as well as pastries in the morning and burritos for lunch. Please get in touch if you have any special dietary requirements and we'll sort you out.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Summer JS</title>
+   <link href="http://jsoxford.com/2015/Summer-JS/"/>
+   <updated>2015-07-15T18:30:00+00:00</updated>
+   <id>http://jsoxford.com/2015/Summer-JS</id>
+   <content type="html">&lt;p&gt;IT’S. SO. SUMMERY.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;You’re probably reading this in the park right now, which is totally great.&lt;/p&gt;
+&lt;p&gt;We’ve got three awesome talks that are &lt;b&gt;definitely&lt;/b&gt; worth coming inside for (also, we’ll have some beers/juice so you can cool off).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/Rumyra&quot;&gt;Ruth John&lt;/a&gt; - A Journey Through Web API Space &amp;amp; Time&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;i&gt;More browser APIs seem to be cropping up daily, it’s hard to keep track of what’s what and which is which. Don’t panic, Ruth takes us on a tour of what’s past, what’s present and what the future holds, so you can level up and feel a lot calmer about what’s on the event horizon.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/ninjanails&quot;&gt;Seren Davies&lt;/a&gt; - Death to Icon Fonts&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Do you use icon fonts? Are you aware of their shortcomings? In this talk Seren will highlight some of the downsides with using icon fonts and show you an alternative.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/omgmog&quot;&gt;Max Glenister&lt;/a&gt; - A running start at Google Cardboard with JavaScript&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;(This talk will not contain any actual running)&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/Espruino&quot;&gt;Gordon Williams&lt;/a&gt; - JavaScript for things&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Controlling the real world with JavaScript and Espruino Pico. Gordon will show you how - and why - it's more fun to develop embedded software with JavaScript than C.&lt;br /&gt;&lt;/i&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Practical Open Linked Data Mega Meetup</title>
+   <link href="http://jsoxford.com/2015/Practical-Open-Linked-Data-Mega-Meetup/"/>
+   <updated>2015-06-10T18:30:00+00:00</updated>
+   <id>http://jsoxford.com/2015/Practical-Open-Linked-Data-Mega-Meetup</id>
+   <content type="html">&lt;p&gt;This month we're having a super-mega-meetup with &lt;a href=&quot;http://oxrug.org/&quot;&gt;OxRUG&lt;/a&gt; and the &lt;a href=&quot;http://www.meetup.com/oxfordpython/&quot;&gt;Oxford Python Meetup Group&lt;/a&gt; to look at open data and how we can leverage and contribute to global datasets. Open data is great in theory, but how can we go about &lt;i&gt;actually&lt;/i&gt; using it, and what are the practical implications? Hopefully we'll find out!&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Practical Open and Linked Data - &lt;a href=&quot;https://twitter.com/ldodds&quot;&gt;Leigh Dodds&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Leigh Dodds from the Open Data Institute will talk us through real-world open and linked data.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TBA&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;TBA&lt;/p&gt;
+&lt;p&gt;After the talks we'll host a discussion on the practicalities of open data, so bring along stories of success, failure, glory and pain!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;As always, we've got some time for micro-pitches before we break out for drinks and discussion, so if you've got a job, project or interesting thing to share with the group that's your chance.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>International NodeSchool Day</title>
+   <link href="http://jsoxford.com/2015/International-NodeSchool-Day/"/>
+   <updated>2015-05-23T09:00:00+00:00</updated>
+   <id>http://jsoxford.com/2015/International-NodeSchool-Day</id>
+   <content type="html">&lt;p&gt;NodeSchool is a community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way. There are workshops available for every skill level from JS beginners all the way to experienced node programmers.&lt;/p&gt;
+&lt;p&gt;This event is part of International NodeSchool Day, so we'll be getting in touch with other NodeSchoolers around the world during the day.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Who should come?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Everyone! There are &lt;a href=&quot;http://nodeschool.io/#workshopper-list&quot;&gt;workshops&lt;/a&gt; for different abilities, and we'll have plenty of mentors to help and guide you throughout the day. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What do I need to bring?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;All you'll need is your own laptop (if you don't have one, just get in touch with us in advance and we'll do our best to sort you out), and it will help if nodejs is already installed.&lt;/p&gt;
+&lt;p&gt;We'll have tea, coffee, snacks and drinks available throughout the day, as well as pastries in the morning and burritos for lunch. Please get in touch if you have any special dietary requirements and we'll sort you out.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Testing, testing and testing</title>
+   <link href="http://jsoxford.com/2015/Testing-testing-and-testing/"/>
+   <updated>2015-05-14T18:00:00+00:00</updated>
+   <id>http://jsoxford.com/2015/Testing-testing-and-testing</id>
+   <content type="html">&lt;p&gt;We've two amazing talks lined up for May that will get you all eager to test your JavaScript!&lt;/p&gt;
+&lt;p&gt;Come join us for some drinks/snacks, a chat and learn some stuff. &lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt;Peter West&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;An introductory overview of JavaScript testing.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Ryan Brooks – The most convoluted JavaScript testing framework?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Ryan wants to talk about an abomination he built to test JavaScript running on the Rhino JavaScript engine, and how an optimistic &quot;of course you can test that, it's just JavaScript&quot; led to a rabbit hole and lost sleep.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>JSOxford For Newbies</title>
@@ -25,6 +159,80 @@
 &lt;p&gt;No matter what your skill level is, you’re welcome to join us at any of our events. The hack days in particular are very beginner-friendly, where the main aim is to have fun. There’s always someone willing to teach the basics and get you started. Alternatively, if you know what you’re doing, you can just get on with what you want to do.&lt;/p&gt;
 
 &lt;p&gt;We’re always on the lookout for new members. If you haven’t been to a hack day before, our &lt;a href=&quot;http://summerofhacks.io&quot;&gt;Summer of Hacks&lt;/a&gt; is the perfect place to get started. Learn, improve or perfect your JavaScript skills, and there’s free food, drink and stickers. What more could you want?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RTHack</title>
+   <link href="http://jsoxford.com/2015/RTHack/"/>
+   <updated>2015-04-11T08:30:00+00:00</updated>
+   <id>http://jsoxford.com/2015/RTHack</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://photos3.meetupstatic.com/photos/event/9/f/e/9/600_435340937.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We're going to have a hack day centred around realtime web technologies.&lt;/p&gt;
+&lt;p&gt;It will be a day long event - with tonnes of opportunity to learn about, and hack with, technologies such as &lt;a href=&quot;https://developer.mozilla.org/en/docs/WebSockets&quot;&gt;WebSockets&lt;/a&gt;, &lt;a href=&quot;http://www.html5rocks.com/en/tutorials/eventsource/basics/&quot;&gt;Server Sent Events&lt;/a&gt;, &lt;a href=&quot;http://www.webrtc.org/&quot;&gt;WebRTC&lt;/a&gt;, and more.&lt;/p&gt;
+&lt;p&gt;More details to come, but it's going to be &lt;b&gt;awesome&lt;/b&gt;. (There might even be some stickers!)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Space is limited&lt;/b&gt; - so you &lt;b&gt;must&lt;/b&gt; be signed up here to attend. (Also, only sign up if you're sure you can attend!)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Schedule&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;9.30 - &lt;/b&gt;start (pastries &amp;amp; coffee)&lt;br /&gt;&lt;b&gt;9.40 - &lt;/b&gt;hello, overview of data / tools&lt;br /&gt;&lt;b&gt;10.00 - &lt;/b&gt;project pitching / choosing&lt;br /&gt;&lt;b&gt;10.30 - &lt;/b&gt;kick off&lt;br /&gt;&lt;b&gt;12.45 - &lt;/b&gt;retrospectives&lt;br /&gt;&lt;b&gt;1.00 - &lt;/b&gt;lunch (🌟  &lt;a href=&quot;http://missionburrito.co.uk/&quot;&gt;burritos&lt;/a&gt; 🌟)&lt;br /&gt;&lt;b&gt;5.30 - &lt;/b&gt;show &amp;amp; tell&lt;br /&gt;&lt;b&gt;6.30 - &lt;/b&gt;recovery drinks at &lt;a href=&quot;http://joeperksandco.co.uk/&quot;&gt;Joe Perks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What to bring&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;It'll be good to have a laptop with node/io.js installed. Any other web-connected devices (phones/tablets/raspberryPis) might be fun too.&lt;/p&gt;
+&lt;p&gt;We'll provide you with some sample code to get you up and running with some realtime apis/libraries.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;If you have any particular ideas that you'd like to work on - have a think, and be ready to pitch it (max 60s); we'll be selecting a few ideas and working in teams throughout the day.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Trains, websites and things</title>
+   <link href="http://jsoxford.com/2015/Trains-websites-and-things/"/>
+   <updated>2015-03-11T19:00:00+00:00</updated>
+   <id>http://jsoxford.com/2015/Trains-websites-and-things</id>
+   <content type="html">&lt;p&gt;We've two great talks lined up for March; come on over, grab a drink/snack and learn some stuff.&lt;/p&gt;
+&lt;p&gt;We'll also have stickers(!!), pitches, and lots of lovely chats - hope to see you there!&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Improving Web performance Using Grunt - &lt;a href=&quot;https://twitter.com/Marcus_Noble_&quot;&gt;Marcus Noble&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In response to a previous talk by Andy Davies on performance I will walk through using &lt;a href=&quot;http://gruntjs.com/&quot;&gt;Grunt&lt;/a&gt; to improve the performance of the JS Oxford website to achieve below the target 1000 PageSpeed index. This talk will look at configuration-only approaches that can be applied without the need to change any markup.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Playing With Trains: A Look At Open Rail Data - &lt;a href=&quot;https://twitter.com/neverontarget&quot;&gt;Tom Lane&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Open data is happening. Many new technologies are emerging designed specifically to aid developers in taming and handling these datasets that have been made available to them, from new database ideas (NoSQL) to visualisation libraries (D3JS).&lt;/p&gt;
+&lt;p&gt;My talk will provide an overview of the data that has been made available from the rail industry with sources from National Rail, Network Rail and many others and the projects that have risen from it. There is a staggering amount of both quantity and depth available making for some pretty interesting possibilities.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Performance, performance &amp; testing</title>
+   <link href="http://jsoxford.com/2015/Performance-performance-and-testing/"/>
+   <updated>2015-01-22T19:00:00+00:00</updated>
+   <id>http://jsoxford.com/2015/Performance-performance-and-testing</id>
+   <content type="html">&lt;p&gt;It's always a good time to care about performance, and the new year is a great opportunity to focus on building our apps responsibly.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;We're really excited to have Andy Davies coming to Oxford for this meetup. Andy is a web performance geek, in his day job he's Associate Director for Web Performance at NCC Group where he helps clients to measure and improve the performance of their sites. &lt;/p&gt;
+&lt;p&gt;He wrote the “The Pocket Guide to Web Performance” for Five Simple Steps and is a co-author of &quot;Using WebPageTest&quot; due to be published by O'Reilly in 2015.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;We've also got some Oxford locals, and Tom Nickson's talk on compiling C++ into JavaScript is particularly interesting. Tom's doing a DPhil in machine learning, and has been doing some awesome things with emscripten. &lt;/p&gt;
+&lt;p&gt;Also, if you've ever had to test something in a crazy way, you'll be able to relate to Ryan's talk on testing.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Andy Davies – Whoosh - Speed Matters!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Great user experiences lead to more effective sites that have increased levels of engagement and revenue. Performance is an essential part of good user experience but all to often it get's pushed down the list of priorities.&lt;/p&gt;
+&lt;p&gt;In this talk Andy will explore why performance matters, how we can police performance and how the fundamentals of our medium influence the speed of our sites.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tom Nickson – From C++ to JavaScript with Emscripten&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Description coming soon.  &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Ryan Brooks – The most convoluted JavaScript testing framework?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ryan wants to talk about an abomination he built to test JavaScript running on the Rhino JavaScript engine, and how an optimistic &quot;of course you can test that, it's just JavaScript&quot; led to a rabbit hole and lost sleep.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AngularJS &amp; React</title>
+   <link href="http://jsoxford.com/2014/AngularJS-and-React/"/>
+   <updated>2014-11-27T19:00:00+00:00</updated>
+   <id>http://jsoxford.com/2014/AngularJS-and-React</id>
+   <content type="html">&lt;p&gt;Thoughtful chats about &lt;a href=&quot;https://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; and &lt;a href=&quot;http://facebook.github.io/react/&quot;&gt;React&lt;/a&gt; from Oxford's finest.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;AngularJS: a grunt roadmap from karma to protractor&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;a href=&quot;http://www.meetup.com/JSOxford/members/56333062/&quot;&gt;Julian&lt;/a&gt; will present a fundamental AngularJS archetype that provides a file layout, basic project example, dependency management for your app—&lt;a href=&quot;http://bower.io/&quot;&gt;bower&lt;/a&gt;—and for developing your app—npm—, unit—&lt;a href=&quot;http://karma-runner.github.io/0.12/index.html&quot;&gt;karma&lt;/a&gt;—and integration—&lt;a href=&quot;https://github.com/angular/protractor&quot;&gt;protractor&lt;/a&gt;—test configuration, basic grunt tasks, and a Continuous Integration script.&lt;/p&gt;
+&lt;p&gt;Julian will also share some thoughts on what to commit—and what not to commit—, release repos, knowledge libraries, and showcase some examples that prove the power of AngularJS interacting with other technologies such as &lt;a href=&quot;http://d3js.org/&quot;&gt;D3&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+&lt;b&gt;React: Rethinking Web Development&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;React is a JavaScript UI library that provides a new, and possibly better, way to achieve the goal of building simple and declarative UIs.&lt;/p&gt;
+&lt;p&gt;In this talk, &lt;a href=&quot;http://www.meetup.com/JSOxford/members/137091392/&quot;&gt;Alex&lt;/a&gt; will explore the main design goal of React and how React changes web development for the better with some realtime examples.&lt;/p&gt;
 </content>
  </entry>
  
