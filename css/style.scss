@@ -167,6 +167,15 @@ iframe {
         padding: 10px 10px 20px;
       }
     }
+
+    .social-links {
+      text-align: center;
+
+      a {
+        display: inline-block;
+        margin: 0 5px;
+      }
+    }
   }
 }
 @media screen and (max-width: 768px) {
