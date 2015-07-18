@@ -3,7 +3,7 @@ published: true
 title: JSOxford For Newbies
 layout: post
 date: 2015-05-02
-author: [Dan](https://twitter.com/danielthepope)
+author: "[Daniel Pope](https://twitter.com/danielthepope)"
 ---
 
 Hi, I'm [Dan](https://twitter.com/danielthepope). I studied Computer Science at the University of Bath where I learned absolutely no JavaScript whatsoever. When I was working on placement, I used jQuery to show and hide elements on a webpage, and that was it. Not exactly what you'd call sophisticated JavaScript is it?
