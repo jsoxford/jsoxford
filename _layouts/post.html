@@ -19,7 +19,14 @@ layout: default
             <div class="eventInfo col-xs-3">
                 <span class="eventDate">{{ page.date | date: "%a %b %d"}} </span>
                 <span class="eventTime">{{ page.date | date: "%I:%M %p"}}</span>
-                <a href="{{ page.externalURL }}"><span class="attendees">{{page.attendees}}</span> went</a>
+                <a href="{{ page.externalURL }}">
+                    <span class="attendees">{{page.attendees}}</span>
+                    {% if page.status == 'upcoming' %}
+                        are going
+                    {% else %}
+                        went
+                    {% endif %}
+                </a>
             </div>
         {% endif %}
         {% if page.author != null %}
