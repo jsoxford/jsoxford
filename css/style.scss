@@ -113,9 +113,16 @@ footer {
 }
 
 #MeetupMembers {
+  line-height: 0.7em;
+
   a {
     display: inline-block;
     margin-left: 10px;
+
+    &:last-of-type {
+      float: right;
+      line-height: 2.5em;
+    }
 
     &.memberThumbnail {
       margin: 0;
