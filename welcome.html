@@ -261,9 +261,15 @@
     <script><![CDATA[
       var icons = [
         '.jo-nodebot','.jo-github','.jo-grunt','.jo-html5', '.jo-gulp', '.jo-nodejs', '.jo-unicorn',
-        '.jo-handlebars', '.jo-angular', '.jo-ember', '.jo-backbone', '.jo-nodeschool', '.jo-members'
+        '.jo-handlebars', '.jo-angular', '.jo-ember', '.jo-backbone', '.jo-nodeschool'
         ];
       var waitTimeout = 5000;
+
+      // Allow for overriding
+      if(window.location.search){
+        waitTimeout = 10000;
+        icons = [window.location.search.replace('?','.')];
+      }
 
       function each(selector, on){
         [].forEach.call(document.querySelectorAll(selector), function(el){
@@ -282,15 +288,15 @@
         return Math.floor(Math.random() * (max - min)) + min;
       }
       function showRandom(){
-        var num = getRandomInt(0,icons.length+1);
-        if(num >= icons.length){
+        var num = getRandomInt(0,icons.length+4);
+        if(num > icons.length){
+          showMembers();
+        }else if(num === icons.length){
           show('.jo-standard-horse');
           setTimeout(function(){
             show('.jo-bars');
             next();
           }, 1000);
-        }else if(icons[num] === '.jo-members'){
-          showMembers();
         }else{
           show(icons[num]);
           next();
@@ -355,7 +361,9 @@
 
           var removeFunc = (function(id){
             return function(){
-              document.getElementById('clip_'+id).remove();
+              if(document.getElementById('clip_'+id)){
+                document.getElementById('clip_'+id).remove();
+              }
             }
           }(count));
           setTimeout(removeFunc, 5000);
