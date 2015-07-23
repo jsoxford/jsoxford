@@ -83,6 +83,18 @@
         }
     });
 
+    function formatDate(date){
+        var dateString = '';
+        dateString += date.getFullYear()+'-';
+        if(date.getMonth()+1<10){
+          dateString += '0';
+        }
+        dateString += (date.getMonth()+1);
+        dateString += '-';
+        dateString += date.getDate();
+        return dateString;
+    }
+
     function updatePosts(posts){
         var newEventElements = [];
         var yesterday = new Date(new Date() - 86400000);

@@ -31,7 +31,7 @@ layout: default
                         <div class="eventInfo col-xs-3">
                             <span class="eventDate">{{ post.date | date: "%a %b %d"}} </span>
                             <span class="eventTime">{{ post.date | date: "%I:%M %p"}}</span>
-                            <a href="{{ post.externalURL }}"><span class="attendees">{{post.attendees}}</span> went</a>
+                            <a href="{{ post.externalURL }}"><span class="attendees">{{post.attendees}}</span> are going</a>
                         </div>
                     {% endif %}
                     {% if post.author != null %}
