@@ -96,7 +96,7 @@
     }
 
     function updatePosts(posts){
-        var newEventElements = [];
+        var eventElements = [];
         var yesterday = new Date(new Date() - 86400000);
         var i,len,postDate;
         for(i=0,len=posts.length;i<len;i++){
