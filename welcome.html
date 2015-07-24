@@ -3,6 +3,7 @@
 <head>
   <title>JS Oxford</title>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:700,400' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="http://cdn.jsdelivr.net/emojione/1.5.0/assets/css/emojione.min.css"/>
   <style>
     html,
     body {
@@ -1060,7 +1061,7 @@
     {};return this};c.prototype.stopCallback=function(a,b){return-1<(" "+b.className+" ").indexOf(" mousetrap ")||B(b,this.target)?!1:"INPUT"==b.tagName||"SELECT"==b.tagName||"TEXTAREA"==b.tagName||b.isContentEditable};c.prototype.handleKey=function(){return this._handleKey.apply(this,arguments)};c.init=function(){var a=c(r),b;for(b in a)"_"!==b.charAt(0)&&(c[b]=function(b){return function(){return a[b].apply(a,arguments)}}(b))};c.init();C.Mousetrap=c;"undefined"!==typeof module&&module.exports&&(module.exports=
     c);"function"===typeof define&&define.amd&&define(function(){return c})})(window,document);
   </script>
-
+  <script src="http://cdn.jsdelivr.net/emojione/1.5.0/lib/js/emojione.min.js"></script>
   <script>
     var numberOfSpeakers = prompt("How many speakers do we have today?", 2);
     var list = document.querySelector('.speaker-list tbody')
@@ -1077,6 +1078,18 @@
     Mousetrap.bind(['shift+up'], function(e) {
       document.querySelector('.speaker-list tr:last-of-type').remove();
     });
+
+
+    var emojiTimeout;
+    window.onkeyup = function(){
+      clearTimeout(emojiTimeout);
+      emojiTimeout = setTimeout(function(){
+        var inputs = document.querySelectorAll('.speaker');
+        for(var i=0; i<inputs.length; i++){
+          inputs[i].innerHTML = emojione.shortnameToImage(inputs[i].innerHTML);
+        }
+      }, 5000);
+    }
 
   </script>
 </body>
