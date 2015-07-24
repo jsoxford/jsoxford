@@ -116,7 +116,7 @@
         // Sort the events by date
         eventElements = sortEvents(eventElements);
         // Display them
-        $(outputTarget).append(eventElements);
+        $('#UpcomingEvents').append(eventElements);
     }
 
     function buildPost(event, isUpcoming){
