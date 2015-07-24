@@ -1051,10 +1051,19 @@
     var numberOfSpeakers = prompt("How many speakers do we have today?", 2);
     var list = document.querySelector('.speaker-list')
     var listElements = "";
+    var row = '<tr><td class="time" contenteditable></td> <td class="speaker" contenteditable></td></tr>';
     for(var i=0;i<numberOfSpeakers;i++){
-      listElements += '<tr><td class="time" contenteditable></td> <td class="speaker" contenteditable></td></tr>';
+      listElements += row;
     }
     list.innerHTML = listElements;
+
+    window.onkeyup = function(e) {
+      var key = e.keyCode ? e.keyCode : e.which;
+      if (key == 45) {
+        list.innerHTML += row;
+      }
+    }
+
   </script>
 </body>
 </html>
