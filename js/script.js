@@ -107,9 +107,16 @@
             if(posts[i].updated > yesterday){
                 postDate = new Date(posts[i].time);
                 $('[data-date^='+formatDate(postDate)+']').has('.meetupIcon').each(function(){
+                    var eventDateTime = new Date(posts[i].time);
+                    var ampm = (eventDateTime.getHours() >= 12 ? 'PM' : 'AM');
+                    var eventDateString = eventDateTime.toDateString().split(' '); // ['Wed', 'Jul', '15', '2015']
+                    var eventMonth = eventDateString[1];
+                    var eventDay = eventDateString[0];
                     $(this).find('.title').text(posts[i].name);
                     $(this).find('.postContent').html(posts[i].description);
                     $(this).find('.attendees').text(posts[i].yes_rsvp_count);
+                    $(this).find('.eventDate').text(eventDay + " " + eventMonth + " "+ eventDateTime.getDate() + " ");
+                    $(this).find('.eventTime').text((eventDateTime.getHours() >= 12 ? eventDateTime.getHours()-12 : eventDateTime.getHours()) + ":"+ (eventDateTime.getMinutes()<10?"0":"") + eventDateTime.getMinutes() + " " + ampm);
                 });
             }
         }
