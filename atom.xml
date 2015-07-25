@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2015-07-25T00:07:50+00:00</updated>
+ <updated>2015-07-25T11:11:16+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -14,7 +14,7 @@
  <entry>
    <title>JSOxHack</title>
    <link href="http://jsoxford.com/2015/JSOxHack/"/>
-   <updated>2015-08-22T09:00:00+00:00</updated>
+   <updated>2015-08-22T10:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/JSOxHack</id>
    <content type="html">&lt;p&gt;The JSOxHack is a full-day hack event to play with the technologies we've learned over summer, or anything else that interests us. &lt;/p&gt;
 &lt;p&gt;This is not a hackathon or competition, and there are no prizes. Instead it's a chance to hack with great people on interesting things. We'll start the day with a round of pitches, so if you've got any ideas bring them along. If you're just keen to take part there will be plenty of groups, and we've got mentors around all day to guide and support you.&lt;/p&gt;
@@ -30,7 +30,7 @@
  <entry>
    <title>RailsBridge</title>
    <link href="http://jsoxford.com/2015/RailsBridge/"/>
-   <updated>2015-08-08T09:00:00+00:00</updated>
+   <updated>2015-08-08T10:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/RailsBridge</id>
    <content type="html">&lt;p&gt;RailsBridge workshops are a free and fun way to get started or level up with Rails, Ruby, and other web technologies. Our events focus on increasing diversity in tech, so that people of all backgrounds can feel welcome and comfortable in our industry.&lt;/p&gt;
 &lt;p&gt;This workshop is intended to reach out to women who are interested in learning how to build interactive websites. &lt;b&gt;Attendees should identify as a woman, and can bring a guest of any gender.&lt;/b&gt;&lt;/p&gt;
@@ -64,7 +64,7 @@
  <entry>
    <title>NodeBots Day</title>
    <link href="http://jsoxford.com/2015/NodeBots-Day/"/>
-   <updated>2015-07-25T09:00:00+00:00</updated>
+   <updated>2015-07-25T10:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/NodeBots-Day</id>
    <content type="html">&lt;p&gt;NodeBots are robots that are controlled by JavaScript. Come along for a day of hardware and software hacking, where &lt;i&gt;we&lt;/i&gt; get to control the machines.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/espruino&quot;&gt;Gordon Williams&lt;/a&gt; will be joining us with a host of &lt;a href=&quot;http://www.espruino.com/&quot;&gt;Espruino&lt;/a&gt; boards, components and wizardry. We also have a couple of node-powered RC cars, some Arduino Uno boards and a collection of components, as well as a few boxes of Lego Technic to let your imagination run wild.&lt;/p&gt;
@@ -98,7 +98,7 @@
  <entry>
    <title>Summer JS</title>
    <link href="http://jsoxford.com/2015/Summer-JS/"/>
-   <updated>2015-07-15T18:30:00+00:00</updated>
+   <updated>2015-07-15T19:30:00+00:00</updated>
    <id>http://jsoxford.com/2015/Summer-JS</id>
    <content type="html">&lt;p&gt;IT’S. SO. SUMMERY.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;You’re probably reading this in the park right now, which is totally great.&lt;/p&gt;
@@ -117,7 +117,7 @@
  <entry>
    <title>Practical Open Linked Data Mega Meetup</title>
    <link href="http://jsoxford.com/2015/Practical-Open-Linked-Data-Mega-Meetup/"/>
-   <updated>2015-06-10T18:30:00+00:00</updated>
+   <updated>2015-06-10T19:30:00+00:00</updated>
    <id>http://jsoxford.com/2015/Practical-Open-Linked-Data-Mega-Meetup</id>
    <content type="html">&lt;p&gt;This month we're having a super-mega-meetup with &lt;a href=&quot;http://oxrug.org/&quot;&gt;OxRUG&lt;/a&gt; and the &lt;a href=&quot;http://www.meetup.com/oxfordpython/&quot;&gt;Oxford Python Meetup Group&lt;/a&gt; to look at open data and how we can leverage and contribute to global datasets. Open data is great in theory, but how can we go about &lt;i&gt;actually&lt;/i&gt; using it, and what are the practical implications? Hopefully we'll find out!&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Practical Open and Linked Data - &lt;a href=&quot;https://twitter.com/ldodds&quot;&gt;Leigh Dodds&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
@@ -199,7 +199,7 @@
  <entry>
    <title>International NodeSchool Day</title>
    <link href="http://jsoxford.com/2015/International-NodeSchool-Day/"/>
-   <updated>2015-05-23T09:00:00+00:00</updated>
+   <updated>2015-05-23T10:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/International-NodeSchool-Day</id>
    <content type="html">&lt;p&gt;NodeSchool is a community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way. There are workshops available for every skill level from JS beginners all the way to experienced node programmers.&lt;/p&gt;
 &lt;p&gt;This event is part of International NodeSchool Day, so we'll be getting in touch with other NodeSchoolers around the world during the day.&lt;/p&gt;
@@ -214,7 +214,7 @@
  <entry>
    <title>Testing, testing and testing</title>
    <link href="http://jsoxford.com/2015/Testing-testing-and-testing/"/>
-   <updated>2015-05-14T18:00:00+00:00</updated>
+   <updated>2015-05-14T19:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/Testing-testing-and-testing</id>
    <content type="html">&lt;p&gt;We've two amazing talks lined up for May that will get you all eager to test your JavaScript!&lt;/p&gt;
 &lt;p&gt;Come join us for some drinks/snacks, a chat and learn some stuff. &lt;/p&gt;
@@ -249,7 +249,7 @@
  <entry>
    <title>RTHack</title>
    <link href="http://jsoxford.com/2015/RTHack/"/>
-   <updated>2015-04-11T08:30:00+00:00</updated>
+   <updated>2015-04-11T09:30:00+00:00</updated>
    <id>http://jsoxford.com/2015/RTHack</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://photos3.meetupstatic.com/photos/event/9/f/e/9/600_435340937.jpeg&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;We're going to have a hack day centred around realtime web technologies.&lt;/p&gt;
