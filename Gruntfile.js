@@ -2,7 +2,7 @@ var jpegRecompress = require('imagemin-jpeg-recompress');
 var https = require('https');
 var http = require('http');
 var fs = require('fs');
-var moment = require('moment');
+var moment = require('moment-timezone');
 var slug = require('slug');
 var matter = require('gray-matter');
 
@@ -249,7 +249,7 @@ module.exports = function(grunt) {
           published: true,
           layout: 'post',
           title: post.name,
-          date: moment(post.time).format('YYYY-MM-DD HH:mm:ss'),
+          date: moment(post.time).tz('Europe/London').format('YYYY-MM-DD HH:mm:ss'),
           source: 'meetup',
           attendees: post.yes_rsvp_count,
           externalURL: post.event_url,
