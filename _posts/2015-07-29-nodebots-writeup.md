@@ -38,9 +38,3 @@ A brilliant day of hacking was had thanks to:
 * Pusher for the electronic components
 * Haybrook IT Recruitment for the Pastries, Burritos and Snackage.
 * and the guys at JSOxford
-
-
-
-
-
-
