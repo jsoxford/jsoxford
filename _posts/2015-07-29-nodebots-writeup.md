@@ -48,3 +48,10 @@ A brilliant day of hacking was had thanks to:
 * Pusher for the electronic components
 * Haybrook IT Recruitment for the Pastries, Burritos and Snackage.
 * and the guys at JSOxford
+
+---
+
+Some other people wrote about the day too:
+
+ * [Marcus Noble](https://blog.marcusnoble.co.uk/2015-07-14-nodebots-2015/)
+ * [Dan Pope](https://danielthepope.wordpress.com/2015/07/30/jsoxford-nodebots-day/)
