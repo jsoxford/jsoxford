@@ -278,11 +278,11 @@ module.exports = function(grunt) {
     });
   });
 
-  grunt.registerTask('meetup', 'buildMeetupPosts');
-  grunt.registerTask('build', ['meetup', 'sprite-members','jekyll:build']);
+  grunt.registerTask('meetup', ['buildMeetupPosts','sprite-members']);
+  grunt.registerTask('build', ['jekyll:build']);
   grunt.registerTask('sprite-members', ['downloadmemberphotos','sprite', 'clean:members']);
   grunt.registerTask('optimize', ['cssmin','uncss','imagemin','uglify','htmlmin']);
-  grunt.registerTask('deploy', ['build','optimize','buildcontrol']);
+  grunt.registerTask('deploy', ['meetup', 'build','optimize','buildcontrol']);
   grunt.registerTask('default', ['build','jekyll:serve']);
 
 };
