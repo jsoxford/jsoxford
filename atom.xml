@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2015-08-02T00:07:28+00:00</updated>
+ <updated>2015-08-02T15:21:20+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -24,6 +24,17 @@
 &lt;p&gt;&lt;b&gt;What do I need to bring?&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;All you'll need is your own laptop (if you don't have one, just get in touch with us in advance and we'll do our best to sort you out).&lt;/p&gt;
 &lt;p&gt;If you have any leftovers from a previous event, components, devices or things you'd like to hack on, bring them along!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Summer Social P.A.R.T.Y.</title>
+   <link href="http://jsoxford.com/2015/Summer-Social-PARTY/"/>
+   <updated>2015-08-12T19:00:00+00:00</updated>
+   <id>http://jsoxford.com/2015/Summer-Social-PARTY</id>
+   <content type="html">&lt;p&gt;We're taking a bit of a break from our usual structure this month for something a bit less formal. &lt;/p&gt;
+&lt;p&gt;Join us at St. Aldates Tavern from 7pm for drinks and chat about life, love and JavaScript. If you're new to JavaScript (and JSOxford) or a regular, it's a great chance to meet and catch up.&lt;/p&gt;
+&lt;p&gt;See you there.&lt;/p&gt;
 </content>
  </entry>
  
