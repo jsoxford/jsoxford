@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2015-08-06T00:07:23+00:00</updated>
+ <updated>2015-08-08T00:07:15+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -115,7 +115,7 @@
 &lt;p&gt;&lt;br /&gt;You’re probably reading this in the park right now, which is totally great.&lt;/p&gt;
 &lt;p&gt;We’ve got three awesome talks that are &lt;b&gt;definitely&lt;/b&gt; worth coming inside for (also, we’ll have some beers/juice so you can cool off).&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/Rumyra&quot;&gt;Ruth John&lt;/a&gt; - A Journey Through Web API Space &amp;amp; Time&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;i&gt;More browser APIs seem to be cropping up daily, it’s hard to keep track of what’s what and which is which. Don’t panic, Ruth takes us on a tour of what’s past, what���s present and what the future holds, so you can level up and feel a lot calmer about what’s on the event horizon.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;i&gt;More browser APIs seem to be cropping up daily, it’s hard to keep track of what’s what and which is which. Don’t panic, Ruth takes us on a tour of what’s past, what’s present and what the future holds, so you can level up and feel a lot calmer about what’s on the event horizon.&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/ninjanails&quot;&gt;Seren Davies&lt;/a&gt; - Death to Icon Fonts&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;Do you use icon fonts? Are you aware of their shortcomings? In this talk Seren will highlight some of the downsides with using icon fonts and show you an alternative.&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/omgmog&quot;&gt;Max Glenister&lt;/a&gt; - A running start at Google Cardboard with JavaScript&lt;/b&gt;&lt;/p&gt;
