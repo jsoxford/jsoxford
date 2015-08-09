@@ -34,6 +34,13 @@ Mid afternoon saw a flurry of creations being given the spark of life in the mod
 
 Thereafter, designs were iterated and robotic displays such as "light following" plus the odd whiteboard "what could have been" presentations were duly impressed upon the crowd.
 
+<blockquote class="twitter-tweet" lang="en">
+	<p lang="en" dir="ltr">Job well done! <a href="https://twitter.com/hashtag/WalkIntoTheLight?src=hash">#WalkIntoTheLight</a> <a href="https://twitter.com/hashtag/MothBot?src=hash">#MothBot</a> <a href="https://twitter.com/hashtag/NodeBots?src=hash">#NodeBots</a> <a href="https://twitter.com/JSOxford">@JSOxford</a> <a href="http://t.co/w0F93Xiv17">pic.twitter.com/w0F93Xiv17</a>
+	</p>
+	&mdash; Dan Pope (@danielthepope) <a href="https://twitter.com/danielthepope/status/624969982934392832">July 25, 2015</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 By the end of the afternoon the focus wore off and content in their creations, the crowd of hackers hit the fortunately still-functioning kill-switch on their robotic creations in favour of pitchers of iced pineapple dacquiries, and other beverages befitting the new masters of a robot army.
 
 As (whatever is in a dacquiri) took hold, conversations were held with decreasing amounts of sense, and an astonishingly diverse range of concepts were debated such as inappropriate handshake techniques and the use of potatoes in technology.
