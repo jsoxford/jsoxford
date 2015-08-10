@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2015-08-10T00:07:10+00:00</updated>
+ <updated>2015-08-10T07:29:21+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -69,6 +69,70 @@
 &lt;p&gt;&lt;img src=&quot;http://photos1.meetupstatic.com/photos/event/2/b/7/2/600_438011122.jpeg&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;• &lt;a href=&quot;http://cucumber.pro&quot;&gt;Cucumber Pro&lt;/a&gt;, for donating a signed copy of &lt;a href=&quot;https://pragprog.com/book/hwcuc/the-cucumber-book&quot;&gt;the Cucumber Book&lt;/a&gt;, and other swag to hand out on the day.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://photos3.meetupstatic.com/photos/event/3/2/7/e/600_439032926.jpeg&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NodeBots Writeup</title>
+   <link href="http://jsoxford.com/2015/nodebots-writeup/"/>
+   <updated>2015-07-29T00:00:00+00:00</updated>
+   <id>http://jsoxford.com/2015/nodebots-writeup</id>
+   <content type="html">&lt;p&gt;Last saturday saw International Nodebots Day, and another &lt;a href=&quot;http://summerofhacks.io&quot;&gt;Summer of Hacks&lt;/a&gt; event from JSOxford.&lt;/p&gt;
+
+&lt;p&gt;The guys put together a great event in partnership with Gordon from Pur3.
+Gordon is the talented inventor of the Espurino family of javascript powered microcontrollers and had previously given a talk to the group about the boards, so most people were already juiced up to try it out.&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/img/Nodebots-table-of-stuff.jpg&quot; alt=&quot;Table of stuff&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A heap of wires, batteries, servos and other electronics had been duly arranged and Gordon had even gone to the supreme effort of developing a printed circuit board to form the chassis of the mobile robot
+and had instructions prepared to give us a head start of assembling our soon-to-be planet destroying synthetic lifeform underlings!&lt;/p&gt;
+
+&lt;p&gt;Motivation to begin soldering was high and one could feel the anticipation of the day’s creativity in the air, and as the crumbs of french pastries still lingered on moustaches, the hardware hacking fury began.&lt;/p&gt;
+
+&lt;p&gt;Surges of caffeine countered with the absolute need of a steady hand for soldering surface mount components onto the board but the group tore through the hardware assembly eager to get to promised land of embedded Javascript control of their new robotic creations.
+Early finishers eased out of hardware assembly and hit the whiteboards to sketch out the software needed for world domination via robots equipped with light sensors and servos for forward and backward motion and possibly a bluetooth transceiver.&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/img/Nodebots-hard-at-work.jpg&quot; alt=&quot;Hard at work on NodeBots&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As delicious as the Burritos were, lunch was a mere footnote of the day as teams inhaled the mexican food, quaffed a beer and rushed back to the lab to focus on the hacking.&lt;/p&gt;
+
+&lt;p&gt;Mid afternoon saw a flurry of creations being given the spark of life in the modern-day primordial soup of burrito-stained wiring, hot glue residue and embedded Javascript and an veritable army of imposing artificial beings were sent forth to spin arbitrarily and crash into skirting boards as their human overlords scratched their beards and contemplated the bewildering complexity of providing motion through esoteric pulse width modulation schemes expressed in javascript functions.&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/img/Nodebots-spin.gif&quot; alt=&quot;Spinning Bot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thereafter, designs were iterated and robotic displays such as “light following” plus the odd whiteboard “what could have been” presentations were duly impressed upon the crowd.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;
+	&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Job well done! &lt;a href=&quot;https://twitter.com/hashtag/WalkIntoTheLight?src=hash&quot;&gt;#WalkIntoTheLight&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/MothBot?src=hash&quot;&gt;#MothBot&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/NodeBots?src=hash&quot;&gt;#NodeBots&lt;/a&gt; &lt;a href=&quot;https://twitter.com/JSOxford&quot;&gt;@JSOxford&lt;/a&gt; &lt;a href=&quot;http://t.co/w0F93Xiv17&quot;&gt;pic.twitter.com/w0F93Xiv17&lt;/a&gt;
+	&lt;/p&gt;
+	&amp;mdash; Dan Pope (@danielthepope) &lt;a href=&quot;https://twitter.com/danielthepope/status/624969982934392832&quot;&gt;July 25, 2015&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;By the end of the afternoon the focus wore off and content in their creations, the crowd of hackers hit the fortunately still-functioning kill-switch on their robotic creations in favour of pitchers of iced pineapple dacquiries, and other beverages befitting the new masters of a robot army.&lt;/p&gt;
+
+&lt;p&gt;As (whatever is in a dacquiri) took hold, conversations were held with decreasing amounts of sense, and an astonishingly diverse range of concepts were debated such as inappropriate handshake techniques and the use of potatoes in technology.&lt;/p&gt;
+
+&lt;p&gt;Cue the moonwalking…&lt;/p&gt;
+
+&lt;p&gt;A brilliant day of hacking was had thanks to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gordon from Pur3 Ltd for the extra hardware designs and blueprints&lt;/li&gt;
+  &lt;li&gt;White October for the venue&lt;/li&gt;
+  &lt;li&gt;Pusher for the electronic components&lt;/li&gt;
+  &lt;li&gt;Haybrook IT Recruitment for the Pastries, Burritos and Snackage.&lt;/li&gt;
+  &lt;li&gt;and the guys at JSOxford&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Some other people wrote about the day too:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.marcusnoble.co.uk/2015-07-14-nodebots-2015/&quot;&gt;Marcus Noble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://danielthepope.wordpress.com/2015/07/30/jsoxford-nodebots-day/&quot;&gt;Dan Pope&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
