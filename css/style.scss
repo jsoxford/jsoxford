@@ -1,5 +1,8 @@
 ---
 ---
+
+$fa-font-path: "../bower_components/fontawesome/fonts";
+@import "../bower_components/fontawesome/scss/font-awesome.scss";
 @import "../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 @import "sprites.css";
 
@@ -231,11 +234,6 @@ iframe {
       }
     }
   }
-}
-
-.icon {
-  height: 32px;
-  width: 32px;
 }
 
 iframe.twitter-tweet {

@@ -5,7 +5,7 @@ title: Archive
 ---
 
 <div class="row">
-    <h2><img src="/img/icons/calendar.svg" class="icon" title="calendar icon" /> Upcoming  Events</h2>
+    <h2><i class="fa fa-calendar"></i> Upcoming  Events</h2>
     <div id="UpcomingEvents">
         {% assign upcoming = site.posts | sort:'date' | where:'status','upcoming' %}
         {% for post in upcoming %}
@@ -52,12 +52,12 @@ title: Archive
 
         {% endfor %}
         {% if upcoming == blank %}
-            <em>No upcoming events... <img src="/img/icons/frown.svg" class="icon" title="frown face" /></em>
+            <em>No upcoming events... <i class="fa fa-frown-o"></i></em>
         {% endif %}
     </div>
 </div>
 <div class="row">
-    <h2><img src="/img/icons/calendar.svg" class="icon" title="calendar icon" /> Past Events</h2>
+    <h2><i class="fa fa-calendar"></i> Past Events</h2>
     <div id="PastEvents">
         {% for post in site.posts %}
             {% if post.status != 'upcoming' %}
