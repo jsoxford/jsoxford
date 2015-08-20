@@ -5,6 +5,7 @@ var fs = require('fs');
 var moment = require('moment-timezone');
 var slug = require('slug');
 var matter = require('gray-matter');
+var emojione = require('emojione');
 
 module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
@@ -226,6 +227,10 @@ module.exports = function(grunt) {
     var allEventsQuery = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_id=17778422&photo-host=secure&page=100&fields=&order=time&status=past%2Cupcoming&desc=false&sig_id=153356042&sig=66887b77c34d304571d20465b10229ce582b7e02";
     var total = 0, complete = 0;
 
+    function replaceEmoji(str){
+      return emojione.toShort(str).replace(/(:\w+:)(?! )/g, '$1 ');
+    }
+
     function postComplete(){
       if(++complete === total){
         done();
@@ -235,7 +240,7 @@ module.exports = function(grunt) {
     function getFilename(post){
       var title,filename;
 
-      title = slug(post.name);
+      title = slug(replaceEmoji(post.name));
       filename = '_posts/'+moment(post.time).format('YYYY-MM-DD')+'-'+title+'.md';
 
       return filename;
@@ -248,7 +253,7 @@ module.exports = function(grunt) {
           '!':'Note: This post has been auto-generated from a Meetup.com event',
           published: true,
           layout: 'post',
-          title: post.name,
+          title: replaceEmoji(post.name),
           date: moment(post.time).tz('Europe/London').format('YYYY-MM-DD HH:mm:ss'),
           source: 'meetup',
           attendees: post.yes_rsvp_count,
