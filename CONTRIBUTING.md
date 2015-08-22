@@ -32,4 +32,5 @@ Consistency is key! We can add more rules here as they crop up.
 1. One selector per line
 2. Space before opening `{`
 3. Space before property value (after `:`)
-4. Use explicit properties over shorthand properties
+4. Empty line between classes
+5. Use explicit properties over shorthand properties
