@@ -20,6 +20,7 @@
     "grunt-css-url-embed": "^1.5.1",
     "grunt-gh-pages": "^0.10.0",
     "grunt-jekyll": "0.4.2",
+    "grunt-jscs": "^2.1.0",
     "grunt-spritesmith": "^4.5.1",
     "grunt-uncss": "^0.3.8",
     "image-type": "^2.0.2",
