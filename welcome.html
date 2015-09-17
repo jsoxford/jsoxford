@@ -1162,23 +1162,33 @@
       }).then(function(json) {
         var listElements = "";
 
-        if(json.results && json.results.length){
-          var speakers = json.results[0].description.match(/\<b\>( )*(.(?!\<\/b))*\>\<\/b\>/ig);
-          document.querySelector('#details h2').innerHTML = json.results[0].name;
-          speakers.forEach(function(speaker){
-            var tmp = document.createElement("DIV");
-            tmp.innerHTML = speaker;
-            speaker = tmp.textContent || tmp.innerText;
-            if(speaker.trim().length){
-              listElements += '<tr><td class="time" contenteditable></td> <td class="speaker" contenteditable>' + speaker.trim() + '</td></tr>';
-            }
-          });
-        } else {
+        function noMeetup(){
           var numberOfSpeakers = prompt("How many speakers do we have today?", 2);
           var row = '<tr><td class="time" contenteditable></td> <td class="speaker" contenteditable></td></tr>';
           for(var i=0;i<numberOfSpeakers;i++){
             listElements += row;
           }
+        }
+
+        if(json.results && json.results.length){
+          var today=new Date();
+          var eventDate=new Date(json.results[0].time);
+          if(today.getDate()==eventDate.getDate() && today.getMonth() == eventDate.getMonth() && today.getYear() == eventDate.getYear()){
+            var speakers = json.results[0].description.match(/\<b\>( )*(.(?!\<\/b))*\>\<\/b\>/ig);
+            document.querySelector('#details h2').innerHTML = json.results[0].name;
+            speakers.forEach(function(speaker){
+              var tmp = document.createElement("DIV");
+              tmp.innerHTML = speaker;
+              speaker = tmp.textContent || tmp.innerText;
+              if(speaker.trim().length){
+                listElements += '<tr><td class="time" contenteditable></td> <td class="speaker" contenteditable>' + speaker.trim() + '</td></tr>';
+              }
+            });
+          } else {
+            noMeetup();
+          }
+        } else {
+          noMeetup();
         }
         list.innerHTML = listElements;
 
