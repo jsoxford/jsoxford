@@ -1176,14 +1176,18 @@
           if(today.getDate()==eventDate.getDate() && today.getMonth() == eventDate.getMonth() && today.getYear() == eventDate.getYear()){
             var speakers = json.results[0].description.match(/\<b\>( )*(.(?!\<\/b))*\>\<\/b\>/ig);
             document.querySelector('#details h2').innerHTML = json.results[0].name;
-            speakers.forEach(function(speaker){
-              var tmp = document.createElement("DIV");
-              tmp.innerHTML = speaker;
-              speaker = tmp.textContent || tmp.innerText;
-              if(speaker.trim().length){
-                listElements += '<tr><td class="time" contenteditable></td> <td class="speaker" contenteditable>' + speaker.trim() + '</td></tr>';
-              }
-            });
+            if(speakers){
+              speakers.forEach(function(speaker){
+                var tmp = document.createElement("DIV");
+                tmp.innerHTML = speaker;
+                speaker = tmp.textContent || tmp.innerText;
+                if(speaker.trim().length){
+                  listElements += '<tr><td class="time" contenteditable></td> <td class="speaker" contenteditable>' + speaker.trim() + '</td></tr>';
+                }
+              });
+            } else {
+              noMeetup();
+            }
           } else {
             noMeetup();
           }
