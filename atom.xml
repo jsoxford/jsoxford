@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2015-09-15T00:09:24+00:00</updated>
+ <updated>2015-09-18T09:54:54+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -21,16 +21,37 @@
 &lt;p&gt;This meetup is going to be great, and also things after that too.&lt;/p&gt;
 &lt;p&gt;Everything is great.&lt;/p&gt;
 &lt;p&gt;We've got three great talks lined up for September, come along to hear about…&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;📢  &lt;/b&gt;&lt;b&gt;Making the web more better – &lt;a href=&quot;https://twitter.com/jreeve0&quot;&gt;Joe Reeve&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Joe works at SquaredUp(.com) using Ractive to build dashboards and improve system administrator's workflows, and he's going to be showing us how we can use Ractive to fix the way we web.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;📢  Digital Manuscript Toolkit – the journey so far – &lt;a href=&quot;https://twitter.com/monicams&quot;&gt;Monica Messaggi Kaya&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+&lt;b&gt;📢  Digital Manuscript Toolkit – the journey so far – &lt;a href=&quot;https://twitter.com/monicams&quot;&gt;Monica Messaggi Kaya&lt;/a&gt;  &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[cancelled] Unfortunately Monica is unable to attend JSOxford tonight; she'll be giving this talk at a later date.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;An introduction to International Image Interoperability Framework (IIIF) and its use on the Digital Manuscript Toolkit (DMT) - where Monica is working specifically on a JavaScript client to edit manuscripts online (via browser).&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt;📢  Visualising runkeeper data with html5 apis – &lt;a href=&quot;https://twitter.com/benjaminbenben&quot;&gt;Ben Foxall&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Ben will take us through some features of the web platform that allow us to retreive, process, and visualise data he's collected runkeeper. We'll cover stuff like service workers, indexeddb, canvas, d3, webgl.&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt;📢  Making the web more better – &lt;a href=&quot;https://twitter.com/jreeve0&quot;&gt;Joe Reeve&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Joe works at SquaredUp(.com) using Ractive to build dashboards and improve system administrator's workflows, and he's going to be showing us how we can use Ractive to fix the way we web.&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt; 📢  Unfolding the Future of Javascript – &lt;a href=&quot;https://twitter.com/henrahmagix&quot;&gt;Henry Blyth&lt;/a&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Henry will have &lt;a href=&quot;https://twitter.com/henrahmagix/status/641712731087892480&quot;&gt;4 minutes and 25 seconds&lt;/a&gt; to tell us some things about Javascript. &lt;/p&gt;
 &lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;📢  The what, why and how of ClojureScript – &lt;a href=&quot;https://twitter.com/ivanbokii&quot;&gt;Ivan Bokii&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Ivan will tell us how ClojureScript is different from other, more conventional, programming languages and what concepts and features this modern version of LISP has that can help you as a front-end developer to do your job better.&lt;/p&gt;
 &lt;p&gt;
+
+
+
 
 
 We've got some time for micro-pitches after the talks, so if you've got a job, project or interesting thing to share with the group that's your chance.&lt;/p&gt;
