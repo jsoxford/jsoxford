@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2015-10-04T00:08:36+00:00</updated>
+ <updated>2015-10-06T00:10:02+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -16,12 +16,11 @@
    <link href="http://jsoxford.com/2015/JS-EVERYWHERE/"/>
    <updated>2015-10-14T19:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/JS-EVERYWHERE</id>
-   <content type="html">&lt;p&gt;&lt;b&gt;DEAR RYAN AND PETE, I THINK WE SHOULD GET TALK DESCRIPTIONS BEFORE WE ANNOUNCE THIS.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;For a long time Javascript didn't exist, then for a relatively short time it was only in browsers, but now it's, like, &lt;b&gt;everywhere&lt;/b&gt;.&lt;/p&gt;
-&lt;p&gt;We're going to talk about some of the places that javascript is, that aren't a browser.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Electron&lt;/b&gt; – &lt;a href=&quot;https://twitter.com/disciplex&quot;&gt;Richard Patching&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;i&gt;TBA&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Creating &amp;amp; Publishing Your First Node Module (In 10 Minutes) –&lt;/b&gt; &lt;a href=&quot;https://twitter.com/richdevans&quot;&gt;Rich Evans&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;For a long time Javascript didn't exist, then for a relatively short time it was only in browsers, but now it's, like, &lt;i&gt;everywhere&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;We're going to talk about some of the places that javascript is, that aren't a browser.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Zero to MVP in 5 days with Electron – &lt;a href=&quot;https://twitter.com/disciplex&quot;&gt;Richard Patching&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Learn how I scratched my own itch and shipped an MVP cross platform desktop app in 5 days. I'll be sharing my battles with Windows and how I struggled to the last hour to get installers and auto-updating in (plus my solutions). This talk contains lots of code, coffee, javascript, angular all wrapped up in electron. Essentially every tool a pretentious hipster would use if they were shipping an app.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;Creating &amp;amp; Publishing Your First Node Module (In 10 Minutes) – &lt;a href=&quot;https://twitter.com/richdevans&quot;&gt;Rich Evans&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Are you ready to level up with the Javascript Adventure Club? In this pulse-pounding demonstration of vi-rtuosity, a humble lumbercoder armed only with a copy of vim will test, develop, and publish a sweet module to npm in only 10 minutes. Your ticket to glory and riches is only an 'npm publish' away!&lt;/p&gt;
 &lt;p&gt;• #amazing 🐙  – Agnes from Hull&lt;/p&gt;
 &lt;p&gt;• I learned a lot! – Bill from Oxford&lt;/p&gt;
