@@ -1154,7 +1154,8 @@
     });
   </script>
   <script>
-    var signedURL = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_urlname=jsoxford&only=description%2Cname&photo-host=public&page=1&fields=&order=time&status=upcoming&desc=false&sig_id=153356042&sig=d06d8edea05654abf5d1b5c13b862a00bbc5c49d";    var list = document.querySelector('.speaker-list tbody')
+    var signedURL = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_urlname=jsoxford&only=description%2Cname%2Ctime&photo-host=public&page=10&fields=&order=time&status=upcoming&desc=false&sig_id=153356042&sig=1e8807ff6a7f98045f25e27058c1e357a17e4a27";
+    var list = document.querySelector('.speaker-list tbody')
 
     fetchJsonp(signedURL)
       .then(function(response) {
