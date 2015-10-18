@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2015-10-14T12:55:49+00:00</updated>
+ <updated>2015-10-18T20:07:03+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -400,7 +400,7 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
 &lt;p&gt;More details to come, but it's going to be &lt;b&gt;awesome&lt;/b&gt;. (There might even be some stickers!)&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Space is limited&lt;/b&gt; - so you &lt;b&gt;must&lt;/b&gt; be signed up here to attend. (Also, only sign up if you're sure you can attend!)&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Schedule&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;9.30 - &lt;/b&gt;start (pastries &amp;amp; coffee)&lt;br /&gt;&lt;b&gt;9.40 - &lt;/b&gt;hello, overview of data / tools&lt;br /&gt;&lt;b&gt;10.00 - &lt;/b&gt;project pitching / choosing&lt;br /&gt;&lt;b&gt;10.30 - &lt;/b&gt;kick off&lt;br /&gt;&lt;b&gt;12.45 - &lt;/b&gt;retrospectives&lt;br /&gt;&lt;b&gt;1.00 - &lt;/b&gt;lunch (🌟  &lt;a href=&quot;http://missionburrito.co.uk/&quot;&gt;burritos&lt;/a&gt; 🌟)&lt;br /&gt;&lt;b&gt;5.30 - &lt;/b&gt;show &amp;amp; tell&lt;br /&gt;&lt;b&gt;6.30 - &lt;/b&gt;recovery drinks at &lt;a href=&quot;http://joeperksandco.co.uk/&quot;&gt;Joe Perks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;9.30 - &lt;/b&gt;start (pastries &amp;amp; coffee)&lt;br /&gt;&lt;b&gt;9.40 - &lt;/b&gt;hello, overview of data / tools&lt;br /&gt;&lt;b&gt;10.00 - &lt;/b&gt;project pitching / choosing&lt;br /&gt;&lt;b&gt;10.30 - &lt;/b&gt;kick off&lt;br /&gt;&lt;b&gt;12.45��- &lt;/b&gt;retrospectives&lt;br /&gt;&lt;b&gt;1.00 - &lt;/b&gt;lunch (🌟  &lt;a href=&quot;http://missionburrito.co.uk/&quot;&gt;burritos&lt;/a&gt; 🌟)&lt;br /&gt;&lt;b&gt;5.30 - &lt;/b&gt;show &amp;amp; tell&lt;br /&gt;&lt;b&gt;6.30 - &lt;/b&gt;recovery drinks at &lt;a href=&quot;http://joeperksandco.co.uk/&quot;&gt;Joe Perks&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;What to bring&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;It'll be good to have a laptop with node/io.js installed. Any other web-connected devices (phones/tablets/raspberryPis) might be fun too.&lt;/p&gt;
 &lt;p&gt;We'll provide you with some sample code to get you up and running with some realtime apis/libraries.&lt;/p&gt;
