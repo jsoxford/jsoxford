@@ -7,6 +7,7 @@ If you're unsure of anything, have a question or want to find anything out, (com
 ## Issues
 
 * Issues are appropriate for questions, talk ideas, requests for help, pretty much anything.
+* If you have a talk you'd like to give please open an issue here: https://github.com/jsoxford/events/issues/new
 
 ## Pull Requests
 
