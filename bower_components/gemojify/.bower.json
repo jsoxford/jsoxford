@@ -1,0 +1,15 @@
+{
+  "name": "gemojify",
+  "homepage": "https://github.com/danielthepope/gemojify",
+  "version": "0.0.3",
+  "_release": "0.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.3",
+    "commit": "4163301a65b63689da2437d4060043746e281e39"
+  },
+  "_source": "git://github.com/danielthepope/gemojify.git",
+  "_target": "~0.0.3",
+  "_originalSource": "danielthepope/gemojify",
+  "_direct": true
+}
