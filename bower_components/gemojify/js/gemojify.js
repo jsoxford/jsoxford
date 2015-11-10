@@ -3,6 +3,7 @@ function gemojify() {
   for (var i = 0; i < elementsToReplace.length; i++) {
     var newText = elementsToReplace[i].innerHTML;
     var matches = newText.match(/:[\w_-]+:/g);
+    if(!matches) continue;
     matches.forEach(function (match) {
       var matchRegExp = new RegExp(match, 'g');
       var emojiName = match.replace(/:/g, '');
