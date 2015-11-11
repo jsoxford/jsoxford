@@ -1,15 +1,14 @@
 {
   "name": "gemojify",
   "homepage": "https://github.com/danielthepope/gemojify",
-  "version": "0.0.3",
-  "_release": "0.0.3",
+  "_release": "505ffef86a",
   "_resolution": {
-    "type": "version",
-    "tag": "v0.0.3",
-    "commit": "4163301a65b63689da2437d4060043746e281e39"
+    "type": "branch",
+    "branch": "master",
+    "commit": "505ffef86a0034b14b6a27197908dfba1b04d1f3"
   },
   "_source": "git://github.com/danielthepope/gemojify.git",
-  "_target": "~0.0.3",
+  "_target": "master",
   "_originalSource": "danielthepope/gemojify",
   "_direct": true
 }
