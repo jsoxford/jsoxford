@@ -1,6 +1,0 @@
-safe: true
-lsi: false
-permalink: /:year/:title/
-exclude: [node_modules, package.json, Gruntfile.js]
-sass:
-  sass_dir: css
