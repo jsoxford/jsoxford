@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2015-11-06T00:10:44+00:00</updated>
+ <updated>2016-02-10T17:16:44+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -12,9 +12,39 @@
 
  
  <entry>
+   <title>The January(ish) One</title>
+   <link href="http://jsoxford.com/2016/The-Januaryish-One/"/>
+   <updated>2016-02-17T19:00:00+00:00</updated>
+   <id>http://jsoxford.com/2016/The-Januaryish-One</id>
+   <content type="html">&lt;p&gt;We’re going to &lt;i&gt;kick off&lt;/i&gt; 2016 big-style on &lt;b&gt;February 17th&lt;/b&gt; at the Story Museum. There will be talks, drinks, people, and tonnes of fun.&lt;/p&gt;
+&lt;p&gt;This month we’ve got Mike talking about offline web technologies, which is going to be pretty cool. And we’ve also got a community/collaborative/helpful/ supportive/lovely/nice/great show and tell session where we can share what we’ve been working on (or, what someone else has been working on, and you think is great).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;No Service - &lt;a href=&quot;https://twitter.com/ukmadlz&quot;&gt;Mike Elsmore&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;No matter where you look in technology, everything has an online component. But with the advancement of web technologies and mobile apps, offline is becoming a key characteristic. This talk covers what's necessary to make a WebApp offline, and some nifty stuff to help along the way.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show and Tell - Everyone&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This month we’re going to have a short session where you can stand up and talk about what you’ve been working on (or, something that someone else has been working on that you think is pretty cool.)&lt;/p&gt;
+&lt;p&gt;It’s a great opportunity to find people who might be able to help, or have suggestions.&lt;/p&gt;
+&lt;p&gt;We’ll have signup details closer to the time, for now - have a think of something you’d like to share.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TBC - TBC&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We’re still looking for a second talk, if there’s something you’d like to share - give a shout.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>:snowman: :christmas_tree: Winter Drinkup:christmas_tree: :snowman: </title>
+   <link href="http://jsoxford.com/2015/snowman-christmas_tree-Winter-Drinkupchristmas_tree-snowman/"/>
+   <updated>2015-12-08T19:00:00+00:00</updated>
+   <id>http://jsoxford.com/2015/snowman-christmas_tree-Winter-Drinkupchristmas_tree-snowman</id>
+   <content type="html">&lt;p&gt;December is a busy month for everyone, so instead of talks, join us at St Aldates Tavern for drinking and/or festive, nerdy conversation.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;We've heard rumours of Espruino powered LED christmas jumpers, the 24 PRs of Christmas and an unhealthy amount of Emoji.&lt;/p&gt;
+&lt;p&gt;Find us in the main pub area, taking up as much space as possible!&lt;/p&gt;
+&lt;p&gt;🌲🌲🌲🌲🌲🌲🌲🌲💭💭💭🌟💭💭🌲🌲🌲🌲🌲🌲🌲🌲&lt;br /&gt;🌲🌲🌲🌲🌲💭🐻💭💭💭⭐💭💭💭😁🎉💭💭🌲🌲🌲🌲&lt;br /&gt;🌲🌲🌲🌲💭💭💭⛄💭💭💭💭⛄💭💭🍗😴🍺💭🌲🌲🌲&lt;br /&gt;🌲🌲💭💭💭💭💭💭💭💭🎶💭🎶💭💭💭💭💭💭💭🌲🌲&lt;br /&gt;🌲🌲💭⛄💭🍷👪🔥💭💭🔔🎅🎉💭💭🎄💭💭💭💭🌲🌲&lt;br /&gt;🌲🌲💭💭💭💭💭💭💭💭💭🎿💭💭🎁🎄🎁💭⭐💭🌲🌲&lt;br /&gt;🌲🌲🌲💭💭⛄💭🍗🍴😋💭💭💭⭐💭🎁💭💭💭🌲🌲🌲&lt;br /&gt;🌲🌲����🌲💭💭💭💭💭💭💭💭😙⛄💭💭💭🌲🌲🌲🌲🌲&lt;br /&gt;🌲🌲🌲🌲🌲🌲🌲🌲💭💭💭🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Javascript Story Time</title>
    <link href="http://jsoxford.com/2015/Javascript-Story-Time/"/>
-   <updated>2015-11-18T18:45:00+00:00</updated>
+   <updated>2015-11-18T19:15:00+00:00</updated>
    <id>http://jsoxford.com/2015/Javascript-Story-Time</id>
    <content type="html">&lt;p&gt;&lt;b&gt;SUPER IMPORTANT: WE'RE AT THE &lt;a href=&quot;http://www.storymuseum.org.uk&quot;&gt;STORY MUSEUM&lt;/a&gt; THIS MONTH&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;i&gt;Here's some reasons why November is totally brilliant:&lt;/i&gt;&lt;/p&gt;

@@ -1,7 +1,7 @@
 jsoxford.github.com
 ===================
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jsoxford/jsoxford.github.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/jsoxford/jsoxford.github.com.svg?branch=develop)](https://travis-ci.org/jsoxford/jsoxford.github.com)
+[![Slack Status](https://jsoxford.herokuapp.com/badge.svg)](https://jsoxford.herokuapp.com) [![Build Status](https://travis-ci.org/jsoxford/jsoxford.github.com.svg?branch=develop)](https://travis-ci.org/jsoxford/jsoxford.github.com)
 
 This is the source for jsoxford.com - it’s a static site that is generated with [jekyll](http://jekyllrb.com/).
 
