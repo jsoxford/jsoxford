@@ -303,7 +303,7 @@ module.exports = function(grunt) {
   grunt.registerTask('meetup', ['buildMeetupPosts','sprite-members']);
   grunt.registerTask('build', ['jekyll:build']);
   grunt.registerTask('sprite-members', ['downloadmemberphotos','sprite', 'clean:members']);
-  grunt.registerTask('optimize', ['cssmin','uncss','imagemin','uglify','htmlmin']);
+  grunt.registerTask('optimize', ['cssmin','uncss','uglify','htmlmin']); // TODO: add 'imagemin' back
   grunt.registerTask('deploy', ['meetup', 'build','optimize','buildcontrol']);
   grunt.registerTask('default', ['build','jscs','jekyll:serve']);
 
