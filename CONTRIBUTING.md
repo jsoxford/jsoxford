@@ -2,7 +2,7 @@
 
 :+1::+1::+1: JSOxford is entirely volunteer-run, so thanks for helping! :+1::+1::+1:
 
-If you're unsure of anything, have a question or want to find anything out, [come chat with us on Slack](https://jsoxford.slack.com) (Sign up [here](https://jsoxford.herokuapp.com)).
+If you're unsure of anything, have a question or want to find anything out, [come chat with us on Slack](https://digitaloxford.slack.com) (Sign up [here](https://digitaloxford.herokuapp.com)).
 
 ## Issues
 
