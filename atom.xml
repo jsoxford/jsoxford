@@ -4,12 +4,169 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2016-05-06T08:02:33+00:00</updated>
+ <updated>2016-06-11T13:49:00+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
  </author>
 
+ 
+ <entry>
+   <title>Summer of Hacks #4: Hardware</title>
+   <link href="http://jsoxford.com/2016/Summer-of-Hacks-4-Hardware/"/>
+   <updated>2016-09-17T09:30:00+00:00</updated>
+   <id>http://jsoxford.com/2016/Summer-of-Hacks-4-Hardware</id>
+   <content type="html">&lt;p&gt;• &lt;/p&gt;
+&lt;p&gt;This is a day of hacking on hardware. We'll have some interesting kits to play with and you're welcome to bring any additional hardware or things you'd like to hack.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Who is this event for?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Anyone interested in learning a bit about hardware. There are no minimum entry requirements, other than an inquisitive mind. If you've never touched a breadboard before, that's fine – we have some starter kits and plenty of helpful people to guide you. If you're a bit more experienced that's great too, as you'll get to play with some new kit or hack on a project with like-minded people.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What does the day look like?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;• 09:30 Arrive, drink coffee and eat pastries&lt;/p&gt;
+&lt;p&gt;• 10:00 We'll get started&lt;/p&gt;
+&lt;p&gt;• 13:00 Lunch!&lt;/p&gt;
+&lt;p&gt;• 16:30 Retro. We'll have a show and tell for those that want to, and reflect on the day&lt;/p&gt;
+&lt;p&gt;• 17:00 Finish up and head to bar/cafe for post-event celebrations&lt;/p&gt;
+&lt;p&gt;The day is free-form, and you'll be hardware hacking in pairs or small groups.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Food&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We'll be providing pastries from a local patisserie, and a burrito lunch. You'll get to build your own burrito/box. We'll also have a selection of fruits and snacks, teas and coffees.&lt;/p&gt;
+&lt;p&gt;If you have any concerns about dietary requirements (or any questions whatsoever) get in touch.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What isn't this event?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This isn't a competition, race or hackathon. There will be no prizes, other than basking in your own glory as you learn new things, meet new people, and have a good time.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;I have a question&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Great! You can reach out to any of the JSOxford organisers:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:ryan@slatehorse.com&quot;&gt;• Ryan Brooks&lt;/a&gt;, 07841757984&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/benjaminbenben&quot;&gt;• Ben Foxall&lt;/a&gt;, 07540838982&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/peterjwest&quot;&gt;• Pete West&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What will I need?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;You'll probably want a laptop and charger. If you don't have access to a laptop (or a friend you can drag along with one), let us know and we'll do our best to sort you out.&lt;/p&gt;
+&lt;p&gt;If you have any tools or components and would like to bring them along, please do. We'd recommend marking them up somehow so it's easy to check you're taking the right things home.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Summer of Hacks #3: Code Retreat</title>
+   <link href="http://jsoxford.com/2016/Summer-of-Hacks-3-Code-Retreat/"/>
+   <updated>2016-08-27T09:30:00+00:00</updated>
+   <id>http://jsoxford.com/2016/Summer-of-Hacks-3-Code-Retreat</id>
+   <content type="html">&lt;p&gt;A CodeRetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. Developers can disconnect from constraints like time and feature pressure, and just focus on the craft of programming. You don't have to ship anything. Just practice.&lt;/p&gt;
+&lt;p&gt;You will be guided through the day by a facilitator. At the beginning of the day we'll explain all the details!&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Who is this event for?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This event is for anyone who wants to improve their code. An understanding of JavaScript will help you make the most of the day, but you'll be pairing up with different partners during the day, so don't worry about pressure to perform. Whatever your experience, you'll have the opportunity to think about things in new ways and work with new people.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What does the day look like?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;• 09:30 Arrive, drink coffee and eat pastries&lt;/p&gt;
+&lt;p&gt;• 10:00 Introduction, welcome, explaining the Code Retreat and pairing off&lt;/p&gt;
+&lt;p&gt;• 10:20 Session #1&lt;/p&gt;
+&lt;p&gt;• 11:05 Session #1 retro&lt;/p&gt;
+&lt;p&gt;• 11:15 Session #2&lt;/p&gt;
+&lt;p&gt;• 12:00 Session #2 retro&lt;/p&gt;
+&lt;p&gt;• 12:15 Session #3&lt;/p&gt;
+&lt;p&gt;• 13:00 Session #3 retro&lt;/p&gt;
+&lt;p&gt;• 13:15 Lunch!&lt;/p&gt;
+&lt;p&gt;• 14:30 Session #4&lt;/p&gt;
+&lt;p&gt;• 15:15 Session #4 retro&lt;/p&gt;
+&lt;p&gt;• 15:30 Session #5&lt;/p&gt;
+&lt;p&gt;• 16:15 Session #5 retro&lt;/p&gt;
+&lt;p&gt;• 16:30 Day retro and wrap up&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;• 17:00 Finish up and head to bar/cafe for post-event celebrations&lt;/p&gt;
+&lt;p&gt;This is a very rough schedule, and we'll adjust the timings and number of sessions to match everyone's energy.&lt;/p&gt;
+&lt;p&gt;For a bit of background about CodeRetreat, check out &lt;a href=&quot;https://vimeo.com/18955165&quot;&gt;this video&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Food&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We'll be providing pastries from a local patisserie, and a burrito lunch. You'll get to build your own burrito/box. We'll also have a selection of fruits and snacks, teas and coffees.&lt;/p&gt;
+&lt;p&gt;If you have any concerns about dietary requirements (or any questions whatsoever) get in touch.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What isn't this event?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This isn't a competition, race or hackathon. There will be no prizes, and no-one will be judged on the code they write.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;I have a question&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Great! You can reach out to any of the JSOxford organisers:&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&quot;mailto:ryan@slatehorse.com&quot;&gt;Ryan Brooks&lt;/a&gt;, 07841757984&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&quot;https://twitter.com/benjaminbenben&quot;&gt;Ben Foxall&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&quot;https://twitter.com/peterjwest&quot;&gt;Pete West&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What will I need?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;You'll need a laptop and charger (or a swanky laptop that'll last the day). If you don't have access to a laptop (or a friend you can drag along with one), let us know and we'll do our best to sort you out.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Code of Conduct&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We're committed to making JSOxford events fun, interesting and accessible. As part of that and to ensure that everyone feels welcome, all attendees, sponsors, and volunteers at our events are required to agree to our Code of Conduct.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Summer of Hacks #2: Game Dev Day</title>
+   <link href="http://jsoxford.com/2016/Summer-of-Hacks-2-Game-Dev-Day/"/>
+   <updated>2016-07-23T09:30:00+00:00</updated>
+   <id>http://jsoxford.com/2016/Summer-of-Hacks-2-Game-Dev-Day</id>
+   <content type="html">&lt;p&gt;&lt;b&gt;What is Game Dev Day?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Game Dev Day is a hack day for people to have fun making games and virtual reality experiences in web technologies.&lt;/p&gt;
+&lt;p&gt;Get the full experience at &lt;a href=&quot;http://gamedevday.club/&quot;&gt;the official Game Dev Day site&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;What is a hack day?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A hack day is an event where people come together to collaborate on interesting ideas and learn new technologies. People usually organise themselves into teams, work on a project and then demo it at the end of the day. Hack days work best when there's a relaxed, open and friendly atmosphere.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;Who is this event for?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Anyone who is interested in games or VR is welcome.If you can write code or draw pictures, that's a bonus!&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt;What will I need?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;• You'll need a laptop and charger. If you don't have access to a laptop let us know and we'll do our best to sort you out.&lt;/p&gt;
+&lt;p&gt;• Bring your smartphone for VR or to use as a controller. &lt;/p&gt;
+&lt;p&gt;• Also, bring a VR headset if you have one!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;What technologies are we using?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We will be focussing on web technologies: HTML and Javascript.&lt;/p&gt;
+&lt;p&gt;We'll have mentors who can help with libraries such as:&lt;/p&gt;
+&lt;p&gt;• ThreeJS (3D scenes in javascript)&lt;/p&gt;
+&lt;p&gt;• AFrame (Simple VR experiences)&lt;/p&gt;
+&lt;p&gt;• Phaser (Game making framework)&lt;/p&gt;
+&lt;p&gt;We'll have beginner tutorials &amp;amp; example projects for these technologies, to get you started.&lt;/p&gt;
+&lt;p&gt;Feel free to try other tools and technologies, we will help wherever we can!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;What does the day look like?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;• 09:30 Arrive, drink coffee and eat pastries&lt;/p&gt;
+&lt;p&gt;• 10:00 Intro to the tech&lt;/p&gt;
+&lt;p&gt;• 10:15 Discuss ideas and form teams&lt;/p&gt;
+&lt;p&gt;• 10:45 Start hacking&lt;/p&gt;
+&lt;p&gt;• 13:00 Lunch break!&lt;/p&gt;
+&lt;p&gt;• 17:00 Demos&lt;/p&gt;
+&lt;p&gt;• 17:30 Finish up and head to bar/cafe for post-event celebrations&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;When we get set up you'll have the chance to pair up with another attendee or embark on a workshop on your own. We'll have mentors on-hand to help if you get stuck or give you suggestions on workshops you might like.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;Food&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We'll be providing pastries from a local patisserie, and a burrito lunch. You'll get to build your own burrito/box. We'll also have a selection of fruits and snacks, teas and coffees.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;If you have any concerns about dietary requirements (or any questions whatsoever) get in touch.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;I have a question&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Great! You can reach out to any of the event organisers:&lt;/p&gt;
+&lt;p&gt;• Pete West (&lt;a href=&quot;https://twitter.com/peterjwest/&quot;&gt;@peterjwest&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;• Max Glenister (&lt;a href=&quot;https://twitter.com/omgmog/&quot;&gt;@omgmog&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;• Ryan Brooks (&lt;a href=&quot;https://twitter.com/spikeheap/&quot;&gt;@spikeheap&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;• Ben Foxall (&lt;a href=&quot;https://twitter.com/benjaminbenben/&quot;&gt;@benjaminbenben&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt;Code of Conduct&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We're committed to making JSOxford events fun, interesting and accessible. As part of that and to ensure that everyone feels welcome, all attendees, sponsors, and volunteers at our events are required to agree to our &lt;a href=&quot;http://jsoxford.com/coc/&quot;&gt;Code of Conduct&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>MOAR JavaScript</title>
+   <link href="http://jsoxford.com/2016/MOAR-JavaScript/"/>
+   <updated>2016-06-15T19:00:00+00:00</updated>
+   <id>http://jsoxford.com/2016/MOAR-JavaScript</id>
+   <content type="html">&lt;p&gt;This month we'll be all about the JavaScript, with an introduction to service workers and another chance for you to show off something cool. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;There will be talks, drinks, people, and tonnes of fun.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;An Introduction to Service Workers – Phil Nash&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Service Workers are the biggest thing to hit the browser since XMLHttpRequest. We'll take a look at what the Service Worker can do for your app and more importantly, your users. We'll see the surprisingly small amount of code you need to get started with a Service Worker and finally we'll take a look at Progressive Web Apps and how the Service Worker will take part in a revolution for web applications.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Javascript from Scratch – Ashok Menon&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;WARNING: This talk features dangerous levels of impracticality.&lt;/p&gt;
+&lt;p&gt;Have you ever wondered how far you could get if all you had were functions? Probably not, you have better things to do with your time, but fear not, I don't. Join me on an adventure as we rebuild familiar concepts like booleans, if expressions, numbers, pairs, and lists, from functions alone.&lt;/p&gt;
+&lt;p&gt;Ashok is a computer scientist who sometimes pretends to be a software engineer. He likes functional programming, type theory and long walks on the beach, and dislikes the misappropriation of mathematical terms (I'm looking at you, &quot;isomorphic&quot; javascript). He also still believes people (deep, deep down) want to use mathematical proofs in industry, so nobody break his bubble.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;Show and Tell – Everyone!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;May's show and tell had an amazing collection of side-projects, and we want to hear about yours. It doesn't need to be pure-JS, we want to know about that thing you're hacking on or thinking about. &lt;a href=&quot;http://goo.gl/forms/U9bZztuB1W8WQ8or2&quot;&gt;Sign up here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Summer of Hacks #1: NodeSchool</title>
+   <link href="http://jsoxford.com/2016/Summer-of-Hacks-1-NodeSchool/"/>
+   <updated>2016-06-11T09:30:00+00:00</updated>
+   <id>http://jsoxford.com/2016/Summer-of-Hacks-1-NodeSchool</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://nodeschool.io/&quot;&gt;&amp;lt;/a&amp;gt; &lt;p&gt;&amp;lt;a href=&quot;http://nodeschool.io/&quot;&amp;gt;NodeSchool is a collection of workshops that help you learn and improve your JavaScript by writing code and solving challenges.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Who is this event for? &lt;i&gt;Everyone!&lt;/i&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;• &lt;i&gt;I've never programmed JavaScript&lt;/i&gt;. The workshops start from scratch, no programming experience required. We have some helpful volunteers to help you throughout the day.&lt;/p&gt; &lt;p&gt;• &lt;i&gt;I know some JavaScript&lt;/i&gt;. Excellent, you're in the right place too. There are some &lt;a href=&quot;http://nodeschool.io/#workshoppers&quot;&gt;more advanced themes&lt;/a&gt; to work through.&lt;/p&gt; &lt;p&gt;• &lt;i&gt;I know all of that!&lt;/i&gt;. Even better! NodeSchool is an open source project, so we can build up some new materials. We've got some ideas, or come along with your own.&lt;/p&gt; &lt;p&gt;&lt;b&gt;What does the day look like?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;• 09:30 Arrive, drink coffee and eat pastries&lt;/p&gt; &lt;p&gt;• 10:00 We'll get started&lt;/p&gt; &lt;p&gt;• 13:00 Lunch!&lt;/p&gt; &lt;p&gt;• 17:00 Finish up and head to bar/cafe for post-event celebrations&lt;/p&gt; &lt;p&gt;When we get set up you'll have the chance to pair up with another attendee or embark on a workshop on your own. We'll have mentors on-hand to help if you get stuck or give you suggestions on workshops you might like.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Food&lt;/b&gt;&lt;/p&gt; &lt;p&gt;We'll be providing pastries from a local patisserie, and a burrito lunch. You'll get to build your own burrito/box. We'll also have a selection of fruits and snacks, teas and coffees.&lt;/p&gt; &lt;p&gt;If you have any concerns, questions or special dietary requirements (or any questions whatsoever) please get in touch with us beforehand so we can cater appropriately.&lt;/p&gt; &lt;p&gt;&lt;b&gt;What isn't this event?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;This isn't a competition, race or hackathon. There will be no prizes, other than basking in your own glory as you learn new things, meet new people, and have a good time.&lt;/p&gt; &lt;p&gt;&lt;b&gt;I have a question&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Great! You can reach out to any of the JSOxford organisers:&lt;/p&gt; &lt;p&gt;• &lt;a href=&quot;mailto:ryan@slatehorse.com&quot;&gt;Ryan Brooks&lt;/a&gt;, 07841757984&lt;/p&gt; &lt;p&gt;• &lt;a href=&quot;https://twitter.com/benjaminbenben&quot;&gt;Ben Foxall&lt;/a&gt;, 07540838982&lt;/p&gt; &lt;p&gt;• &lt;a href=&quot;https://twitter.com/peterjwest&quot;&gt;Pete West&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;What will I need?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;You'll need a laptop and charger (or a swanky laptop that'll last the day). If you don't have access to a laptop (or a friend you can drag along with one), let us know and we'll do our best to sort you out.&lt;/p&gt; &lt;p&gt;You’ll need Node.js on your computer to get started, and if you have a chance to &lt;a href=&quot;https://nodejs.org/en/download/&quot;&gt;install it&lt;/a&gt; before the event you'll be able to get started straight away.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Code of Conduct&lt;/b&gt;&lt;/p&gt; &lt;p&gt;We're committed to making JSOxford events fun, interesting and accessible. As part of that and to ensure that everyone feels welcome, all attendees, sponsors, and volunteers at our events are required to agree to our &lt;a href=&quot;http://jsoxford.com/coc/&quot;&gt;Code of Conduct&lt;/a&gt;.&lt;/p&gt;
+&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Browser Ferraris, take 2</title>
@@ -119,7 +276,7 @@
 &lt;p&gt;Are you ready to level up with the Javascript Adventure Club? In this pulse-pounding demonstration of vi-rtuosity, a humble lumbercoder armed only with a copy of vim will test, develop, and publish a sweet module to npm in only 10 minutes. Your ticket to glory and riches is only an 'npm publish' away!&lt;/p&gt;
 &lt;p&gt;• #amazing 🐙  – Agnes from Hull&lt;/p&gt;
 &lt;p&gt;• I learned a lot! – Bill from Oxford&lt;/p&gt;
-&lt;p&gt;• ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ – Jambo79 from Stretford&lt;/p&gt;
+&lt;p&gt;• ⭐️ ⭐️ ⭐��� ⭐️ ⭐️ – Jambo79 from Stretford&lt;/p&gt;
 &lt;p&gt;Doors open 7:00pm, talks start at 7:30pm.&lt;/p&gt;
 </content>
  </entry>
