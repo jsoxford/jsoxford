@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2016-06-11T13:49:00+00:00</updated>
+ <updated>2016-07-12T09:43:48+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -137,6 +137,30 @@
 
 &lt;b&gt;Code of Conduct&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;We're committed to making JSOxford events fun, interesting and accessible. As part of that and to ensure that everyone feels welcome, all attendees, sponsors, and volunteers at our events are required to agree to our &lt;a href=&quot;http://jsoxford.com/coc/&quot;&gt;Code of Conduct&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Data, APIs, and Frontend Architecures</title>
+   <link href="http://jsoxford.com/2016/Data-APIs-and-Frontend-Architecures/"/>
+   <updated>2016-07-20T19:00:00+00:00</updated>
+   <id>http://jsoxford.com/2016/Data-APIs-and-Frontend-Architecures</id>
+   <content type="html">&lt;p&gt;We've got a great couple of talks this month; &lt;a href=&quot;https://twitter.com/miss_jwo&quot;&gt;Jenny&lt;/a&gt; is coming along to tell us about an awesome tool for exposing data on the web (more details to come).  And we've got &lt;a href=&quot;https://twitter.com/Roger_Noble&quot;&gt;Roger&lt;/a&gt; who is going tell us about his react-based pluggable architecture behind &lt;a href=&quot;http://zegami.com/&quot;&gt;Zegami&lt;/a&gt; (you might remember him showing it at our show and tell a couple of months ago).&lt;/p&gt;
+&lt;p&gt;There'll be interesting people, a friendly atmosphere and refreshments. Big props to &lt;a href=&quot;https://haybrook.co.uk/&quot;&gt;HaybrookIT&lt;/a&gt; for making this possible ❤️.&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt;Make your UI flexible with a plugin architecture, featuring React – &lt;a href=&quot;https://twitter.com/Roger_Noble&quot;&gt;Roger Noble&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;When building &lt;a href=&quot;http://www.zegami.com&quot;&gt;Zegami&lt;/a&gt; (a data visualisation tool) we wanted to allow anyone to be able to add their own custom functionality and enhancements. This presented a challenge for us to construct an interface - both visually and in code, that developers could approach with a minimal learning curve.&lt;/p&gt;
+&lt;p&gt;This talk will discuss some of the decisions we made as well as a practical demonstration of how this same approach could be used in any application.&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt;TBA – &lt;a href=&quot;https://twitter.com/miss_jwo&quot;&gt;Jenny Wong&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;TBA (spoiler: something really great)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TBD – Everyone&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This might be show &amp;amp; tell, show &amp;amp; ask, or something &lt;i&gt;entirely different.&lt;/i&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -276,7 +300,7 @@
 &lt;p&gt;Are you ready to level up with the Javascript Adventure Club? In this pulse-pounding demonstration of vi-rtuosity, a humble lumbercoder armed only with a copy of vim will test, develop, and publish a sweet module to npm in only 10 minutes. Your ticket to glory and riches is only an 'npm publish' away!&lt;/p&gt;
 &lt;p&gt;• #amazing 🐙  – Agnes from Hull&lt;/p&gt;
 &lt;p&gt;• I learned a lot! – Bill from Oxford&lt;/p&gt;
-&lt;p&gt;• ⭐️ ⭐️ ⭐��� ⭐️ ⭐️ – Jambo79 from Stretford&lt;/p&gt;
+&lt;p&gt;• ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ – Jambo79 from Stretford&lt;/p&gt;
 &lt;p&gt;Doors open 7:00pm, talks start at 7:30pm.&lt;/p&gt;
 </content>
  </entry>
