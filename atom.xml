@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2016-07-12T09:43:48+00:00</updated>
+ <updated>2016-08-26T14:05:05+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -17,29 +17,29 @@
    <updated>2016-09-17T09:30:00+00:00</updated>
    <id>http://jsoxford.com/2016/Summer-of-Hacks-4-Hardware</id>
    <content type="html">&lt;p&gt;• &lt;/p&gt;
-&lt;p&gt;This is a day of hacking on hardware. We'll have some interesting kits to play with and you're welcome to bring any additional hardware or things you'd like to hack.&lt;/p&gt;
+&lt;p&gt;This is a day of hacking on hardware. We&#39;ll have some interesting kits to play with and you&#39;re welcome to bring any additional hardware or things you&#39;d like to hack.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Who is this event for?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Anyone interested in learning a bit about hardware. There are no minimum entry requirements, other than an inquisitive mind. If you've never touched a breadboard before, that's fine – we have some starter kits and plenty of helpful people to guide you. If you're a bit more experienced that's great too, as you'll get to play with some new kit or hack on a project with like-minded people.&lt;/p&gt;
+&lt;p&gt;Anyone interested in learning a bit about hardware. There are no minimum entry requirements, other than an inquisitive mind. If you&#39;ve never touched a breadboard before, that&#39;s fine – we have some starter kits and plenty of helpful people to guide you. If you&#39;re a bit more experienced that&#39;s great too, as you&#39;ll get to play with some new kit or hack on a project with like-minded people.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;What does the day look like?&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;• 09:30 Arrive, drink coffee and eat pastries&lt;/p&gt;
-&lt;p&gt;• 10:00 We'll get started&lt;/p&gt;
+&lt;p&gt;• 10:00 We&#39;ll get started&lt;/p&gt;
 &lt;p&gt;• 13:00 Lunch!&lt;/p&gt;
-&lt;p&gt;• 16:30 Retro. We'll have a show and tell for those that want to, and reflect on the day&lt;/p&gt;
+&lt;p&gt;• 16:30 Retro. We&#39;ll have a show and tell for those that want to, and reflect on the day&lt;/p&gt;
 &lt;p&gt;• 17:00 Finish up and head to bar/cafe for post-event celebrations&lt;/p&gt;
-&lt;p&gt;The day is free-form, and you'll be hardware hacking in pairs or small groups.&lt;/p&gt;
+&lt;p&gt;The day is free-form, and you&#39;ll be hardware hacking in pairs or small groups.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Food&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;We'll be providing pastries from a local patisserie, and a burrito lunch. You'll get to build your own burrito/box. We'll also have a selection of fruits and snacks, teas and coffees.&lt;/p&gt;
+&lt;p&gt;We&#39;ll be providing pastries from a local patisserie, and a burrito lunch. You&#39;ll get to build your own burrito/box. We&#39;ll also have a selection of fruits and snacks, teas and coffees.&lt;/p&gt;
 &lt;p&gt;If you have any concerns about dietary requirements (or any questions whatsoever) get in touch.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;What isn't this event?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;This isn't a competition, race or hackathon. There will be no prizes, other than basking in your own glory as you learn new things, meet new people, and have a good time.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What isn&#39;t this event?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This isn&#39;t a competition, race or hackathon. There will be no prizes, other than basking in your own glory as you learn new things, meet new people, and have a good time.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;I have a question&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Great! You can reach out to any of the JSOxford organisers:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;mailto:ryan@slatehorse.com&quot;&gt;• Ryan Brooks&lt;/a&gt;, 07841757984&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/benjaminbenben&quot;&gt;• Ben Foxall&lt;/a&gt;, 07540838982&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/peterjwest&quot;&gt;• Pete West&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;What will I need?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;You'll probably want a laptop and charger. If you don't have access to a laptop (or a friend you can drag along with one), let us know and we'll do our best to sort you out.&lt;/p&gt;
-&lt;p&gt;If you have any tools or components and would like to bring them along, please do. We'd recommend marking them up somehow so it's easy to check you're taking the right things home.&lt;/p&gt;
+&lt;p&gt;You&#39;ll probably want a laptop and charger. If you don&#39;t have access to a laptop (or a friend you can drag along with one), let us know and we&#39;ll do our best to sort you out.&lt;/p&gt;
+&lt;p&gt;If you have any tools or components and would like to bring them along, please do. We&#39;d recommend marking them up somehow so it&#39;s easy to check you&#39;re taking the right things home.&lt;/p&gt;
 </content>
  </entry>
  
@@ -48,10 +48,10 @@
    <link href="http://jsoxford.com/2016/Summer-of-Hacks-3-Code-Retreat/"/>
    <updated>2016-08-27T09:30:00+00:00</updated>
    <id>http://jsoxford.com/2016/Summer-of-Hacks-3-Code-Retreat</id>
-   <content type="html">&lt;p&gt;A CodeRetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. Developers can disconnect from constraints like time and feature pressure, and just focus on the craft of programming. You don't have to ship anything. Just practice.&lt;/p&gt;
-&lt;p&gt;You will be guided through the day by a facilitator. At the beginning of the day we'll explain all the details!&lt;/p&gt;
+   <content type="html">&lt;p&gt;A CodeRetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. Developers can disconnect from constraints like time and feature pressure, and just focus on the craft of programming. You don&#39;t have to ship anything. Just practice.&lt;/p&gt;
+&lt;p&gt;You will be guided through the day by a facilitator. At the beginning of the day we&#39;ll explain all the details!&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Who is this event for?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;This event is for anyone who wants to improve their code. An understanding of JavaScript will help you make the most of the day, but you'll be pairing up with different partners during the day, so don't worry about pressure to perform. Whatever your experience, you'll have the opportunity to think about things in new ways and work with new people.&lt;/p&gt;
+&lt;p&gt;This event is for anyone who wants to improve their code. An understanding of JavaScript will help you make the most of the day, but you&#39;ll be pairing up with different partners during the day, so don&#39;t worry about pressure to perform. Whatever your experience, you&#39;ll have the opportunity to think about things in new ways and work with new people.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;What does the day look like?&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;• 09:30 Arrive, drink coffee and eat pastries&lt;/p&gt;
 &lt;p&gt;• 10:00 Introduction, welcome, explaining the Code Retreat and pairing off&lt;/p&gt;
@@ -68,22 +68,22 @@
 &lt;p&gt;• 16:15 Session #5 retro&lt;/p&gt;
 &lt;p&gt;• 16:30 Day retro and wrap up&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;• 17:00 Finish up and head to bar/cafe for post-event celebrations&lt;/p&gt;
-&lt;p&gt;This is a very rough schedule, and we'll adjust the timings and number of sessions to match everyone's energy.&lt;/p&gt;
+&lt;p&gt;This is a very rough schedule, and we&#39;ll adjust the timings and number of sessions to match everyone&#39;s energy.&lt;/p&gt;
 &lt;p&gt;For a bit of background about CodeRetreat, check out &lt;a href=&quot;https://vimeo.com/18955165&quot;&gt;this video&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Food&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;We'll be providing pastries from a local patisserie, and a burrito lunch. You'll get to build your own burrito/box. We'll also have a selection of fruits and snacks, teas and coffees.&lt;/p&gt;
+&lt;p&gt;We&#39;ll be providing pastries from a local patisserie, and a burrito lunch. You&#39;ll get to build your own burrito/box. We&#39;ll also have a selection of fruits and snacks, teas and coffees.&lt;/p&gt;
 &lt;p&gt;If you have any concerns about dietary requirements (or any questions whatsoever) get in touch.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;What isn't this event?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;This isn't a competition, race or hackathon. There will be no prizes, and no-one will be judged on the code they write.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What isn&#39;t this event?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This isn&#39;t a competition, race or hackathon. There will be no prizes, and no-one will be judged on the code they write.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;I have a question&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Great! You can reach out to any of the JSOxford organisers:&lt;/p&gt;
 &lt;p&gt;• &lt;a href=&quot;mailto:ryan@slatehorse.com&quot;&gt;Ryan Brooks&lt;/a&gt;, 07841757984&lt;/p&gt;
 &lt;p&gt;• &lt;a href=&quot;https://twitter.com/benjaminbenben&quot;&gt;Ben Foxall&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;• &lt;a href=&quot;https://twitter.com/peterjwest&quot;&gt;Pete West&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;What will I need?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;You'll need a laptop and charger (or a swanky laptop that'll last the day). If you don't have access to a laptop (or a friend you can drag along with one), let us know and we'll do our best to sort you out.&lt;/p&gt;
+&lt;p&gt;You&#39;ll need a laptop and charger (or a swanky laptop that&#39;ll last the day). If you don&#39;t have access to a laptop (or a friend you can drag along with one), let us know and we&#39;ll do our best to sort you out.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Code of Conduct&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;We're committed to making JSOxford events fun, interesting and accessible. As part of that and to ensure that everyone feels welcome, all attendees, sponsors, and volunteers at our events are required to agree to our Code of Conduct.&lt;/p&gt;
+&lt;p&gt;We&#39;re committed to making JSOxford events fun, interesting and accessible. As part of that and to ensure that everyone feels welcome, all attendees, sponsors, and volunteers at our events are required to agree to our &lt;a href=&quot;https://github.com/jsoxford/summerofhacks.github.io/blob/master/CODEOFCONDUCT.md&quot;&gt;Code of Conduct&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -96,23 +96,23 @@
 &lt;p&gt;Game Dev Day is a hack day for people to have fun making games and virtual reality experiences in web technologies.&lt;/p&gt;
 &lt;p&gt;Get the full experience at &lt;a href=&quot;http://gamedevday.club/&quot;&gt;the official Game Dev Day site&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;What is a hack day?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;A hack day is an event where people come together to collaborate on interesting ideas and learn new technologies. People usually organise themselves into teams, work on a project and then demo it at the end of the day. Hack days work best when there's a relaxed, open and friendly atmosphere.&lt;/p&gt;
+&lt;p&gt;A hack day is an event where people come together to collaborate on interesting ideas and learn new technologies. People usually organise themselves into teams, work on a project and then demo it at the end of the day. Hack days work best when there&#39;s a relaxed, open and friendly atmosphere.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;Who is this event for?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Anyone who is interested in games or VR is welcome.If you can write code or draw pictures, that's a bonus!&lt;/p&gt;
+&lt;p&gt;Anyone who is interested in games or VR is welcome.If you can write code or draw pictures, that&#39;s a bonus!&lt;/p&gt;
 &lt;p&gt;
 
 
 &lt;b&gt;What will I need?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;• You'll need a laptop and charger. If you don't have access to a laptop let us know and we'll do our best to sort you out.&lt;/p&gt;
+&lt;p&gt;• You&#39;ll need a laptop and charger. If you don&#39;t have access to a laptop let us know and we&#39;ll do our best to sort you out.&lt;/p&gt;
 &lt;p&gt;• Bring your smartphone for VR or to use as a controller. &lt;/p&gt;
 &lt;p&gt;• Also, bring a VR headset if you have one!&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;What technologies are we using?&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;We will be focussing on web technologies: HTML and Javascript.&lt;/p&gt;
-&lt;p&gt;We'll have mentors who can help with libraries such as:&lt;/p&gt;
+&lt;p&gt;We&#39;ll have mentors who can help with libraries such as:&lt;/p&gt;
 &lt;p&gt;• ThreeJS (3D scenes in javascript)&lt;/p&gt;
 &lt;p&gt;• AFrame (Simple VR experiences)&lt;/p&gt;
 &lt;p&gt;• Phaser (Game making framework)&lt;/p&gt;
-&lt;p&gt;We'll have beginner tutorials &amp;amp; example projects for these technologies, to get you started.&lt;/p&gt;
+&lt;p&gt;We&#39;ll have beginner tutorials &amp;amp; example projects for these technologies, to get you started.&lt;/p&gt;
 &lt;p&gt;Feel free to try other tools and technologies, we will help wherever we can!&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;What does the day look like?&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;• 09:30 Arrive, drink coffee and eat pastries&lt;/p&gt;
@@ -120,11 +120,11 @@
 &lt;p&gt;• 10:15 Discuss ideas and form teams&lt;/p&gt;
 &lt;p&gt;• 10:45 Start hacking&lt;/p&gt;
 &lt;p&gt;• 13:00 Lunch break!&lt;/p&gt;
-&lt;p&gt;• 17:00 Demos&lt;/p&gt;
-&lt;p&gt;• 17:30 Finish up and head to bar/cafe for post-event celebrations&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;When we get set up you'll have the chance to pair up with another attendee or embark on a workshop on your own. We'll have mentors on-hand to help if you get stuck or give you suggestions on workshops you might like.&lt;/p&gt;
+&lt;p&gt;• 16:30 Demos&lt;/p&gt;
+&lt;p&gt;• 17:00 Finish up and head to bar/cafe for post-event celebrations&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;When we get set up you&#39;ll have the chance to pair up with another attendee or embark on a workshop on your own. We&#39;ll have mentors on-hand to help if you get stuck or give you suggestions on workshops you might like.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;Food&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;We'll be providing pastries from a local patisserie, and a burrito lunch. You'll get to build your own burrito/box. We'll also have a selection of fruits and snacks, teas and coffees.&lt;/p&gt;
+&lt;p&gt;We&#39;ll be providing pastries from a local patisserie, and a burrito lunch. You&#39;ll get to build your own burrito/box. We&#39;ll also have a selection of fruits and snacks, teas and coffees.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;If you have any concerns about dietary requirements (or any questions whatsoever) get in touch.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;I have a question&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Great! You can reach out to any of the event organisers:&lt;/p&gt;
@@ -136,31 +136,41 @@
 
 
 &lt;b&gt;Code of Conduct&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;We're committed to making JSOxford events fun, interesting and accessible. As part of that and to ensure that everyone feels welcome, all attendees, sponsors, and volunteers at our events are required to agree to our &lt;a href=&quot;http://jsoxford.com/coc/&quot;&gt;Code of Conduct&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We&#39;re committed to making JSOxford events fun, interesting and accessible. As part of that and to ensure that everyone feels welcome, all attendees, sponsors, and volunteers at our events are required to agree to our &lt;a href=&quot;http://jsoxford.com/coc/&quot;&gt;Code of Conduct&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Data, APIs, and Frontend Architecures</title>
-   <link href="http://jsoxford.com/2016/Data-APIs-and-Frontend-Architecures/"/>
+   <title>Data, APIs, and Other Things</title>
+   <link href="http://jsoxford.com/2016/Data-APIs-and-Other-Things/"/>
    <updated>2016-07-20T19:00:00+00:00</updated>
-   <id>http://jsoxford.com/2016/Data-APIs-and-Frontend-Architecures</id>
-   <content type="html">&lt;p&gt;We've got a great couple of talks this month; &lt;a href=&quot;https://twitter.com/miss_jwo&quot;&gt;Jenny&lt;/a&gt; is coming along to tell us about an awesome tool for exposing data on the web (more details to come).  And we've got &lt;a href=&quot;https://twitter.com/Roger_Noble&quot;&gt;Roger&lt;/a&gt; who is going tell us about his react-based pluggable architecture behind &lt;a href=&quot;http://zegami.com/&quot;&gt;Zegami&lt;/a&gt; (you might remember him showing it at our show and tell a couple of months ago).&lt;/p&gt;
-&lt;p&gt;There'll be interesting people, a friendly atmosphere and refreshments. Big props to &lt;a href=&quot;https://haybrook.co.uk/&quot;&gt;HaybrookIT&lt;/a&gt; for making this possible ❤️.&lt;/p&gt;
+   <id>http://jsoxford.com/2016/Data-APIs-and-Other-Things</id>
+   <content type="html">&lt;p&gt;We&#39;ve got a great couple of talks this month; &lt;a href=&quot;https://twitter.com/miss_jwo&quot;&gt;Jenny&lt;/a&gt; is coming to tell us about the WordPress REST API,  and we&#39;ve got &lt;a href=&quot;https://twitter.com/Roger_Noble&quot;&gt;Roger&lt;/a&gt; who is going tell us about his react-based pluggable architecture behind &lt;a href=&quot;http://zegami.com/&quot;&gt;Zegami&lt;/a&gt; (you might remember him showing it at our show and tell a couple of months ago).&lt;/p&gt;
+&lt;p&gt;There&#39;ll be interesting people, a friendly atmosphere and refreshments. Big props to &lt;a href=&quot;https://haybrook.co.uk/&quot;&gt;HaybrookIT&lt;/a&gt; for making this possible .&lt;/p&gt;
 &lt;p&gt;
 
 
-&lt;b&gt;Make your UI flexible with a plugin architecture, featuring React – &lt;a href=&quot;https://twitter.com/Roger_Noble&quot;&gt;Roger Noble&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;When building &lt;a href=&quot;http://www.zegami.com&quot;&gt;Zegami&lt;/a&gt; (a data visualisation tool) we wanted to allow anyone to be able to add their own custom functionality and enhancements. This presented a challenge for us to construct an interface - both visually and in code, that developers could approach with a minimal learning curve.&lt;/p&gt;
-&lt;p&gt;This talk will discuss some of the decisions we made as well as a practical demonstration of how this same approach could be used in any application.&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;b&gt;TBA – &lt;a href=&quot;https://twitter.com/miss_jwo&quot;&gt;Jenny Wong&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;TBA (spoiler: something really great)&lt;/p&gt;
+&lt;i&gt;&lt;b&gt;[CANCELLED] Make your UI flexible with a plugin architecture, featuring React – &lt;a href=&quot;https://twitter.com/Roger_Noble&quot;&gt;Roger Noble&lt;/a&gt;&lt;/b&gt; &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Unfortunately Roger is unable to attend. We&#39;ll definitely have him back in the future. In his place, we have two talks (huge thanks to Marcus &amp;amp; Henry for stepping in)&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;TBD – Everyone&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;This might be show &amp;amp; tell, show &amp;amp; ask, or something &lt;i&gt;entirely different.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;🆕 Cool stuff you can do with TypeScript – &lt;a href=&quot;https://twitter.com/Marcus_Noble_&quot;&gt;Marcus Noble&lt;/a&gt;&lt;/b&gt; &lt;/p&gt;
+&lt;p&gt;A whirlwind tour of some of the cool new JavaScript and TypeScript features that you can use right now!&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt;🆕 Git – Why Does It Call Itself Stupid? – &lt;a href=&quot;https://twitter.com/henrahmagix&quot;&gt;Henry Blyth&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Why you should use Git, how to use it really quickly, and getting deep into some common commands.&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt;Beheading WordPress – &lt;a href=&quot;https://twitter.com/miss_jwo&quot;&gt;Jenny Wong&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The new WordPress REST API has been in the works for over two years. As it gets ready to become part of the WordPress core, we are already seeing new uses for WordPress. In this talk, Jenny will discuss how the WP-API works, how it is already being used in the wild, and what it means for the future of WordPress &lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt;BOOYA – Everyone&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This month we’ll be holding a BOOYA (Bring yOur Own hYperlink Along) - we gather a list of interesting links and discuss them as a group.&lt;/p&gt;
+&lt;p&gt;To submit a link, add a comment to &lt;a href=&quot;https://gist.github.com/benfoxall/dac20314e50300673b28f8c93948c385&quot;&gt;this gist&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -169,16 +179,16 @@
    <link href="http://jsoxford.com/2016/MOAR-JavaScript/"/>
    <updated>2016-06-15T19:00:00+00:00</updated>
    <id>http://jsoxford.com/2016/MOAR-JavaScript</id>
-   <content type="html">&lt;p&gt;This month we'll be all about the JavaScript, with an introduction to service workers and another chance for you to show off something cool. &lt;/p&gt;
+   <content type="html">&lt;p&gt;This month we&#39;ll be all about the JavaScript, with an introduction to service workers and another chance for you to show off something cool. &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;There will be talks, drinks, people, and tonnes of fun.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;An Introduction to Service Workers – Phil Nash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Service Workers are the biggest thing to hit the browser since XMLHttpRequest. We'll take a look at what the Service Worker can do for your app and more importantly, your users. We'll see the surprisingly small amount of code you need to get started with a Service Worker and finally we'll take a look at Progressive Web Apps and how the Service Worker will take part in a revolution for web applications.&lt;/p&gt;
+&lt;p&gt;Service Workers are the biggest thing to hit the browser since XMLHttpRequest. We&#39;ll take a look at what the Service Worker can do for your app and more importantly, your users. We&#39;ll see the surprisingly small amount of code you need to get started with a Service Worker and finally we&#39;ll take a look at Progressive Web Apps and how the Service Worker will take part in a revolution for web applications.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Javascript from Scratch – Ashok Menon&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;WARNING: This talk features dangerous levels of impracticality.&lt;/p&gt;
-&lt;p&gt;Have you ever wondered how far you could get if all you had were functions? Probably not, you have better things to do with your time, but fear not, I don't. Join me on an adventure as we rebuild familiar concepts like booleans, if expressions, numbers, pairs, and lists, from functions alone.&lt;/p&gt;
-&lt;p&gt;Ashok is a computer scientist who sometimes pretends to be a software engineer. He likes functional programming, type theory and long walks on the beach, and dislikes the misappropriation of mathematical terms (I'm looking at you, &quot;isomorphic&quot; javascript). He also still believes people (deep, deep down) want to use mathematical proofs in industry, so nobody break his bubble.&lt;/p&gt;
+&lt;p&gt;Have you ever wondered how far you could get if all you had were functions? Probably not, you have better things to do with your time, but fear not, I don&#39;t. Join me on an adventure as we rebuild familiar concepts like booleans, if expressions, numbers, pairs, and lists, from functions alone.&lt;/p&gt;
+&lt;p&gt;Ashok is a computer scientist who sometimes pretends to be a software engineer. He likes functional programming, type theory and long walks on the beach, and dislikes the misappropriation of mathematical terms (I&#39;m looking at you, &quot;isomorphic&quot; javascript). He also still believes people (deep, deep down) want to use mathematical proofs in industry, so nobody break his bubble.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;Show and Tell – Everyone!&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;May's show and tell had an amazing collection of side-projects, and we want to hear about yours. It doesn't need to be pure-JS, we want to know about that thing you're hacking on or thinking about. &lt;a href=&quot;http://goo.gl/forms/U9bZztuB1W8WQ8or2&quot;&gt;Sign up here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;May&#39;s show and tell had an amazing collection of side-projects, and we want to hear about yours. It doesn&#39;t need to be pure-JS, we want to know about that thing you&#39;re hacking on or thinking about. &lt;a href=&quot;http://goo.gl/forms/U9bZztuB1W8WQ8or2&quot;&gt;Sign up here&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -187,7 +197,7 @@
    <link href="http://jsoxford.com/2016/Summer-of-Hacks-1-NodeSchool/"/>
    <updated>2016-06-11T09:30:00+00:00</updated>
    <id>http://jsoxford.com/2016/Summer-of-Hacks-1-NodeSchool</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://nodeschool.io/&quot;&gt;&amp;lt;/a&amp;gt; &lt;p&gt;&amp;lt;a href=&quot;http://nodeschool.io/&quot;&amp;gt;NodeSchool is a collection of workshops that help you learn and improve your JavaScript by writing code and solving challenges.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Who is this event for? &lt;i&gt;Everyone!&lt;/i&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;• &lt;i&gt;I've never programmed JavaScript&lt;/i&gt;. The workshops start from scratch, no programming experience required. We have some helpful volunteers to help you throughout the day.&lt;/p&gt; &lt;p&gt;• &lt;i&gt;I know some JavaScript&lt;/i&gt;. Excellent, you're in the right place too. There are some &lt;a href=&quot;http://nodeschool.io/#workshoppers&quot;&gt;more advanced themes&lt;/a&gt; to work through.&lt;/p&gt; &lt;p&gt;• &lt;i&gt;I know all of that!&lt;/i&gt;. Even better! NodeSchool is an open source project, so we can build up some new materials. We've got some ideas, or come along with your own.&lt;/p&gt; &lt;p&gt;&lt;b&gt;What does the day look like?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;• 09:30 Arrive, drink coffee and eat pastries&lt;/p&gt; &lt;p&gt;• 10:00 We'll get started&lt;/p&gt; &lt;p&gt;• 13:00 Lunch!&lt;/p&gt; &lt;p&gt;• 17:00 Finish up and head to bar/cafe for post-event celebrations&lt;/p&gt; &lt;p&gt;When we get set up you'll have the chance to pair up with another attendee or embark on a workshop on your own. We'll have mentors on-hand to help if you get stuck or give you suggestions on workshops you might like.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Food&lt;/b&gt;&lt;/p&gt; &lt;p&gt;We'll be providing pastries from a local patisserie, and a burrito lunch. You'll get to build your own burrito/box. We'll also have a selection of fruits and snacks, teas and coffees.&lt;/p&gt; &lt;p&gt;If you have any concerns, questions or special dietary requirements (or any questions whatsoever) please get in touch with us beforehand so we can cater appropriately.&lt;/p&gt; &lt;p&gt;&lt;b&gt;What isn't this event?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;This isn't a competition, race or hackathon. There will be no prizes, other than basking in your own glory as you learn new things, meet new people, and have a good time.&lt;/p&gt; &lt;p&gt;&lt;b&gt;I have a question&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Great! You can reach out to any of the JSOxford organisers:&lt;/p&gt; &lt;p&gt;• &lt;a href=&quot;mailto:ryan@slatehorse.com&quot;&gt;Ryan Brooks&lt;/a&gt;, 07841757984&lt;/p&gt; &lt;p&gt;• &lt;a href=&quot;https://twitter.com/benjaminbenben&quot;&gt;Ben Foxall&lt;/a&gt;, 07540838982&lt;/p&gt; &lt;p&gt;• &lt;a href=&quot;https://twitter.com/peterjwest&quot;&gt;Pete West&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;What will I need?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;You'll need a laptop and charger (or a swanky laptop that'll last the day). If you don't have access to a laptop (or a friend you can drag along with one), let us know and we'll do our best to sort you out.&lt;/p&gt; &lt;p&gt;You’ll need Node.js on your computer to get started, and if you have a chance to &lt;a href=&quot;https://nodejs.org/en/download/&quot;&gt;install it&lt;/a&gt; before the event you'll be able to get started straight away.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Code of Conduct&lt;/b&gt;&lt;/p&gt; &lt;p&gt;We're committed to making JSOxford events fun, interesting and accessible. As part of that and to ensure that everyone feels welcome, all attendees, sponsors, and volunteers at our events are required to agree to our &lt;a href=&quot;http://jsoxford.com/coc/&quot;&gt;Code of Conduct&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://nodeschool.io/&quot;&gt;&amp;lt;/a&amp;gt; &lt;p&gt;&amp;lt;a href=&quot;http://nodeschool.io/&quot;&amp;gt;NodeSchool is a collection of workshops that help you learn and improve your JavaScript by writing code and solving challenges.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Who is this event for? &lt;i&gt;Everyone!&lt;/i&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;• &lt;i&gt;I&#39;ve never programmed JavaScript&lt;/i&gt;. The workshops start from scratch, no programming experience required. We have some helpful volunteers to help you throughout the day.&lt;/p&gt; &lt;p&gt;• &lt;i&gt;I know some JavaScript&lt;/i&gt;. Excellent, you&#39;re in the right place too. There are some &lt;a href=&quot;http://nodeschool.io/#workshoppers&quot;&gt;more advanced themes&lt;/a&gt; to work through.&lt;/p&gt; &lt;p&gt;• &lt;i&gt;I know all of that!&lt;/i&gt;. Even better! NodeSchool is an open source project, so we can build up some new materials. We&#39;ve got some ideas, or come along with your own.&lt;/p&gt; &lt;p&gt;&lt;b&gt;What does the day look like?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;• 09:30 Arrive, drink coffee and eat pastries&lt;/p&gt; &lt;p&gt;• 10:00 We&#39;ll get started&lt;/p&gt; &lt;p&gt;• 13:00 Lunch!&lt;/p&gt; &lt;p&gt;• 17:00 Finish up and head to bar/cafe for post-event celebrations&lt;/p&gt; &lt;p&gt;When we get set up you&#39;ll have the chance to pair up with another attendee or embark on a workshop on your own. We&#39;ll have mentors on-hand to help if you get stuck or give you suggestions on workshops you might like.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Food&lt;/b&gt;&lt;/p&gt; &lt;p&gt;We&#39;ll be providing pastries from a local patisserie, and a burrito lunch. You&#39;ll get to build your own burrito/box. We&#39;ll also have a selection of fruits and snacks, teas and coffees.&lt;/p&gt; &lt;p&gt;If you have any concerns, questions or special dietary requirements (or any questions whatsoever) please get in touch with us beforehand so we can cater appropriately.&lt;/p&gt; &lt;p&gt;&lt;b&gt;What isn&#39;t this event?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;This isn&#39;t a competition, race or hackathon. There will be no prizes, other than basking in your own glory as you learn new things, meet new people, and have a good time.&lt;/p&gt; &lt;p&gt;&lt;b&gt;I have a question&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Great! You can reach out to any of the JSOxford organisers:&lt;/p&gt; &lt;p&gt;• &lt;a href=&quot;mailto:ryan@slatehorse.com&quot;&gt;Ryan Brooks&lt;/a&gt;, 07841757984&lt;/p&gt; &lt;p&gt;• &lt;a href=&quot;https://twitter.com/benjaminbenben&quot;&gt;Ben Foxall&lt;/a&gt;, 07540838982&lt;/p&gt; &lt;p&gt;• &lt;a href=&quot;https://twitter.com/peterjwest&quot;&gt;Pete West&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;What will I need?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;You&#39;ll need a laptop and charger (or a swanky laptop that&#39;ll last the day). If you don&#39;t have access to a laptop (or a friend you can drag along with one), let us know and we&#39;ll do our best to sort you out.&lt;/p&gt; &lt;p&gt;You’ll need Node.js on your computer to get started, and if you have a chance to &lt;a href=&quot;https://nodejs.org/en/download/&quot;&gt;install it&lt;/a&gt; before the event you&#39;ll be able to get started straight away.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Code of Conduct&lt;/b&gt;&lt;/p&gt; &lt;p&gt;We&#39;re committed to making JSOxford events fun, interesting and accessible. As part of that and to ensure that everyone feels welcome, all attendees, sponsors, and volunteers at our events are required to agree to our &lt;a href=&quot;http://jsoxford.com/coc/&quot;&gt;Code of Conduct&lt;/a&gt;.&lt;/p&gt;
 &lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -197,16 +207,16 @@
    <link href="http://jsoxford.com/2016/Browser-Ferraris-take-2/"/>
    <updated>2016-05-18T19:00:00+00:00</updated>
    <id>http://jsoxford.com/2016/Browser-Ferraris-take-2</id>
-   <content type="html">&lt;p&gt;This month we really will be covering the challenges facing language-learning apps and CSS performance. We'll have a show-and-tell session, drinks and a good time.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;We're back on track with the venue and everything's sorted for it to be a great evening.&lt;/p&gt;
+   <content type="html">&lt;p&gt;This month we really will be covering the challenges facing language-learning apps and CSS performance. We&#39;ll have a show-and-tell session, drinks and a good time.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;We&#39;re back on track with the venue and everything&#39;s sorted for it to be a great evening.&lt;/p&gt;
 &lt;p&gt;As always, Haybrook IT are our sponsors, so you have them to thank for the venue and any mild hangovers on Thursday morning. They also happen to be really nice people, so you should totally say hi!&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Plenty of Free Parking for Ladas at the Bazaar - Adam Leskis  &lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;Using the paradigm of Cathedrals vs Bazaars, this talk will focus on the current state of language learning applications and how they tackle the problem by creating a few complex things (Ferraris) when a focus on creating lots of simple combinable things (Ladas) might be better. &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;Full stack minus CSS - How CSS is slowly killing your users - Joe Reeve&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;We all have strong opinions on CSS, whether good or bad. CSS can be really helpful, but if you don't think about how it works before writing selectors, you can seriously harm the performance of your page.&lt;/p&gt;
+&lt;p&gt;We all have strong opinions on CSS, whether good or bad. CSS can be really helpful, but if you don&#39;t think about how it works before writing selectors, you can seriously harm the performance of your page.&lt;/p&gt;
 &lt;p&gt;We will take a look at browser implementations of CSS selectors and what that means for your CSS.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Show and Tell - Everyone&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;February's show and tell was awesome, so we're reprising it for May. It's a short session where you can stand up and talk about what you’ve been working on (or, something that someone else has been working on that you think is pretty cool.)&lt;/p&gt;
+&lt;p&gt;February&#39;s show and tell was awesome, so we&#39;re reprising it for May. It&#39;s a short session where you can stand up and talk about what you’ve been working on (or, something that someone else has been working on that you think is pretty cool.)&lt;/p&gt;
 &lt;p&gt;It’s a great opportunity to find people who might be able to help, or have suggestions.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Sign up here: &lt;a href=&quot;https://docs.google.com/forms/d/1_k80jZXDXLfC_SI9ru26r9X0nTQHgTwQbCuWpt1rApk/viewform?c=0&amp;amp;w=1&quot;&gt;Show and tell sign up&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
 </content>
@@ -217,15 +227,15 @@
    <link href="http://jsoxford.com/2016/Browser-Ferraris/"/>
    <updated>2016-03-16T19:00:00+00:00</updated>
    <id>http://jsoxford.com/2016/Browser-Ferraris</id>
-   <content type="html">&lt;p&gt;This month we'll be covering the challenges facing language-learning apps, trusty old CSS and its hidden dangers. We'll have a show-and-tell session, drinks and a good time.&lt;/p&gt;
+   <content type="html">&lt;p&gt;This month we&#39;ll be covering the challenges facing language-learning apps, trusty old CSS and its hidden dangers. We&#39;ll have a show-and-tell session, drinks and a good time.&lt;/p&gt;
 &lt;p&gt;As always, Haybrook IT are our sponsors, so you have them to thank for the amazing venue and any mild hangovers on Thursday morning. They also happen to be really nice people, so you should totally say hi!&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Plenty of Free Parking for Ladas at the Bazaar - Adam Leskis &lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;Using the paradigm of Cathedrals vs Bazaars, this talk will focus on the current state of language learning applications and how they tackle the problem by creating a few complex things (Ferraris) when a focus on creating lots of simple combinable things (Ladas) might be better.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;Full stack minus CSS - How CSS is slowly killing your users - Joe Reeve&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;We all have strong opinions on CSS, whether good or bad. CSS can be really helpful, but if you don't think about how it works before writing selectors, you can seriously harm the performance of your page.&lt;/p&gt;
+&lt;p&gt;We all have strong opinions on CSS, whether good or bad. CSS can be really helpful, but if you don&#39;t think about how it works before writing selectors, you can seriously harm the performance of your page.&lt;/p&gt;
 &lt;p&gt;We will take a look at browser implementations of CSS selectors and what that means for your CSS.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Show and Tell - Everyone&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;February's show and tell was awesome, so we're reprising it for March. It's a short session where you can stand up and talk about what you’ve been working on (or, something that someone else has been working on that you think is pretty cool.)&lt;/p&gt;
+&lt;p&gt;February&#39;s show and tell was awesome, so we&#39;re reprising it for March. It&#39;s a short session where you can stand up and talk about what you’ve been working on (or, something that someone else has been working on that you think is pretty cool.)&lt;/p&gt;
 &lt;p&gt;It’s a great opportunity to find people who might be able to help, or have suggestions.&lt;/p&gt;
 &lt;p&gt;Sign up here: &lt;a href=&quot;https://docs.google.com/forms/d/1_k80jZXDXLfC_SI9ru26r9X0nTQHgTwQbCuWpt1rApk/viewform?c=0&amp;amp;w=1&quot;&gt;Show and tell sign up&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -239,7 +249,7 @@
    <content type="html">&lt;p&gt;We’re going to &lt;i&gt;kick off&lt;/i&gt; 2016 big-style on &lt;b&gt;February 17th&lt;/b&gt; at the Story Museum. There will be talks, drinks, people, and tonnes of fun.&lt;/p&gt;
 &lt;p&gt;This month we’ve got Mike talking about offline web technologies, which is going to be pretty cool. And we’ve also got a community/collaborative/helpful/ supportive/lovely/nice/great show and tell session where we can share what we’ve been working on (or, what someone else has been working on, and you think is great).&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;No Service - &lt;a href=&quot;https://twitter.com/ukmadlz&quot;&gt;Mike Elsmore&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;No matter where you look in technology, everything has an online component. But with the advancement of web technologies and mobile apps, offline is becoming a key characteristic. This talk covers what's necessary to make a WebApp offline, and some nifty stuff to help along the way.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;No matter where you look in technology, everything has an online component. But with the advancement of web technologies and mobile apps, offline is becoming a key characteristic. This talk covers what&#39;s necessary to make a WebApp offline, and some nifty stuff to help along the way.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Data driven rendering - &lt;a href=&quot;https://twitter.com/mjtamlyn&quot;&gt;Marc Tamlyn&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;An introduction to ReactJS, looking at how it makes interactive data driven websites easy, without taking over.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Show and Tell - Everyone&lt;/b&gt;&lt;/p&gt;
@@ -255,7 +265,7 @@
    <updated>2015-12-08T19:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/snowman-christmas_tree-Winter-Drinkupchristmas_tree-snowman</id>
    <content type="html">&lt;p&gt;December is a busy month for everyone, so instead of talks, join us at St Aldates Tavern for drinking and/or festive, nerdy conversation.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;We've heard rumours of Espruino powered LED christmas jumpers, the 24 PRs of Christmas and an unhealthy amount of Emoji.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;We&#39;ve heard rumours of Espruino powered LED christmas jumpers, the 24 PRs of Christmas and an unhealthy amount of Emoji.&lt;/p&gt;
 &lt;p&gt;Find us in the main pub area, taking up as much space as possible!&lt;/p&gt;
 &lt;p&gt;🌲🌲🌲🌲🌲🌲🌲🌲💭💭💭🌟💭💭🌲🌲🌲🌲🌲🌲🌲🌲&lt;br /&gt;🌲🌲🌲🌲🌲💭🐻💭💭💭⭐💭💭💭😁🎉💭💭🌲🌲🌲🌲&lt;br /&gt;🌲🌲🌲🌲💭💭💭⛄💭💭💭💭⛄💭💭🍗😴🍺💭🌲🌲🌲&lt;br /&gt;🌲🌲💭💭💭💭💭💭💭💭🎶💭🎶💭💭💭💭💭💭💭🌲🌲&lt;br /&gt;🌲🌲💭⛄💭🍷👪🔥💭💭🔔🎅🎉💭💭🎄💭💭💭💭🌲🌲&lt;br /&gt;🌲🌲💭💭💭💭💭💭💭💭💭🎿💭💭🎁🎄🎁💭⭐💭🌲🌲&lt;br /&gt;🌲🌲🌲💭💭⛄💭🍗🍴😋💭💭💭⭐💭🎁💭💭💭🌲🌲🌲&lt;br /&gt;🌲🌲🌲🌲💭💭💭💭💭💭💭💭😙⛄💭💭💭🌲🌲🌲🌲🌲&lt;br /&gt;🌲🌲🌲🌲🌲🌲🌲🌲💭💭💭🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲&lt;/p&gt;
 </content>
@@ -266,16 +276,16 @@
    <link href="http://jsoxford.com/2015/Javascript-Story-Time/"/>
    <updated>2015-11-18T19:15:00+00:00</updated>
    <id>http://jsoxford.com/2015/Javascript-Story-Time</id>
-   <content type="html">&lt;p&gt;&lt;b&gt;SUPER IMPORTANT: WE'RE AT THE &lt;a href=&quot;http://www.storymuseum.org.uk&quot;&gt;STORY MUSEUM&lt;/a&gt; THIS MONTH&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;i&gt;Here's some reasons why November is totally brilliant:&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;1. &lt;/b&gt;We'll be moving to Story Museum; which is lovely, cosy, nice &amp;amp; awesome. We don't have parking anymore, though it's easy to get in from the Redbridge Park and Ride; and it's a lot closer to the train station.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;2. &lt;/b&gt;It's our 3rd birthday (that's 21 years old in javascript years).  We'll have a bit of time to talk about where we've been, and where we're going with JSOxford (hint: brilliant places)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3. &lt;/b&gt;We've got some great speakers (story-tellers) this month; Monica, Max and Peter.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;b&gt;SUPER IMPORTANT: WE&#39;RE AT THE &lt;a href=&quot;http://www.storymuseum.org.uk&quot;&gt;STORY MUSEUM&lt;/a&gt; THIS MONTH&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;i&gt;Here&#39;s some reasons why November is totally brilliant:&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1. &lt;/b&gt;We&#39;ll be moving to Story Museum; which is lovely, cosy, nice &amp;amp; awesome. We don&#39;t have parking anymore, though it&#39;s easy to get in from the Redbridge Park and Ride; and it&#39;s a lot closer to the train station.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. &lt;/b&gt;It&#39;s our 3rd birthday (that&#39;s 21 years old in javascript years).  We&#39;ll have a bit of time to talk about where we&#39;ve been, and where we&#39;re going with JSOxford (hint: brilliant places)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. &lt;/b&gt;We&#39;ve got some great speakers (story-tellers) this month; Monica, Max and Peter.&lt;/p&gt;
 &lt;p&gt;
 
 
 &lt;b&gt;20 Minutes into the Future with Google Cardboard and JavaScript –  &lt;a href=&quot;https://twitter.com/omgmog&quot;&gt;Max Glenister&lt;/a&gt;&lt;/b&gt; &lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;A look at the technology we've got available to create Google Cardboard experiences using JavaScript.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;A look at the technology we&#39;ve got available to create Google Cardboard experiences using JavaScript.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -292,15 +302,15 @@
    <link href="http://jsoxford.com/2015/JS-EVERYWHERE/"/>
    <updated>2015-10-14T19:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/JS-EVERYWHERE</id>
-   <content type="html">&lt;p&gt;For a long time Javascript didn't exist, then for a relatively short time it was only in browsers, but now it's, like, &lt;i&gt;everywhere&lt;/i&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;We're going to talk about some of the places that javascript is, that aren't a browser.&lt;/p&gt;
+   <content type="html">&lt;p&gt;For a long time Javascript didn&#39;t exist, then for a relatively short time it was only in browsers, but now it&#39;s, like, &lt;i&gt;everywhere&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;We&#39;re going to talk about some of the places that javascript is, that aren&#39;t a browser.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Zero to MVP in 5 days with Electron – &lt;a href=&quot;https://twitter.com/disciplex&quot;&gt;Richard Patching&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;Learn how I scratched my own itch and shipped an MVP cross platform desktop app in 5 days. I'll be sharing my battles with Windows and how I struggled to the last hour to get installers and auto-updating in (plus my solutions). This talk contains lots of code, coffee, javascript, angular all wrapped up in electron. Essentially every tool a pretentious hipster would use if they were shipping an app.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Learn how I scratched my own itch and shipped an MVP cross platform desktop app in 5 days. I&#39;ll be sharing my battles with Windows and how I struggled to the last hour to get installers and auto-updating in (plus my solutions). This talk contains lots of code, coffee, javascript, angular all wrapped up in electron. Essentially every tool a pretentious hipster would use if they were shipping an app.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;Creating &amp;amp; Publishing Your First Node Module (In 10 Minutes) – &lt;a href=&quot;https://twitter.com/richdevans&quot;&gt;Rich Evans&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Are you ready to level up with the Javascript Adventure Club? In this pulse-pounding demonstration of vi-rtuosity, a humble lumbercoder armed only with a copy of vim will test, develop, and publish a sweet module to npm in only 10 minutes. Your ticket to glory and riches is only an 'npm publish' away!&lt;/p&gt;
+&lt;p&gt;Are you ready to level up with the Javascript Adventure Club? In this pulse-pounding demonstration of vi-rtuosity, a humble lumbercoder armed only with a copy of vim will test, develop, and publish a sweet module to npm in only 10 minutes. Your ticket to glory and riches is only an &#39;npm publish&#39; away!&lt;/p&gt;
 &lt;p&gt;• #amazing 🐙  – Agnes from Hull&lt;/p&gt;
 &lt;p&gt;• I learned a lot! – Bill from Oxford&lt;/p&gt;
-&lt;p&gt;• ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ – Jambo79 from Stretford&lt;/p&gt;
+&lt;p&gt;• ⭐��� ⭐️ ⭐️ ⭐️ ⭐️ – Jambo79 from Stretford&lt;/p&gt;
 &lt;p&gt;Doors open 7:00pm, talks start at 7:30pm.&lt;/p&gt;
 </content>
  </entry>
@@ -314,7 +324,7 @@
 &lt;p&gt;Summer has been pretty great; not just (mostly) the weather, but our hack events, evening meetups and p.a.r.t.ies have been all been great.&lt;/p&gt;
 &lt;p&gt;This meetup is going to be great, and also things after that too.&lt;/p&gt;
 &lt;p&gt;Everything is great.&lt;/p&gt;
-&lt;p&gt;We've got three great talks lined up for September, come along to hear about…&lt;/p&gt;
+&lt;p&gt;We&#39;ve got three great talks lined up for September, come along to hear about…&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -322,18 +332,18 @@
 
 
 &lt;b&gt;📢  Digital Manuscript Toolkit – the journey so far – &lt;a href=&quot;https://twitter.com/monicams&quot;&gt;Monica Messaggi Kaya&lt;/a&gt;  &lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;[cancelled] Unfortunately Monica is unable to attend JSOxford tonight; she'll be giving this talk at a later date.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[cancelled] Unfortunately Monica is unable to attend JSOxford tonight; she&#39;ll be giving this talk at a later date.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;An introduction to International Image Interoperability Framework (IIIF) and its use on the Digital Manuscript Toolkit (DMT) - where Monica is working specifically on a JavaScript client to edit manuscripts online (via browser).&lt;/p&gt;
 &lt;p&gt;
 
 
 &lt;b&gt;📢  Visualising runkeeper data with html5 apis – &lt;a href=&quot;https://twitter.com/benjaminbenben&quot;&gt;Ben Foxall&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;Ben will take us through some features of the web platform that allow us to retreive, process, and visualise data he's collected runkeeper. We'll cover stuff like service workers, indexeddb, canvas, d3, webgl.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Ben will take us through some features of the web platform that allow us to retreive, process, and visualise data he&#39;s collected runkeeper. We&#39;ll cover stuff like service workers, indexeddb, canvas, d3, webgl.&lt;/p&gt;
 &lt;p&gt;
 
 
 &lt;b&gt;📢  Making the web more better – &lt;a href=&quot;https://twitter.com/jreeve0&quot;&gt;Joe Reeve&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Joe works at SquaredUp(.com) using Ractive to build dashboards and improve system administrator's workflows, and he's going to be showing us how we can use Ractive to fix the way we web.&lt;/p&gt;
+&lt;p&gt;Joe works at SquaredUp(.com) using Ractive to build dashboards and improve system administrator&#39;s workflows, and he&#39;s going to be showing us how we can use Ractive to fix the way we web.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -348,9 +358,9 @@
 
 
 
-We've got some time for micro-pitches after the talks, so if you've got a job, project or interesting thing to share with the group that's your chance.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;We'll have drinks and snacks (kindly provided by Haybrook) and plenty of people with interesting ideas, so come early and stay late! &lt;/p&gt;
-&lt;p&gt;If you can stick around later, you should.  We'll be heading to &lt;a href=&quot;https://twitter.com/starpuboxford&quot;&gt;the Star&lt;/a&gt; for some drinks and chat after the meetup.  We'll hopefully end up there by 9.30.&lt;/p&gt;
+We&#39;ve got some time for micro-pitches after the talks, so if you&#39;ve got a job, project or interesting thing to share with the group that&#39;s your chance.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;We&#39;ll have drinks and snacks (kindly provided by Haybrook) and plenty of people with interesting ideas, so come early and stay late! &lt;/p&gt;
+&lt;p&gt;If you can stick around later, you should.  We&#39;ll be heading to &lt;a href=&quot;https://twitter.com/starpuboxford&quot;&gt;the Star&lt;/a&gt; for some drinks and chat after the meetup.  We&#39;ll hopefully end up there by 9.30.&lt;/p&gt;
 &lt;p&gt;🍹🎉&lt;/p&gt;
 </content>
  </entry>
@@ -360,14 +370,14 @@ We've got some time for micro-pitches after the talks, so if you've got a job, p
    <link href="http://jsoxford.com/2015/JSOxHack/"/>
    <updated>2015-08-22T10:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/JSOxHack</id>
-   <content type="html">&lt;p&gt;The JSOxHack is a full-day hack event to play with the technologies we've learned over summer, or anything else that interests us. &lt;/p&gt;
-&lt;p&gt;This is not a hackathon or competition, and there are no prizes. Instead it's a chance to hack with great people on interesting things. We'll start the day with a round of pitches, so if you've got any ideas bring them along. If you're just keen to take part there will be plenty of groups, and we've got mentors around all day to guide and support you.&lt;/p&gt;
-&lt;p&gt;At the end of the day anyone who'd like to can show and tell before we wrap up and head to Jo Perks for an evening of conversation and drinks.&lt;/p&gt;
+   <content type="html">&lt;p&gt;The JSOxHack is a full-day hack event to play with the technologies we&#39;ve learned over summer, or anything else that interests us. &lt;/p&gt;
+&lt;p&gt;This is not a hackathon or competition, and there are no prizes. Instead it&#39;s a chance to hack with great people on interesting things. We&#39;ll start the day with a round of pitches, so if you&#39;ve got any ideas bring them along. If you&#39;re just keen to take part there will be plenty of groups, and we&#39;ve got mentors around all day to guide and support you.&lt;/p&gt;
+&lt;p&gt;At the end of the day anyone who&#39;d like to can show and tell before we wrap up and head to Jo Perks for an evening of conversation and drinks.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Who should come?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Everyone! If you can write a bit of JavaScript you'll fit right in. We'll have plenty of mentors to help and guide you throughout the day, and the aim of the event is to have a good time.&lt;/p&gt;
+&lt;p&gt;Everyone! If you can write a bit of JavaScript you&#39;ll fit right in. We&#39;ll have plenty of mentors to help and guide you throughout the day, and the aim of the event is to have a good time.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;What do I need to bring?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;All you'll need is your own laptop (if you don't have one, just get in touch with us in advance and we'll do our best to sort you out).&lt;/p&gt;
-&lt;p&gt;If you have any leftovers from a previous event, components, devices or things you'd like to hack on, bring them along!&lt;/p&gt;
+&lt;p&gt;All you&#39;ll need is your own laptop (if you don&#39;t have one, just get in touch with us in advance and we&#39;ll do our best to sort you out).&lt;/p&gt;
+&lt;p&gt;If you have any leftovers from a previous event, components, devices or things you&#39;d like to hack on, bring them along!&lt;/p&gt;
 </content>
  </entry>
  
@@ -376,8 +386,8 @@ We've got some time for micro-pitches after the talks, so if you've got a job, p
    <link href="http://jsoxford.com/2015/Summer-Social-PARTY/"/>
    <updated>2015-08-12T19:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/Summer-Social-PARTY</id>
-   <content type="html">&lt;p&gt;We're taking a bit of a break from our usual structure this month for something a bit less formal. &lt;/p&gt;
-&lt;p&gt;Join us at St. Aldates Tavern from 7pm for drinks and chat about life, love and JavaScript. If you're new to JavaScript (and JSOxford) or a regular, it's a great chance to meet and catch up.&lt;/p&gt;
+   <content type="html">&lt;p&gt;We&#39;re taking a bit of a break from our usual structure this month for something a bit less formal. &lt;/p&gt;
+&lt;p&gt;Join us at St. Aldates Tavern from 7pm for drinks and chat about life, love and JavaScript. If you&#39;re new to JavaScript (and JSOxford) or a regular, it&#39;s a great chance to meet and catch up.&lt;/p&gt;
 &lt;p&gt;See you there.&lt;/p&gt;
 </content>
  </entry>
@@ -389,20 +399,20 @@ We've got some time for micro-pitches after the talks, so if you've got a job, p
    <id>http://jsoxford.com/2015/RailsBridge</id>
    <content type="html">&lt;p&gt;RailsBridge workshops are a free and fun way to get started or level up with Rails, Ruby, and other web technologies. Our events focus on increasing diversity in tech, so that people of all backgrounds can feel welcome and comfortable in our industry.&lt;/p&gt;
 &lt;p&gt;This workshop is intended to reach out to women who are interested in learning how to build interactive websites. &lt;b&gt;Attendees should identify as a woman, and can bring a guest of any gender.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Interested in learning how to program? Never written a line of code before and are a little intimidated by nerds? There's no need to be! RailsBridge is a friendly place to get together and learn how to write some code.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;Maybe you've written a little HTML and CSS before, or touched on Ruby or programming. Maybe you're completely new to this and ready for a challenge. All you need to attend is a laptop* and enthusiasm (*get in touch if you can't get hold of a laptop and we'll see what we can do).&lt;/p&gt;
-&lt;p&gt;We'll have some of the amazing people from &lt;a href=&quot;https://www.new-bamboo.co.uk/&quot;&gt;New Bamboo&lt;/a&gt; on hand alongside the JSOxford and OxRUG volunteers, so there's plenty of help and mentorship available.&lt;/p&gt;
-&lt;p&gt;We'll have tea, coffee, snacks and drinks available throughout the day, as well as pastries in the morning and burritos for lunch. Please get in touch if you have any special dietary requirements and we'll sort you out.&lt;/p&gt;
+&lt;p&gt;Interested in learning how to program? Never written a line of code before and are a little intimidated by nerds? There&#39;s no need to be! RailsBridge is a friendly place to get together and learn how to write some code.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Maybe you&#39;ve written a little HTML and CSS before, or touched on Ruby or programming. Maybe you&#39;re completely new to this and ready for a challenge. All you need to attend is a laptop* and enthusiasm (*get in touch if you can&#39;t get hold of a laptop and we&#39;ll see what we can do).&lt;/p&gt;
+&lt;p&gt;We&#39;ll have some of the amazing people from &lt;a href=&quot;https://www.new-bamboo.co.uk/&quot;&gt;New Bamboo&lt;/a&gt; on hand alongside the JSOxford and OxRUG volunteers, so there&#39;s plenty of help and mentorship available.&lt;/p&gt;
+&lt;p&gt;We&#39;ll have tea, coffee, snacks and drinks available throughout the day, as well as pastries in the morning and burritos for lunch. Please get in touch if you have any special dietary requirements and we&#39;ll sort you out.&lt;/p&gt;
 &lt;p&gt;We have two tracks: &lt;b&gt;Frontend&lt;/b&gt; and &lt;b&gt;Ruby on Rails&lt;/b&gt;. Programmers of all skill levels are welcome.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Ruby on Rails track&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;In this track we'll take you through building a complete web application using Ruby on Rails. By the end of the day, you'll have an application that connects to a database and reads and writes information. Even better, it'll be on the internet! You can see the activities for this track &lt;a href=&quot;http://docs.railsbridge.org/docs/&quot;&gt;here&lt;/a&gt;. Don't forget to come to the Friday InstallFest (see below).&lt;/p&gt;
+&lt;p&gt;In this track we&#39;ll take you through building a complete web application using Ruby on Rails. By the end of the day, you&#39;ll have an application that connects to a database and reads and writes information. Even better, it&#39;ll be on the internet! You can see the activities for this track &lt;a href=&quot;http://docs.railsbridge.org/docs/&quot;&gt;here&lt;/a&gt;. Don&#39;t forget to come to the Friday InstallFest (see below).&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Frontend track&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;The Frontend track is all about HTML, CSS and JavaScript. We'll be building webpages, making them look *amazing*, and adding dynamic behaviour using JavaScript (click &lt;a href=&quot;http://docs.railsbridge.org/frontend/&quot;&gt;here&lt;/a&gt; to see the course syllabus) The only thing you need for this track is a text editor and the web browser you already use! Please download and install a programming text editor (&lt;a href=&quot;http://www.sublimetext.com/3&quot;&gt;Sublime Text&lt;/a&gt; or &lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; are a good choice). Don't forget to come to the Friday InstallFest (see below).&lt;/p&gt;
+&lt;p&gt;The Frontend track is all about HTML, CSS and JavaScript. We&#39;ll be building webpages, making them look *amazing*, and adding dynamic behaviour using JavaScript (click &lt;a href=&quot;http://docs.railsbridge.org/frontend/&quot;&gt;here&lt;/a&gt; to see the course syllabus) The only thing you need for this track is a text editor and the web browser you already use! Please download and install a programming text editor (&lt;a href=&quot;http://www.sublimetext.com/3&quot;&gt;Sublime Text&lt;/a&gt; or &lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; are a good choice). Don&#39;t forget to come to the Friday InstallFest (see below).&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;Friday evening InstallFest&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;There's a lot to learn on Saturday, so it would be really helpful if everyone is set-up and ready to go. We'll meet up on Friday evening to install all of the software you need (or work through any problems you've had installing), and then spend Saturday learning and writing code.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;If you can run through the &lt;a href=&quot;http://installfest.railsbridge.org/installfest/&quot;&gt;InstallFest&lt;/a&gt; steps prior to attending that's also great. Even if you get stuck, please go through the rest of the instructions and download all the things you'll need. Bandwidth will be at a premium during the day, so it will help immensely to have everything on your laptop already. &lt;/p&gt;
+&lt;p&gt;There&#39;s a lot to learn on Saturday, so it would be really helpful if everyone is set-up and ready to go. We&#39;ll meet up on Friday evening to install all of the software you need (or work through any problems you&#39;ve had installing), and then spend Saturday learning and writing code.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;If you can run through the &lt;a href=&quot;http://installfest.railsbridge.org/installfest/&quot;&gt;InstallFest&lt;/a&gt; steps prior to attending that&#39;s also great. Even if you get stuck, please go through the rest of the instructions and download all the things you&#39;ll need. Bandwidth will be at a premium during the day, so it will help immensely to have everything on your laptop already. &lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Sponsors&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt; We're very grateful to our sponsors for helping to make this event happen:&lt;/p&gt;
+&lt;p&gt; We&#39;re very grateful to our sponsors for helping to make this event happen:&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;• &lt;a href=&quot;http://www.haybrook.co.uk/&quot;&gt;Haybrook IT&lt;/a&gt;, for providing lunchtime burritos, snacks and refreshments.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://photos3.meetupstatic.com/photos/event/3/2/5/c/600_439032892.jpeg&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;• &lt;a href=&quot;https://www.new-bamboo.co.uk/&quot;&gt;New Bamboo&lt;/a&gt;, for making awesome swag for attendees and bringing a cohort of Bambinos to help out.&lt;/p&gt;
@@ -489,11 +499,11 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/espruino&quot;&gt;Gordon Williams&lt;/a&gt; will be joining us with a host of &lt;a href=&quot;http://www.espruino.com/&quot;&gt;Espruino&lt;/a&gt; boards, components and wizardry. We also have a couple of node-powered RC cars, some Arduino Uno boards and a collection of components, as well as a few boxes of Lego Technic to let your imagination run wild.&lt;/p&gt;
 &lt;p&gt;This event is part of the International NodeBots Day. &lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Who should come?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Everyone! If you can write a bit of JavaScript you'll fit right in. If you know a little about electronics or Arduino then all the better, but it's not required. We'll have plenty of mentors to help and guide you throughout the day, and you've got the opportunity to hack on your own projects, play with some of the kit, or even just join a group and see what the day brings. The focus of NodeBots day is sharing and enjoying each others company.&lt;/p&gt;
+&lt;p&gt;Everyone! If you can write a bit of JavaScript you&#39;ll fit right in. If you know a little about electronics or Arduino then all the better, but it&#39;s not required. We&#39;ll have plenty of mentors to help and guide you throughout the day, and you&#39;ve got the opportunity to hack on your own projects, play with some of the kit, or even just join a group and see what the day brings. The focus of NodeBots day is sharing and enjoying each others company.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;What do I need to bring?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;All you'll need is your own laptop (if you don't have one, just get in touch with us in advance and we'll do our best to sort you out), and it will help if nodejs is already installed.&lt;/p&gt;
-&lt;p&gt;If you have any components, devices or things you'd like to hack on &lt;b&gt;bring them along!&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;We'll have tea, coffee, snacks and drinks available throughout the day, as well as pastries in the morning and burritos for lunch. Please get in touch if you have any special dietary requirements and we'll sort you out. &lt;/p&gt;
+&lt;p&gt;All you&#39;ll need is your own laptop (if you don&#39;t have one, just get in touch with us in advance and we&#39;ll do our best to sort you out), and it will help if nodejs is already installed.&lt;/p&gt;
+&lt;p&gt;If you have any components, devices or things you&#39;d like to hack on &lt;b&gt;bring them along!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We&#39;ll have tea, coffee, snacks and drinks available throughout the day, as well as pastries in the morning and burritos for lunch. Please get in touch if you have any special dietary requirements and we&#39;ll sort you out. &lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Who do I thank?&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Mostly Ryan, totally Gordon and kind of Ben for organising the day, buying stuff, and being great.&lt;/p&gt;
 &lt;p&gt;Also,&lt;/p&gt;
@@ -529,7 +539,7 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
 &lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/omgmog&quot;&gt;Max Glenister&lt;/a&gt; - A running start at Google Cardboard with JavaScript&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;(This talk will not contain any actual running)&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/Espruino&quot;&gt;Gordon Williams&lt;/a&gt; - JavaScript for things&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Controlling the real world with JavaScript and Espruino Pico. Gordon will show you how - and why - it's more fun to develop embedded software with JavaScript than C.&lt;br /&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Controlling the real world with JavaScript and Espruino Pico. Gordon will show you how - and why - it&#39;s more fun to develop embedded software with JavaScript than C.&lt;br /&gt;&lt;/i&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -538,13 +548,13 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
    <link href="http://jsoxford.com/2015/Practical-Open-Linked-Data-Mega-Meetup/"/>
    <updated>2015-06-10T19:30:00+00:00</updated>
    <id>http://jsoxford.com/2015/Practical-Open-Linked-Data-Mega-Meetup</id>
-   <content type="html">&lt;p&gt;This month we're having a super-mega-meetup with &lt;a href=&quot;http://oxrug.org/&quot;&gt;OxRUG&lt;/a&gt; and the &lt;a href=&quot;http://www.meetup.com/oxfordpython/&quot;&gt;Oxford Python Meetup Group&lt;/a&gt; to look at open data and how we can leverage and contribute to global datasets. Open data is great in theory, but how can we go about &lt;i&gt;actually&lt;/i&gt; using it, and what are the practical implications? Hopefully we'll find out!&lt;/p&gt;
+   <content type="html">&lt;p&gt;This month we&#39;re having a super-mega-meetup with &lt;a href=&quot;http://oxrug.org/&quot;&gt;OxRUG&lt;/a&gt; and the &lt;a href=&quot;http://www.meetup.com/oxfordpython/&quot;&gt;Oxford Python Meetup Group&lt;/a&gt; to look at open data and how we can leverage and contribute to global datasets. Open data is great in theory, but how can we go about &lt;i&gt;actually&lt;/i&gt; using it, and what are the practical implications? Hopefully we&#39;ll find out!&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Practical Open and Linked Data - &lt;a href=&quot;https://twitter.com/ldodds&quot;&gt;Leigh Dodds&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Leigh Dodds from the Open Data Institute will talk us through real-world open and linked data.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;TBA&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;TBA&lt;/p&gt;
-&lt;p&gt;After the talks we'll host a discussion on the practicalities of open data, so bring along stories of success, failure, glory and pain!&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;As always, we've got some time for micro-pitches before we break out for drinks and discussion, so if you've got a job, project or interesting thing to share with the group that's your chance.&lt;/p&gt;
+&lt;p&gt;After the talks we&#39;ll host a discussion on the practicalities of open data, so bring along stories of success, failure, glory and pain!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;As always, we&#39;ve got some time for micro-pitches before we break out for drinks and discussion, so if you&#39;ve got a job, project or interesting thing to share with the group that&#39;s your chance.&lt;/p&gt;
 </content>
  </entry>
  
@@ -621,12 +631,12 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
    <updated>2015-05-23T10:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/International-NodeSchool-Day</id>
    <content type="html">&lt;p&gt;NodeSchool is a community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way. There are workshops available for every skill level from JS beginners all the way to experienced node programmers.&lt;/p&gt;
-&lt;p&gt;This event is part of International NodeSchool Day, so we'll be getting in touch with other NodeSchoolers around the world during the day.&lt;/p&gt;
+&lt;p&gt;This event is part of International NodeSchool Day, so we&#39;ll be getting in touch with other NodeSchoolers around the world during the day.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Who should come?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Everyone! There are &lt;a href=&quot;http://nodeschool.io/#workshopper-list&quot;&gt;workshops&lt;/a&gt; for different abilities, and we'll have plenty of mentors to help and guide you throughout the day. &lt;/p&gt;
+&lt;p&gt;Everyone! There are &lt;a href=&quot;http://nodeschool.io/#workshopper-list&quot;&gt;workshops&lt;/a&gt; for different abilities, and we&#39;ll have plenty of mentors to help and guide you throughout the day. &lt;/p&gt;
 &lt;p&gt;&lt;b&gt;What do I need to bring?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;All you'll need is your own laptop (if you don't have one, just get in touch with us in advance and we'll do our best to sort you out), and it will help if nodejs is already installed.&lt;/p&gt;
-&lt;p&gt;We'll have tea, coffee, snacks and drinks available throughout the day, as well as pastries in the morning and burritos for lunch. Please get in touch if you have any special dietary requirements and we'll sort you out.&lt;/p&gt;
+&lt;p&gt;All you&#39;ll need is your own laptop (if you don&#39;t have one, just get in touch with us in advance and we&#39;ll do our best to sort you out), and it will help if nodejs is already installed.&lt;/p&gt;
+&lt;p&gt;We&#39;ll have tea, coffee, snacks and drinks available throughout the day, as well as pastries in the morning and burritos for lunch. Please get in touch if you have any special dietary requirements and we&#39;ll sort you out.&lt;/p&gt;
 </content>
  </entry>
  
@@ -635,7 +645,7 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
    <link href="http://jsoxford.com/2015/Testing-testing-and-testing/"/>
    <updated>2015-05-14T19:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/Testing-testing-and-testing</id>
-   <content type="html">&lt;p&gt;We've two amazing talks lined up for May that will get you all eager to test your JavaScript!&lt;/p&gt;
+   <content type="html">&lt;p&gt;We&#39;ve two amazing talks lined up for May that will get you all eager to test your JavaScript!&lt;/p&gt;
 &lt;p&gt;Come join us for some drinks/snacks, a chat and learn some stuff. &lt;/p&gt;
 &lt;p&gt;
 
@@ -644,7 +654,7 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
 &lt;p&gt;An introductory overview of JavaScript testing.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Ryan Brooks – The most convoluted JavaScript testing framework?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;Ryan wants to talk about an abomination he built to test JavaScript running on the Rhino JavaScript engine, and how an optimistic &quot;of course you can test that, it's just JavaScript&quot; led to a rabbit hole and lost sleep.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Ryan wants to talk about an abomination he built to test JavaScript running on the Rhino JavaScript engine, and how an optimistic &quot;of course you can test that, it&#39;s just JavaScript&quot; led to a rabbit hole and lost sleep.&lt;/p&gt;
 </content>
  </entry>
  
@@ -671,16 +681,16 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
    <updated>2015-04-11T09:30:00+00:00</updated>
    <id>http://jsoxford.com/2015/RTHack</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://photos3.meetupstatic.com/photos/event/9/f/e/9/600_435340937.jpeg&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;We're going to have a hack day centred around realtime web technologies.&lt;/p&gt;
+&lt;p&gt;We&#39;re going to have a hack day centred around realtime web technologies.&lt;/p&gt;
 &lt;p&gt;It will be a day long event - with tonnes of opportunity to learn about, and hack with, technologies such as &lt;a href=&quot;https://developer.mozilla.org/en/docs/WebSockets&quot;&gt;WebSockets&lt;/a&gt;, &lt;a href=&quot;http://www.html5rocks.com/en/tutorials/eventsource/basics/&quot;&gt;Server Sent Events&lt;/a&gt;, &lt;a href=&quot;http://www.webrtc.org/&quot;&gt;WebRTC&lt;/a&gt;, and more.&lt;/p&gt;
-&lt;p&gt;More details to come, but it's going to be &lt;b&gt;awesome&lt;/b&gt;. (There might even be some stickers!)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Space is limited&lt;/b&gt; - so you &lt;b&gt;must&lt;/b&gt; be signed up here to attend. (Also, only sign up if you're sure you can attend!)&lt;/p&gt;
+&lt;p&gt;More details to come, but it&#39;s going to be &lt;b&gt;awesome&lt;/b&gt;. (There might even be some stickers!)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Space is limited&lt;/b&gt; - so you &lt;b&gt;must&lt;/b&gt; be signed up here to attend. (Also, only sign up if you&#39;re sure you can attend!)&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Schedule&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;9.30 - &lt;/b&gt;start (pastries &amp;amp; coffee)&lt;br /&gt;&lt;b&gt;9.40 - &lt;/b&gt;hello, overview of data / tools&lt;br /&gt;&lt;b&gt;10.00 - &lt;/b&gt;project pitching / choosing&lt;br /&gt;&lt;b&gt;10.30 - &lt;/b&gt;kick off&lt;br /&gt;&lt;b&gt;12.45 - &lt;/b&gt;retrospectives&lt;br /&gt;&lt;b&gt;1.00 - &lt;/b&gt;lunch (🌟  &lt;a href=&quot;http://missionburrito.co.uk/&quot;&gt;burritos&lt;/a&gt; 🌟)&lt;br /&gt;&lt;b&gt;5.30 - &lt;/b&gt;show &amp;amp; tell&lt;br /&gt;&lt;b&gt;6.30 - &lt;/b&gt;recovery drinks at &lt;a href=&quot;http://joeperksandco.co.uk/&quot;&gt;Joe Perks&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;What to bring&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;It'll be good to have a laptop with node/io.js installed. Any other web-connected devices (phones/tablets/raspberryPis) might be fun too.&lt;/p&gt;
-&lt;p&gt;We'll provide you with some sample code to get you up and running with some realtime apis/libraries.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;If you have any particular ideas that you'd like to work on - have a think, and be ready to pitch it (max 60s); we'll be selecting a few ideas and working in teams throughout the day.&lt;/p&gt;
+&lt;p&gt;It&#39;ll be good to have a laptop with node/io.js installed. Any other web-connected devices (phones/tablets/raspberryPis) might be fun too.&lt;/p&gt;
+&lt;p&gt;We&#39;ll provide you with some sample code to get you up and running with some realtime apis/libraries.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;If you have any particular ideas that you&#39;d like to work on - have a think, and be ready to pitch it (max 60s); we&#39;ll be selecting a few ideas and working in teams throughout the day.&lt;/p&gt;
 </content>
  </entry>
  
@@ -689,8 +699,8 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
    <link href="http://jsoxford.com/2015/Trains-websites-and-things/"/>
    <updated>2015-03-11T19:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/Trains-websites-and-things</id>
-   <content type="html">&lt;p&gt;We've two great talks lined up for March; come on over, grab a drink/snack and learn some stuff.&lt;/p&gt;
-&lt;p&gt;We'll also have stickers(!!), pitches, and lots of lovely chats - hope to see you there!&lt;/p&gt;
+   <content type="html">&lt;p&gt;We&#39;ve two great talks lined up for March; come on over, grab a drink/snack and learn some stuff.&lt;/p&gt;
+&lt;p&gt;We&#39;ll also have stickers(!!), pitches, and lots of lovely chats - hope to see you there!&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Improving Web performance Using Grunt - &lt;a href=&quot;https://twitter.com/Marcus_Noble_&quot;&gt;Marcus Noble&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;In response to a previous talk by Andy Davies on performance I will walk through using &lt;a href=&quot;http://gruntjs.com/&quot;&gt;Grunt&lt;/a&gt; to improve the performance of the JS Oxford website to achieve below the target 1000 PageSpeed index. This talk will look at configuration-only approaches that can be applied without the need to change any markup.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Playing With Trains: A Look At Open Rail Data - &lt;a href=&quot;https://twitter.com/neverontarget&quot;&gt;Tom Lane&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
@@ -704,18 +714,18 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
    <link href="http://jsoxford.com/2015/Performance-performance-and-testing/"/>
    <updated>2015-01-22T19:00:00+00:00</updated>
    <id>http://jsoxford.com/2015/Performance-performance-and-testing</id>
-   <content type="html">&lt;p&gt;It's always a good time to care about performance, and the new year is a great opportunity to focus on building our apps responsibly.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;We're really excited to have Andy Davies coming to Oxford for this meetup. Andy is a web performance geek, in his day job he's Associate Director for Web Performance at NCC Group where he helps clients to measure and improve the performance of their sites. &lt;/p&gt;
-&lt;p&gt;He wrote the “The Pocket Guide to Web Performance” for Five Simple Steps and is a co-author of &quot;Using WebPageTest&quot; due to be published by O'Reilly in 2015.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;We've also got some Oxford locals, and Tom Nickson's talk on compiling C++ into JavaScript is particularly interesting. Tom's doing a DPhil in machine learning, and has been doing some awesome things with emscripten. &lt;/p&gt;
-&lt;p&gt;Also, if you've ever had to test something in a crazy way, you'll be able to relate to Ryan's talk on testing.&lt;/p&gt;
+   <content type="html">&lt;p&gt;It&#39;s always a good time to care about performance, and the new year is a great opportunity to focus on building our apps responsibly.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;We&#39;re really excited to have Andy Davies coming to Oxford for this meetup. Andy is a web performance geek, in his day job he&#39;s Associate Director for Web Performance at NCC Group where he helps clients to measure and improve the performance of their sites. &lt;/p&gt;
+&lt;p&gt;He wrote the “The Pocket Guide to Web Performance” for Five Simple Steps and is a co-author of &quot;Using WebPageTest&quot; due to be published by O&#39;Reilly in 2015.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;We&#39;ve also got some Oxford locals, and Tom Nickson&#39;s talk on compiling C++ into JavaScript is particularly interesting. Tom&#39;s doing a DPhil in machine learning, and has been doing some awesome things with emscripten. &lt;/p&gt;
+&lt;p&gt;Also, if you&#39;ve ever had to test something in a crazy way, you&#39;ll be able to relate to Ryan&#39;s talk on testing.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Andy Davies – Whoosh - Speed Matters!&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;Great user experiences lead to more effective sites that have increased levels of engagement and revenue. Performance is an essential part of good user experience but all to often it get's pushed down the list of priorities.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Great user experiences lead to more effective sites that have increased levels of engagement and revenue. Performance is an essential part of good user experience but all to often it get&#39;s pushed down the list of priorities.&lt;/p&gt;
 &lt;p&gt;In this talk Andy will explore why performance matters, how we can police performance and how the fundamentals of our medium influence the speed of our sites.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Tom Nickson – From C++ to JavaScript with Emscripten&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Description coming soon.  &lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Ryan Brooks – The most convoluted JavaScript testing framework?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Ryan wants to talk about an abomination he built to test JavaScript running on the Rhino JavaScript engine, and how an optimistic &quot;of course you can test that, it's just JavaScript&quot; led to a rabbit hole and lost sleep.&lt;/p&gt;
+&lt;p&gt;Ryan wants to talk about an abomination he built to test JavaScript running on the Rhino JavaScript engine, and how an optimistic &quot;of course you can test that, it&#39;s just JavaScript&quot; led to a rabbit hole and lost sleep.&lt;/p&gt;
 </content>
  </entry>
  
@@ -724,7 +734,7 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
    <link href="http://jsoxford.com/2014/AngularJS-and-React/"/>
    <updated>2014-11-27T19:00:00+00:00</updated>
    <id>http://jsoxford.com/2014/AngularJS-and-React</id>
-   <content type="html">&lt;p&gt;Thoughtful chats about &lt;a href=&quot;https://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; and &lt;a href=&quot;http://facebook.github.io/react/&quot;&gt;React&lt;/a&gt; from Oxford's finest.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Thoughtful chats about &lt;a href=&quot;https://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; and &lt;a href=&quot;http://facebook.github.io/react/&quot;&gt;React&lt;/a&gt; from Oxford&#39;s finest.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;AngularJS: a grunt roadmap from karma to protractor&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;a href=&quot;http://www.meetup.com/JSOxford/members/56333062/&quot;&gt;Julian&lt;/a&gt; will present a fundamental AngularJS archetype that provides a file layout, basic project example, dependency management for your app—&lt;a href=&quot;http://bower.io/&quot;&gt;bower&lt;/a&gt;—and for developing your app—npm—, unit—&lt;a href=&quot;http://karma-runner.github.io/0.12/index.html&quot;&gt;karma&lt;/a&gt;—and integration—&lt;a href=&quot;https://github.com/angular/protractor&quot;&gt;protractor&lt;/a&gt;—test configuration, basic grunt tasks, and a Continuous Integration script.&lt;/p&gt;
@@ -740,7 +750,7 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
  </entry>
  
  <entry>
-   <title>We've moved to meetup.com!</title>
+   <title>We&#39;ve moved to meetup.com!</title>
    <link href="http://jsoxford.com/2014/meetup/"/>
    <updated>2014-11-13T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2014/meetup</id>
@@ -759,7 +769,7 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
    <id>http://jsoxford.com/2014/summer-of-hacks</id>
    <content type="html">&lt;h1 id=&quot;join-us-for-a-series-of-hands-on-events-this-summer&quot;&gt;Join us for a series of hands-on events this summer&lt;/h1&gt;
 
-&lt;p class=&quot;lead&quot;&gt;We're taking a break from our evening meetups for the next few months.  Instead, we're going to hold hack days, where you can come along to learn, tinker, hack &amp;amp; hang out with like minded people.&lt;/p&gt;
+&lt;p class=&quot;lead&quot;&gt;We&#39;re taking a break from our evening meetups for the next few months.  Instead, we&#39;re going to hold hack days, where you can come along to learn, tinker, hack &amp;amp; hang out with like minded people.&lt;/p&gt;
 
 &lt;p&gt;We’ve got three events planned, you’ll get a lot from them whether you’re starting out, or an experienced JS developer.&lt;/p&gt;
 
@@ -1055,13 +1065,13 @@ In this talk, I will talk about naming things, telling you why is it hard to nam
       &lt;li&gt;&lt;a href=&quot;http://tddbin.com&quot;&gt;TDDBin&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;/p&gt;
-  &lt;p&gt;We're really excited about the possibility for variations of the code retreat theme, in particular:
+  &lt;p&gt;We&#39;re really excited about the possibility for variations of the code retreat theme, in particular:
   &lt;ul&gt;
       &lt;li&gt;Mixing up Python, Ruby &amp;amp; Javascript developers for a cultural exchange&lt;/li&gt;
-      &lt;li&gt;Focus on levelling-up JS: less focus on TDD, instead constrain the approach differently for each session to use 'the best bits' of JS&lt;/li&gt;
+      &lt;li&gt;Focus on levelling-up JS: less focus on TDD, instead constrain the approach differently for each session to use &#39;the best bits&#39; of JS&lt;/li&gt;
       &lt;li&gt;Focus on functional programming&lt;/li&gt;
   &lt;/ul&gt;
-  If you're excited too or have ideas for how we could make it better, let us know!
+  If you&#39;re excited too or have ideas for how we could make it better, let us know!
   &lt;/p&gt;
 &lt;/div&gt;
 
@@ -1133,7 +1143,7 @@ We also have a JetBrains WebStorm license to give away - we’ll pick a winner f
    <id>http://jsoxford.com/2014/march</id>
    <content type="html">&lt;h3 id=&quot;and-were-back-hellipon-a-tuesday&quot;&gt;And we’re back! …on a TUESDAY!?!&lt;/h3&gt;
 
-&lt;p class=&quot;lead&quot;&gt;This month we're talking about getting our code running in the real world. Come along to find out how to deploy apps with &lt;a href=&quot;http://www.heroku.com/&quot;&gt;heroku&lt;/a&gt; and how continuous deployment can help you build software faster and with less stress.&lt;/p&gt;
+&lt;p class=&quot;lead&quot;&gt;This month we&#39;re talking about getting our code running in the real world. Come along to find out how to deploy apps with &lt;a href=&quot;http://www.heroku.com/&quot;&gt;heroku&lt;/a&gt; and how continuous deployment can help you build software faster and with less stress.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1168,8 +1178,8 @@ May well be a codetastrophe, heckling encouraged!&lt;/p&gt;
     &lt;h2&gt;Bring yOur Own hYperlink Along&lt;/h2&gt;
     &lt;h3&gt;with Everyone!&lt;/h3&gt;
     &lt;blockquote&gt;
-        &lt;p&gt;This worked pretty well last time, so we'll do it again!&lt;/p&gt;
-        &lt;p&gt;We all bring a link to js-based project/post/anything that you find interesting and we'll have a quick chat about it.&lt;/p&gt;
+        &lt;p&gt;This worked pretty well last time, so we&#39;ll do it again!&lt;/p&gt;
+        &lt;p&gt;We all bring a link to js-based project/post/anything that you find interesting and we&#39;ll have a quick chat about it.&lt;/p&gt;
     &lt;/blockquote&gt;
 &lt;/div&gt;
 
@@ -1190,7 +1200,7 @@ May well be a codetastrophe, heckling encouraged!&lt;/p&gt;
    <link href="http://jsoxford.com/2013/december/"/>
    <updated>2013-12-12T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2013/december</id>
-   <content type="html">&lt;p class=&quot;lead&quot;&gt;Join us for the last meetup of 2013 where we'll be talking about using streams in node and chattting about some new JS Projects&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;Join us for the last meetup of 2013 where we&#39;ll be talking about using streams in node and chattting about some new JS Projects&lt;/p&gt;
 
 &lt;h2 id=&quot;indestructible-twitter-streams-with-node&quot;&gt;Indestructible twitter streams with node&lt;/h2&gt;
 
@@ -1261,7 +1271,7 @@ May well be a codetastrophe, heckling encouraged!&lt;/p&gt;
    <link href="http://jsoxford.com/2013/october/"/>
    <updated>2013-10-17T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2013/october</id>
-   <content type="html">&lt;p class=&quot;lead&quot;&gt;For the night before &lt;a href=&quot;http://allyourbaseconf.com&quot;&gt;All Your Base&lt;/a&gt; we're teaming up with &lt;a href=&quot;https://twitter.com/intent/user?screen_name=oxfordpython&quot;&gt;Oxford&amp;nbsp;Python&lt;/a&gt; for a data-based&lt;sup&gt;&lt;abbr title=&quot;pun intended&quot;&gt;*&lt;/abbr&gt;&lt;/sup&gt; super-mega-meetup&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;For the night before &lt;a href=&quot;http://allyourbaseconf.com&quot;&gt;All Your Base&lt;/a&gt; we&#39;re teaming up with &lt;a href=&quot;https://twitter.com/intent/user?screen_name=oxfordpython&quot;&gt;Oxford&amp;nbsp;Python&lt;/a&gt; for a data-based&lt;sup&gt;&lt;abbr title=&quot;pun intended&quot;&gt;*&lt;/abbr&gt;&lt;/sup&gt; super-mega-meetup&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Please note - this event &lt;em&gt;won’t&lt;/em&gt; be at our usual venue, but at &lt;a href=&quot;http://lanyrd.com/venues/oxford/vchz/&quot;&gt;Oxford University IT Services&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -1331,7 +1341,7 @@ This talk will discuss the technical aspects of developing a generic HTTP API fo
    <link href="http://jsoxford.com/2013/august/"/>
    <updated>2013-08-21T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2013/august</id>
-   <content type="html">&lt;p class=&quot;lead&quot;&gt;&amp;hellip;And we're back!&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;&amp;hellip;And we&#39;re back!&lt;/p&gt;
 
 &lt;p&gt;It’s been a long summer break,  though we’ve got a nice range of talks for a welcome back JSOxford&lt;/p&gt;
 
@@ -1382,7 +1392,7 @@ Experiences on the web don’t have to be constrained to a single browser window
    <link href="http://jsoxford.com/2013/hack-day/"/>
    <updated>2013-04-20T00:00:00+00:00</updated>
    <id>http://jsoxford.com/2013/hack-day</id>
-   <content type="html">&lt;p class=&quot;lead&quot;&gt;We're organising a hack day as a fringe event around the &lt;a href=&quot;http://events.jquery.org/2013/uk&quot;&gt;jQuery UK&lt;/a&gt; conference.  We'll be driving RC cars around with a node.js library.&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;We&#39;re organising a hack day as a fringe event around the &lt;a href=&quot;http://events.jquery.org/2013/uk&quot;&gt;jQuery UK&lt;/a&gt; conference.  We&#39;ll be driving RC cars around with a node.js library.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/dension.jpg&quot; alt=&quot;dension wirc car&quot; /&gt;&lt;/p&gt;
 
