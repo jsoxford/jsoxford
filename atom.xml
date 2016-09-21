@@ -4,12 +4,31 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2016-09-20T16:08:24+00:00</updated>
+ <updated>2016-09-21T16:08:43+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
  </author>
 
+ 
+ <entry>
+   <title>(August + October) / 2</title>
+   <link href="http://jsoxford.com/2016/August-October-2/"/>
+   <updated>2016-09-28T19:00:00+00:00</updated>
+   <id>http://jsoxford.com/2016/August-October-2</id>
+   <content type="html">&lt;p&gt;We&#39;re possibly a month early, though more probably a month late; either way we&#39;re going to get together and talk it all through.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;We&#39;ll be having an evening of talks &amp;amp; chats in the Story Museum; this month we&#39;re really lucky to have &lt;a href=&quot;https://twitter.com/choult&quot;&gt;Chris Hoult&lt;/a&gt; joining us to talk about Ethical Engineering (a really interesting topic). We&#39;re also looking for a second talk, so if there&#39;s something you&#39;d like to talk about - please get in touch.&lt;/p&gt;
+&lt;p&gt;Come along to learn some stuff, talk to friendly people and have a drink or two. (Big thanks to &lt;a href=&quot;https://haybrook.co.uk/&quot;&gt;HaybrookIT&lt;/a&gt; for sponsoring the venue hire and refreshments.)&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;If you&#39;ve been along to any of the summer of hacks events - this is a great opportunity to come back and catch up with the people you met.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Talk 1 – TBC&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;If you&#39;re interested in giving a talk, get in touch&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show &amp;amp; Tell – Everyone&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This month we&#39;re going to have a show and tell session. You&#39;ll have a couple of minutes to tell us about something that you&#39;ve built or seen and think others would be interested in.&lt;/p&gt;
+&lt;p&gt;If you&#39;re interested in showing something - put your details on &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScRPIHykIElMWTIiTALtKnKaJ3SxBA-Zb7Ld3ubkVOM5c0m6g/viewform&quot;&gt;this form&lt;/a&gt;.  &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Ethical Engineering – &lt;a href=&quot;https://twitter.com/choult&quot;&gt;Chris Hoult&lt;/a&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Our increasingly connected world, along with the promises of Big Data and Cloud Computing, offers us multitudes of opportunities to model the world and build powerful technology to improve not only the companies we work for but the lives of many. Yet far too often we, as engineers, focus on providing a solution to the problem at hand and overlook the problems that the solution itself might cause. In this talk, Christopher examines some of the issues our world throws up, and asks what it takes to engineer ethically.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Summer of Hacks #4: Hardware</title>
@@ -633,7 +652,7 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
    <content type="html">&lt;p&gt;NodeSchool is a community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way. There are workshops available for every skill level from JS beginners all the way to experienced node programmers.&lt;/p&gt;
 &lt;p&gt;This event is part of International NodeSchool Day, so we&#39;ll be getting in touch with other NodeSchoolers around the world during the day.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Who should come?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Everyone! There are &lt;a href=&quot;http://nodeschool.io/#workshopper-list&quot;&gt;workshops&lt;/a&gt; for different abilities, and we&#39;ll have plenty of mentors to help and guide you throughout the day. &lt;/p&gt;
+&lt;p&gt;Everyone! There are &lt;a href=&quot;http://nodeschool.io/#workshopper-list&quot;&gt;workshops&lt;/a&gt;��for different abilities, and we&#39;ll have plenty of mentors to help and guide you throughout the day. &lt;/p&gt;
 &lt;p&gt;&lt;b&gt;What do I need to bring?&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;All you&#39;ll need is your own laptop (if you don&#39;t have one, just get in touch with us in advance and we&#39;ll do our best to sort you out), and it will help if nodejs is already installed.&lt;/p&gt;
 &lt;p&gt;We&#39;ll have tea, coffee, snacks and drinks available throughout the day, as well as pastries in the morning and burritos for lunch. Please get in touch if you have any special dietary requirements and we&#39;ll sort you out.&lt;/p&gt;
