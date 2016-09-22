@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2016-09-21T16:08:43+00:00</updated>
+ <updated>2016-09-22T16:08:15+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -652,7 +652,7 @@ Early finishers eased out of hardware assembly and hit the whiteboards to sketch
    <content type="html">&lt;p&gt;NodeSchool is a community driven, open source educational project that teaches JavaScript and node.js skills in an interactive, self-guided way. There are workshops available for every skill level from JS beginners all the way to experienced node programmers.&lt;/p&gt;
 &lt;p&gt;This event is part of International NodeSchool Day, so we&#39;ll be getting in touch with other NodeSchoolers around the world during the day.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Who should come?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Everyone! There are &lt;a href=&quot;http://nodeschool.io/#workshopper-list&quot;&gt;workshops&lt;/a&gt;��for different abilities, and we&#39;ll have plenty of mentors to help and guide you throughout the day. &lt;/p&gt;
+&lt;p&gt;Everyone! There are &lt;a href=&quot;http://nodeschool.io/#workshopper-list&quot;&gt;workshops&lt;/a&gt; for different abilities, and we&#39;ll have plenty of mentors to help and guide you throughout the day. &lt;/p&gt;
 &lt;p&gt;&lt;b&gt;What do I need to bring?&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;All you&#39;ll need is your own laptop (if you don&#39;t have one, just get in touch with us in advance and we&#39;ll do our best to sort you out), and it will help if nodejs is already installed.&lt;/p&gt;
 &lt;p&gt;We&#39;ll have tea, coffee, snacks and drinks available throughout the day, as well as pastries in the morning and burritos for lunch. Please get in touch if you have any special dietary requirements and we&#39;ll sort you out.&lt;/p&gt;
