@@ -95,10 +95,7 @@
   // Emoji titles
   $('.post-title a').each(function (i, e) {
     var element = $(e);
-    var oldValue = element.html();
-    var newValue = emojione.shortnameToUnicode(element.html());
-    console.log(oldValue + " -> " + newValue);
-    element.html(newValue);
+    element.html(emojione.shortnameToUnicode(element.html()));
   })
 
   function formatDate(date) {
