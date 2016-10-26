@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2016-10-25T16:07:38+00:00</updated>
+ <updated>2016-10-26T16:08:24+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -291,10 +291,10 @@
  </entry>
  
  <entry>
-   <title>:snowman: ����Winter Drinkup:christmas_tree: :snowman: </title>
-   <link href="http://jsoxford.com/2015/snowman-replacement-characterreplacement-characterreplacement-characterreplacement-characterWinter-Drinkupchristmas_tree-snowman/"/>
+   <title>:snowman: :christmas_tree: Winter Drinkup:christmas_tree: :snowman: </title>
+   <link href="http://jsoxford.com/2015/snowman-christmas_tree-Winter-Drinkupchristmas_tree-snowman/"/>
    <updated>2015-12-08T19:00:00+00:00</updated>
-   <id>http://jsoxford.com/2015/snowman-replacement-characterreplacement-characterreplacement-characterreplacement-characterWinter-Drinkupchristmas_tree-snowman</id>
+   <id>http://jsoxford.com/2015/snowman-christmas_tree-Winter-Drinkupchristmas_tree-snowman</id>
    <content type="html">&lt;p&gt;December is a busy month for everyone, so instead of talks, join us at St Aldates Tavern for drinking and/or festive, nerdy conversation.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;We&#39;ve heard rumours of Espruino powered LED christmas jumpers, the 24 PRs of Christmas and an unhealthy amount of Emoji.&lt;/p&gt;
 &lt;p&gt;Find us in the main pub area, taking up as much space as possible!&lt;/p&gt;
