@@ -4,7 +4,7 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2016-11-13T16:07:35+00:00</updated>
+ <updated>2016-11-14T16:09:23+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
@@ -12,11 +12,19 @@
 
  
  <entry>
-   <title>Max&#39;s Birthday Meetup (featuring VR and React)</title>
-   <link href="http://jsoxford.com/2016/Maxs-Birthday-Meetup-featuring-VR-and-React/"/>
-   <updated>2016-11-23T19:00:00+00:00</updated>
-   <id>http://jsoxford.com/2016/Maxs-Birthday-Meetup-featuring-VR-and-React</id>
-   <content type="html">&lt;p&gt;&lt;b&gt;Cardboctober: Making VR experiences for Google Cardboard with JavaScript daily in October – &lt;a href=&quot;https://twitter.com/omgmog&quot;&gt;Max Glenister&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+   <title>VR, React &amp; Not Christmas</title>
+   <link href="http://jsoxford.com/2016/VR-React-and-Not-Christmas/"/>
+   <updated>2016-11-30T19:00:00+00:00</updated>
+   <id>http://jsoxford.com/2016/VR-React-and-Not-Christmas</id>
+   <content type="html">&lt;p&gt;Some people might be telling you that Christmas is just round the corner… Though &lt;i&gt;actually&lt;/i&gt;, it&#39;s &lt;b&gt;miles&lt;/b&gt; off - you&#39;ve got &lt;i&gt;ages&lt;/i&gt; to buy presents. And decorations, christmas trees, etc; sometimes it&#39;s good to &lt;a href=&quot;https://s-media-cache-ak0.pinimg.com/736x/43/e5/c8/43e5c84bc6f6f62cc6eea68c7d86ed97.jpg&quot;&gt;wait&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;What you &lt;i&gt;should&lt;/i&gt; be getting excited about is &lt;b&gt;JavaScript&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;This month we&#39;ve got a couple of wonderful talks: Max will be telling us about VR hacks with Google Cardboard, and Roger will be explaining how they use React in Zegami (Roger showed a demo of Zegami at our summer Show &amp;amp; Tell - it&#39;s fantastic).&lt;/p&gt;
+&lt;p&gt;We&#39;ll also be talking about our 2017 events - so if you&#39;re interested in knowing what&#39;s next for JSOxford and how to get involved, you should totally come and chat about it.&lt;/p&gt;
+&lt;p&gt;(there &lt;i&gt;may&lt;/i&gt; be mince pies and mulled wine.)&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt;Cardboctober: Making VR experiences for Google Cardboard with JavaScript daily in October – &lt;a href=&quot;https://twitter.com/omgmog&quot;&gt;Max Glenister&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;In October Ben, Pete and Max built something every day for Google Cardboard using Javascript.&lt;/p&gt;
 &lt;p&gt;In this talk Max will talk about how he planned and executed a month of hacks, what worked (and what didn&#39;t!) and what he got out of the challenge.&lt;/p&gt;
 &lt;p&gt;
