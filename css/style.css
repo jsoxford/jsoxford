@@ -3593,23 +3593,30 @@
   height: 30px;
 }
 
-.icon-thumb_96272422 {
+.icon-thumb_93073902 {
   background-image: url(../img/memberssprites.png);
   background-position: -210px -660px;
   width: 30px;
   height: 30px;
 }
 
-.icon-thumb_97988442 {
+.icon-thumb_96272422 {
   background-image: url(../img/memberssprites.png);
   background-position: -240px -660px;
   width: 30px;
   height: 30px;
 }
 
-.icon-thumb_99695582 {
+.icon-thumb_97988442 {
   background-image: url(../img/memberssprites.png);
   background-position: -270px -660px;
+  width: 30px;
+  height: 30px;
+}
+
+.icon-thumb_99695582 {
+  background-image: url(../img/memberssprites.png);
+  background-position: -300px -660px;
   width: 30px;
   height: 30px;
 }
