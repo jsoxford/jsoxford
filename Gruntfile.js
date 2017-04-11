@@ -185,7 +185,7 @@ module.exports = function(grunt) {
             var filename = 'members' + memberPhoto.substring(memberPhoto.lastIndexOf('/'));
             var file = fs.createWriteStream(filename);
             var imageBytes;
-            http.get(memberPhoto, function(response) {
+            https.get(memberPhoto, function(response) {
               var ext = 'jpg';
 
               // Meetup.com sends all images with .jpeg extension but the file type could be anything. Lets fix that!
