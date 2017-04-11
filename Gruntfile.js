@@ -145,7 +145,6 @@ module.exports = function(grunt) {
     var total = 0;
     var membersQuery = 'https://api.meetup.com/2/members?offset=0&format=json&group_id=17778422&only=photo%2Cname%2Clink&photo-host=secure&page=200&order=name&sig_id=153356042&sig=4d8e3265b4374b84aabb8efcc26eb8107a3ec81b';
     var https = require('https');
-    var http = require('http');
     var fs = require('fs');
     var imageType = require('image-type');
     var lwip = require('lwip');
