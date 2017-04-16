@@ -92,6 +92,12 @@
     },
   });
 
+  // Emoji titles
+  $('.post-title a').each(function (i, e) {
+    var element = $(e);
+    element.html(emojione.shortnameToUnicode(element.html()));
+  })
+
   function formatDate(date) {
     var dateString = '';
     dateString += date.getFullYear() + '-';
