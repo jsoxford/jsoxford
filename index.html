@@ -15,7 +15,7 @@ layout: default
                         {% if post.source != null && post.source == 'meetup' %}
                             <a href="{{ post.externalURL }}" title="View on Meetup.com"><img src="/img/meetup.png" alt="Meetup" class="meetupIcon" /></a>
                         {% endif %}
-                        <a href="{{ post.url }}" class="title">{{post.title}}</a>
+                        <a href="{{ post.url }}" class="title gemojify">{{post.title}}</a>
                         {% if post.lanyrd != null %}
                             <small>
                                 <a href="http://lanyrd.com/{{post.lanyrd}}" class="icon-lanyrd"></a>
@@ -77,7 +77,7 @@ layout: default
                             {% if post.source != null && post.source == 'meetup' %}
                                 <a href="{{ post.externalURL }}"><img src="/img/meetup.png" alt="Meetup" /></a>
                             {% endif %}
-                            <a href="{{ post.url }}">{{post.title}}</a>
+                            <a href="{{ post.url }}" class="gemojify">{{post.title}}</a>
                             {% if post.lanyrd != null %}
                                 <small>
                                     <a href="http://lanyrd.com/{{post.lanyrd}}" class="icon-lanyrd"></a>

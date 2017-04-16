@@ -1,0 +1,14 @@
+{
+  "name": "gemojify",
+  "homepage": "https://github.com/danielthepope/gemojify",
+  "_release": "505ffef86a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "505ffef86a0034b14b6a27197908dfba1b04d1f3"
+  },
+  "_source": "git://github.com/danielthepope/gemojify.git",
+  "_target": "master",
+  "_originalSource": "danielthepope/gemojify",
+  "_direct": true
+}

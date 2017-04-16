@@ -8,7 +8,7 @@ layout: default
             {% if page.source != null && page.source == 'meetup' %}
                 <a href="{{ page.externalURL }}" title="View on Meetup.com"><img src="/img/meetup.png" alt="Meetup" class="meetupIcon" /></a>
             {% endif %}
-            <a href="{{ page.url }}" class="title">{{page.title}}</a>
+            <a href="{{ page.url }}" class="title gemojify">{{page.title}}</a>
             {% if page.lanyrd != null %}
                 <small>
                     <a href="http://lanyrd.com/{{page.lanyrd}}" class="icon-lanyrd"></a>
