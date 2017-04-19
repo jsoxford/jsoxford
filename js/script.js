@@ -149,6 +149,9 @@
     var link = $('<a/>');
     var meetupImage = $('<img/>').attr('src', '/img/meetup.png').attr('alt', 'Meetup');
     var headingTitle = $('<div/>');
+    
+    // This is to stop one dodgy meetup event breaking everything
+    var eventDescription = event.description.replace('&lt;/a&gt;<p>&lt;a href="http://nodeschool.io/"&gt;', '');
 
     post.addClass('post');
     post.data('date', eventDate.getFullYear() + '-' + (eventDate.getMonth() < 9 ? '0' : '') + (eventDate.getMonth() + 1) + '-' + eventDate.getDate());
@@ -161,7 +164,7 @@
     heading.append(headingTitle);
     heading.append(buildPostInfo(event, isUpcoming));
     post.append(heading);
-    post.append(event.description);
+    post.append(eventDescription);
 
     return post;
   }
