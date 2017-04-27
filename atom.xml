@@ -4,12 +4,37 @@
  <title>JS Oxford</title>
  <link href="http://jsoxford.com/atom.xml" rel="self"/>
  <link href="http://jsoxford.com/"/>
- <updated>2017-04-26T17:33:36+00:00</updated>
+ <updated>2017-04-27T17:33:24+00:00</updated>
  <id>http://jsoxford.com/</id>
  <author>
    <name>JS Oxford</name>
  </author>
 
+ 
+ <entry>
+   <title>In a web far far away</title>
+   <link href="http://jsoxford.com/2017/In-a-web-far-far-away/"/>
+   <updated>2017-05-03T18:30:00+00:00</updated>
+   <id>http://jsoxford.com/2017/In-a-web-far-far-away</id>
+   <content type="html">&lt;p&gt;It&#39;s a time of uncertainty. Unrest grips the community as people struggle to use all the new shiny browser features while improving performance, but a heroic duo has surfaced to help the resistance rise up.&lt;/p&gt;
+&lt;p&gt;As they struggle against the dark might of old browsers and low end devices, these brave heroes may yet awaken the skill and strength needed to forge a new future...&lt;/p&gt;
+&lt;p&gt;…Come along to the &lt;b&gt;Story Museum&lt;/b&gt; on the &lt;b&gt;3rd of May&lt;/b&gt; (yes, next week) to hear some great talks, meet some lovely people, and have a super time. &lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;b&gt;The five stages of JavaScript performance grief&lt;/b&gt; - &lt;a href=&quot;https://twitter.com/simonhearne&quot;&gt;Simon Hearne&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We use JavaScript for everything, but how well do we understand how it performs? There are benchmarks out there for different frameworks, JS engines and libraries that give us an idea. But it becomes much harder to measure performance once we start writing our own code, extending libraries and delivering code to real people.&lt;/p&gt;
+&lt;p&gt;We often forget that real people have to use our apps. It’s also easy to forget that we are not real people, and that performance benchmarks aren’t run by real people and that real people don’t all have £800 smartphones to run our apps on.&lt;br /&gt;Let’s have a look at the effect that JS has on user experiences, why it is such a critical issue, and some quick wins to improve the experience for those weird real people.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Community session: Show and Tell - Everyone!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We want to hear about all your amazing hacks, projects and tools. It doesn&#39;t need to be pure-JS, we want to know about that thing you&#39;re hacking on or thinking about. It doesn&#39;t even need to be something you&#39;ve worked on, if you&#39;ve come across something that you think would be cool to share thats totally allowed too!&lt;/p&gt;
+&lt;p&gt;Please sign up on this google form: &lt;a href=&quot;https://goo.gl/forms/tj79TyMpZHjWdQK72&quot;&gt;goo.gl/forms/tj79TyMpZHjWdQK72&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Browser Strikes Back!: The Future Of The Web, Episode 2 - &lt;a href=&quot;https://twitter.com/poshaughnessy&quot;&gt;Peter O&#39;Shaughnessy&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;With the rise of progressive web apps and the latest APIs, web browsers are more capable than ever. So much so, that the word “browser” doesn’t really fit anymore. The web is moving beyond tabs and even beyond our screens. It&#39;s now capable of connecting us to the real world around us and transforming us into virtual reality creators.&lt;/p&gt;
+&lt;p&gt;Back in 2015, I gave a talk predicting what web development might be like in 2020. Now we&#39;re (roughly) half-way there, it&#39;s time to check in and see what I got right so far, and the big things I missed! As Tim Urban (of &#39;Wait But Why&#39; fame) says, often the best way to wrap your head around something is to zoom right in and zoom right out. This talk will zoom in on the state of the web today in 2017 - including highlighting our common misconceptions about browsers. And zoom out to see where we&#39;ve come from - and where we&#39;re heading...&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>The Oxford Mega Super Meetup Meetup</title>
