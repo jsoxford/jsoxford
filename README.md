@@ -1,4 +1,4 @@
-jsoxford.github.com
+JSOxford
 ===================
 
 [![Slack Status](https://digitaloxford.herokuapp.com/badge.svg)](https://digitaloxford.herokuapp.com) [![Build Status](https://travis-ci.org/jsoxford/website.svg?branch=master)](https://travis-ci.org/jsoxford/website)
