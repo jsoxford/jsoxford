@@ -36,7 +36,7 @@ We would like to film all the talks held at JSOxford however we understand this 
 If you don’t mind us recording you we'll be recording you - the speaker and screen output so that any live coding stuff will be fine.
 
 
-The doors officially open at 19.00 with the talks starting at 19.20. Talks are usually all finished between 21.00 - 21.15, but people usually head to a local pub afterward. We'll be around from 18.30 if you need more time to set up.
+The doors officially open at 6:45 with the talks starting at 7:20. Talks are usually all finished between 9:15, but people usually head to a local pub afterward. We'll be around from 18.30 if you need more time to set up.
 
 I hope you find this helpful and please let me know if you have any questions. We look forward to seeing you on the 17th.
 
