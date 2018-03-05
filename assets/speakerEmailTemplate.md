@@ -1,9 +1,9 @@
 Hello {name},
 
-Thank you for agreeing to speak at JS Oxford! We are very much looking forward to you speaking on the {date}. I have collected some information for you about the venue and technical things. 
+Thank you for agreeing to speak at JSOxford! We are very much looking forward to you speaking on the {date}. I have collected some information for you about the venue and technical things. 
 
 Venue
-We will be holding JS Oxford at The Story Museum.
+We will be holding JSOxford at The Story Museum.
 https://www.google.co.uk/maps?q=the+story+museum&biw=1280&bih=647&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiMo6_nx63YAhWKI8AKHQxCBjsQ_AUICigB
 
 How to get there
