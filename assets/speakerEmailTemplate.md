@@ -16,7 +16,6 @@ From the bus station
 https://www.google.co.uk/maps/dir/Oxford+(Bus+Station),+Oxford/The+Story+Museum,+Rochester+House,+42+Pembroke+St,+Oxford+OX1+1BP/@51.7522993,-1.2618879,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4876c6a4434a3237:0xe8855286b4e428a!2m2!1d-1.262528!2d51.753797!1m5!1m1!1s0x4876c6afffdb9abf:0x37007a572c93207d!2m2!1d-1.257986!2d51.750698!3e2
 
 From a few car parks
-
 Westgate Carpark
 https://www.google.co.uk/maps/dir/Westgate+Car+Park,+Norfolk+St,+City+Centre,+Oxford+OX1+1NT/The+Story+Museum,+Rochester+House,+42+Pembroke+St,+Oxford+OX1+1BP/@51.7507336,-1.2611432,18z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x4876c6a52b9ce255:0x2853216510e1571e!2m2!1d-1.2614455!2d51.7497721!1m5!1m1!1s0x4876c6afffdb9abf:0x37007a572c93207d!2m2!1d-1.257986!2d51.750698
 
@@ -34,6 +33,7 @@ There is also internet at the venue however it is not that reliable.
 Filming
 We would like to film all the talks held at JSOxford however we understand this is not always possible. Please do let us know if you would not like your talk to be filmed. 
 If you don’t mind us recording you we'll be recording you - the speaker and screen output so that any live coding stuff will be fine.
+We will release the videos under a creative commons license so you will be free to use the recordings produced for any purpose you wish.
 
 
 The doors officially open at 6:45 with the talks starting at 7:20. Talks are usually all finished between 9:15, but people usually head to a local pub afterward. We'll be around from 18.30 if you need more time to set up.
