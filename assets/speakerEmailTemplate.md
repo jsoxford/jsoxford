@@ -36,8 +36,11 @@ We will release the videos under a creative commons license so you will be free 
 
 ---
 
+Up-to-date information can be found on our website: https://jsoxford.com/
 
-I hope you find this helpful and please let me know if you have any questions. We look forward to seeing you on the **{DATE}**.
+I hope you find this helpful and please let us know if you have any questions. You can email us on organisers@jsoxford.com or contact us on Twitter: https://twitter.com/JSOxford (DMs open)
+
+We look forward to seeing you on the **{DATE}**.
 
 Thank you,
 
